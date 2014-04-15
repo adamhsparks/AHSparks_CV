@@ -1,5 +1,5 @@
 # About
-Adam H. Sparks' curriculum vitae, based on Adrien Friggeri's template.
+Adam H. Sparks' curriculum vitae, based on [Adrien Friggeri's](https://github.com/afriggeri/CV) template.
 
 
 # License
