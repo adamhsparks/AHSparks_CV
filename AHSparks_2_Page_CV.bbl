@@ -1,0 +1,1218 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \sortlist{entry}{chronological}
+    \entry{Sparks2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Climate change may have little effect on global risk of potato late blight}
+      \field{journaltitle}{Global Change Biology}
+      \field{title}{Climate change may have little effect on global risk of potato late blight}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1111/gcb.12587
+      \endverb
+    \endentry
+    \entry{Barnwal2013}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{fullhash}{14cfc3c39be32a180cfd610fc6266e62}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{issn}{0929-1873}
+      \field{journaltitle}{European Journal of Plant Pathology}
+      \field{number}{3}
+      \field{title}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{volume}{136}
+      \field{year}{2013}
+      \field{pages}{443\bibrangedash 457}
+      \verb{doi}
+      \verb 10.1007/s10658-013-0195-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10658-013-0195-6
+      \endverb
+    \endentry
+    \entry{Gaudin2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Taking transgenic rice drought screening to the field.}}
+      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
+      \field{issn}{1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{2}
+      \field{title}{{Taking transgenic rice drought screening to the field.}}
+      \field{volume}{63}
+      \field{year}{2012}
+      \field{pages}{695\bibrangedash 709}
+      \verb{doi}
+      \verb 10.1093/jxb/ers313
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
+      \endverb
+    \endentry
+    \entry{Mckinley2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \field{sortinit}{2}
+      \field{labeltitle}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{journaltitle}{The Philippine Agricultural Scientist}
+      \field{number}{3}
+      \field{title}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{286\bibrangedash 292}
+      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
+    \endentry
+    \entry{Garrett2011}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{issn}{00320862}
+      \field{journaltitle}{Plant Pathology}
+      \field{number}{1}
+      \field{title}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{volume}{60}
+      \field{year}{2011}
+      \field{pages}{15\bibrangedash 30}
+      \verb{doi}
+      \verb 10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \strng{fullhash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \field{sortinit}{2}
+      \field{labeltitle}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{48}
+      \field{title}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 40}
+    \endentry
+    \entry{Sparks2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{issn}{2150-8925}
+      \field{journaltitle}{Ecosphere}
+      \field{number}{8}
+      \field{title}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{pages}{art90}
+      \verb{doi}
+      \verb 10.1890/ES11-00128.1
+      \endverb
+      \verb{url}
+      \verb http://www.esajournals.org/doi/abs/10.1890/ES11-00128.1
+      \endverb
+      \keyw{accepted 20 may 2011,climate change scenario analysis,collinge,corresponding editor,data aggregation,ecoinformatics,ecological scaling,final version received 27,july 2011,metamodels,phytophthora infestans,plant disease,process-based models,published 18 august 2011,received 4 may 2011,s,solanum tuberosum}
+    \endentry
+    \entry{Cheatham2009}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ca052aed7af9433ed2387be4f822787d}
+      \strng{fullhash}{ca052aed7af9433ed2387be4f822787d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{abstract}{The ecosystem services concept provides a means to define successful disease management more broadly, beyond short-term crop yield evaluations. Plant disease can affect ecosystem services directly, such as through removal of plants providing services, or indirectly through the effects of disease management activities, including pesticide applications, tillage, and other methods of plant removal. Increased plant biodiversity may reduce disease risk if susceptible host tissue becomes less common, or may increase risk if additional plant species are important in completing pathogen life cycles. Arthropod and microbial biodiversity may play similar roles. Distant ecosystems may provide a disservice as the setting for the evolution of pathogens that later invade a focal ecosystem, where plants have not evolved defenses. Conversely, distant ecosystems may provide a service as sources of genetic resources of great value to agriculture, including disease resistance genes. Good policies are needed to support conservation and optimal use of genetic resources, protect ecosystems from exotic pathogens, and limit the homogeneity of agricultural systems. Research is needed to provide policy makers, farmers, and consumers with the information required for evaluating trade-offs in the pursuit of the full range of ecosystem services desired from managed and native ecosystems.}
+      \field{issn}{0031-949X}
+      \field{journaltitle}{Phytopathology}
+      \field{number}{11}
+      \field{title}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{volume}{99}
+      \field{year}{2009}
+      \field{pages}{1228\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1094/PHYTO-99-11-1228
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
+      \endverb
+      \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Sparks2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Climate change may have little effect on global risk of potato late blight}
+      \field{journaltitle}{Global Change Biology}
+      \field{title}{Climate change may have little effect on global risk of potato late blight}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1111/gcb.12587
+      \endverb
+    \endentry
+    \entry{Barnwal2013}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{fullhash}{14cfc3c39be32a180cfd610fc6266e62}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{issn}{0929-1873}
+      \field{journaltitle}{European Journal of Plant Pathology}
+      \field{number}{3}
+      \field{title}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{volume}{136}
+      \field{year}{2013}
+      \field{pages}{443\bibrangedash 457}
+      \verb{doi}
+      \verb 10.1007/s10658-013-0195-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10658-013-0195-6
+      \endverb
+    \endentry
+    \entry{Gaudin2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Taking transgenic rice drought screening to the field.}}
+      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
+      \field{issn}{1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{2}
+      \field{title}{{Taking transgenic rice drought screening to the field.}}
+      \field{volume}{63}
+      \field{year}{2012}
+      \field{pages}{695\bibrangedash 709}
+      \verb{doi}
+      \verb 10.1093/jxb/ers313
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
+      \endverb
+    \endentry
+    \entry{Mckinley2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \field{sortinit}{2}
+      \field{labeltitle}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{journaltitle}{The Philippine Agricultural Scientist}
+      \field{number}{3}
+      \field{title}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{286\bibrangedash 292}
+      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
+    \endentry
+    \entry{Garrett2011}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{issn}{00320862}
+      \field{journaltitle}{Plant Pathology}
+      \field{number}{1}
+      \field{title}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{volume}{60}
+      \field{year}{2011}
+      \field{pages}{15\bibrangedash 30}
+      \verb{doi}
+      \verb 10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \strng{fullhash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \field{sortinit}{2}
+      \field{labeltitle}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{48}
+      \field{title}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 40}
+    \endentry
+    \entry{Sparks2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{issn}{2150-8925}
+      \field{journaltitle}{Ecosphere}
+      \field{number}{8}
+      \field{title}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{pages}{art90}
+      \verb{doi}
+      \verb 10.1890/ES11-00128.1
+      \endverb
+      \verb{url}
+      \verb http://www.esajournals.org/doi/abs/10.1890/ES11-00128.1
+      \endverb
+      \keyw{accepted 20 may 2011,climate change scenario analysis,collinge,corresponding editor,data aggregation,ecoinformatics,ecological scaling,final version received 27,july 2011,metamodels,phytophthora infestans,plant disease,process-based models,published 18 august 2011,received 4 may 2011,s,solanum tuberosum}
+    \endentry
+    \entry{Cheatham2009}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ca052aed7af9433ed2387be4f822787d}
+      \strng{fullhash}{ca052aed7af9433ed2387be4f822787d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{abstract}{The ecosystem services concept provides a means to define successful disease management more broadly, beyond short-term crop yield evaluations. Plant disease can affect ecosystem services directly, such as through removal of plants providing services, or indirectly through the effects of disease management activities, including pesticide applications, tillage, and other methods of plant removal. Increased plant biodiversity may reduce disease risk if susceptible host tissue becomes less common, or may increase risk if additional plant species are important in completing pathogen life cycles. Arthropod and microbial biodiversity may play similar roles. Distant ecosystems may provide a disservice as the setting for the evolution of pathogens that later invade a focal ecosystem, where plants have not evolved defenses. Conversely, distant ecosystems may provide a service as sources of genetic resources of great value to agriculture, including disease resistance genes. Good policies are needed to support conservation and optimal use of genetic resources, protect ecosystems from exotic pathogens, and limit the homogeneity of agricultural systems. Research is needed to provide policy makers, farmers, and consumers with the information required for evaluating trade-offs in the pursuit of the full range of ecosystem services desired from managed and native ecosystems.}
+      \field{issn}{0031-949X}
+      \field{journaltitle}{Phytopathology}
+      \field{number}{11}
+      \field{title}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{volume}{99}
+      \field{year}{2009}
+      \field{pages}{1228\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1094/PHYTO-99-11-1228
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
+      \endverb
+      \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{2}
+  \sortlist{entry}{chronological}
+    \entry{Sparks2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Climate change may have little effect on global risk of potato late blight}
+      \field{journaltitle}{Global Change Biology}
+      \field{title}{Climate change may have little effect on global risk of potato late blight}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1111/gcb.12587
+      \endverb
+    \endentry
+    \entry{Barnwal2013}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{fullhash}{14cfc3c39be32a180cfd610fc6266e62}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{issn}{0929-1873}
+      \field{journaltitle}{European Journal of Plant Pathology}
+      \field{number}{3}
+      \field{title}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{volume}{136}
+      \field{year}{2013}
+      \field{pages}{443\bibrangedash 457}
+      \verb{doi}
+      \verb 10.1007/s10658-013-0195-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10658-013-0195-6
+      \endverb
+    \endentry
+    \entry{Gaudin2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Taking transgenic rice drought screening to the field.}}
+      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
+      \field{issn}{1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{2}
+      \field{title}{{Taking transgenic rice drought screening to the field.}}
+      \field{volume}{63}
+      \field{year}{2012}
+      \field{pages}{695\bibrangedash 709}
+      \verb{doi}
+      \verb 10.1093/jxb/ers313
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
+      \endverb
+    \endentry
+    \entry{Mckinley2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \field{sortinit}{2}
+      \field{labeltitle}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{journaltitle}{The Philippine Agricultural Scientist}
+      \field{number}{3}
+      \field{title}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{286\bibrangedash 292}
+      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
+    \endentry
+    \entry{Garrett2011}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{issn}{00320862}
+      \field{journaltitle}{Plant Pathology}
+      \field{number}{1}
+      \field{title}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{volume}{60}
+      \field{year}{2011}
+      \field{pages}{15\bibrangedash 30}
+      \verb{doi}
+      \verb 10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \strng{fullhash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \field{sortinit}{2}
+      \field{labeltitle}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{48}
+      \field{title}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 40}
+    \endentry
+    \entry{Sparks2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{issn}{2150-8925}
+      \field{journaltitle}{Ecosphere}
+      \field{number}{8}
+      \field{title}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{pages}{art90}
+      \verb{doi}
+      \verb 10.1890/ES11-00128.1
+      \endverb
+      \verb{url}
+      \verb http://www.esajournals.org/doi/abs/10.1890/ES11-00128.1
+      \endverb
+      \keyw{accepted 20 may 2011,climate change scenario analysis,collinge,corresponding editor,data aggregation,ecoinformatics,ecological scaling,final version received 27,july 2011,metamodels,phytophthora infestans,plant disease,process-based models,published 18 august 2011,received 4 may 2011,s,solanum tuberosum}
+    \endentry
+    \entry{Cheatham2009}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ca052aed7af9433ed2387be4f822787d}
+      \strng{fullhash}{ca052aed7af9433ed2387be4f822787d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{abstract}{The ecosystem services concept provides a means to define successful disease management more broadly, beyond short-term crop yield evaluations. Plant disease can affect ecosystem services directly, such as through removal of plants providing services, or indirectly through the effects of disease management activities, including pesticide applications, tillage, and other methods of plant removal. Increased plant biodiversity may reduce disease risk if susceptible host tissue becomes less common, or may increase risk if additional plant species are important in completing pathogen life cycles. Arthropod and microbial biodiversity may play similar roles. Distant ecosystems may provide a disservice as the setting for the evolution of pathogens that later invade a focal ecosystem, where plants have not evolved defenses. Conversely, distant ecosystems may provide a service as sources of genetic resources of great value to agriculture, including disease resistance genes. Good policies are needed to support conservation and optimal use of genetic resources, protect ecosystems from exotic pathogens, and limit the homogeneity of agricultural systems. Research is needed to provide policy makers, farmers, and consumers with the information required for evaluating trade-offs in the pursuit of the full range of ecosystem services desired from managed and native ecosystems.}
+      \field{issn}{0031-949X}
+      \field{journaltitle}{Phytopathology}
+      \field{number}{11}
+      \field{title}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{volume}{99}
+      \field{year}{2009}
+      \field{pages}{1228\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1094/PHYTO-99-11-1228
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
+      \endverb
+      \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Sparks2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Climate change may have little effect on global risk of potato late blight}
+      \field{journaltitle}{Global Change Biology}
+      \field{title}{Climate change may have little effect on global risk of potato late blight}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1111/gcb.12587
+      \endverb
+    \endentry
+    \entry{Barnwal2013}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{Barnwal}{B\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7446541693af9dabdc1f41b0ca7ea598}{Kotasthane}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3d6be1133a525fc2b823db1009a25302}{Magculia}{M\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a4f27f4646dd5c076a48b17118cd36e}{Mukherjee}{M\bibinitperiod}{P\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{Sharma}{S\bibinitperiod}{A\bibnamedelima K}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=7927305838b2ea50c6170dce134c96c7}{Singh}{S\bibinitperiod}{H\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{Singh}{S\bibinitperiod}{U\bibnamedelima S}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{Variar}{V\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{Zaidi}{Z\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{fullhash}{14cfc3c39be32a180cfd610fc6266e62}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{issn}{0929-1873}
+      \field{journaltitle}{European Journal of Plant Pathology}
+      \field{number}{3}
+      \field{title}{{A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps}}
+      \field{volume}{136}
+      \field{year}{2013}
+      \field{pages}{443\bibrangedash 457}
+      \verb{doi}
+      \verb 10.1007/s10658-013-0195-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10658-013-0195-6
+      \endverb
+    \endentry
+    \entry{Gaudin2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Taking transgenic rice drought screening to the field.}}
+      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
+      \field{issn}{1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{2}
+      \field{title}{{Taking transgenic rice drought screening to the field.}}
+      \field{volume}{63}
+      \field{year}{2012}
+      \field{pages}{695\bibrangedash 709}
+      \verb{doi}
+      \verb 10.1093/jxb/ers313
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
+      \endverb
+    \endentry
+    \entry{Mckinley2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \field{sortinit}{2}
+      \field{labeltitle}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{journaltitle}{The Philippine Agricultural Scientist}
+      \field{number}{3}
+      \field{title}{An Economic Assessment of the Impact of Mango Pulp Weevil on the Agricultural Sector of Palawan, Philippines}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{286\bibrangedash 292}
+      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
+    \endentry
+    \entry{Garrett2011}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=707804976675cc5f0dfd124bc59790ec}{Skelsey}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{Valdivia}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6119536557e5537d82de5c0f9684cafe}{{van\bibnamedelimb Bruggen}}{v\bibinitperiod}{A\bibnamedelima H\bibnamedelima C}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1384cae32ce866bb81b5b09494d03e75}{Eckersten}{E\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=312311068531479970498d6f3e68148b}{{Vera\bibnamedelimb Cruz}}{V\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{issn}{00320862}
+      \field{journaltitle}{Plant Pathology}
+      \field{number}{1}
+      \field{title}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
+      \field{volume}{60}
+      \field{year}{2011}
+      \field{pages}{15\bibrangedash 30}
+      \verb{doi}
+      \verb 10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
+      \endverb
+      \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{13}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{Savary}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{Willocquet}{W\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{Duveiller}{D\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{Mahuku}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{Forbes}{F\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{Padgham}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{Pande}{P\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{Sharma}{S\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{Yuen}{Y\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{Djurle}{D\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \strng{fullhash}{61f3a0d993e9a2e7bf921fbee1fb578c}
+      \field{sortinit}{2}
+      \field{labeltitle}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{48}
+      \field{title}{{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 40}
+    \endentry
+    \entry{Sparks2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{Hijmans}{H\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{issn}{2150-8925}
+      \field{journaltitle}{Ecosphere}
+      \field{number}{8}
+      \field{title}{{A metamodeling framework for extending the application domain of process-based ecological models}}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{pages}{art90}
+      \verb{doi}
+      \verb 10.1890/ES11-00128.1
+      \endverb
+      \verb{url}
+      \verb http://www.esajournals.org/doi/abs/10.1890/ES11-00128.1
+      \endverb
+      \keyw{accepted 20 may 2011,climate change scenario analysis,collinge,corresponding editor,data aggregation,ecoinformatics,ecological scaling,final version received 27,july 2011,metamodels,phytophthora infestans,plant disease,process-based models,published 18 august 2011,received 4 may 2011,s,solanum tuberosum}
+    \endentry
+    \entry{Cheatham2009}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=cda3bc9cd5b7af2c5744dd9b918265ae}{Cheatham}{C\bibinitperiod}{M\bibnamedelima R}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=b2db9dd7e0e8ac508a1374b555147d10}{Rouse}{R\bibinitperiod}{M\bibnamedelima N}{M\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=0f25527078ae3394eb76f75020edd830}{Ignacio}{I\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a0ff827a411324772e75dd39c56ff584}{Pradel}{P\bibinitperiod}{W}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=e99f8b3dc9e667dcef3c0aa9949f05fe}{Raymundo}{R\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=dfc18a486260f72c6da450bc98587406}{Forbes}{F\bibinitperiod}{G\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2f0820c85b0a69eda596148d717eb38c}{Gordon}{G\bibinitperiod}{T\bibnamedelima R}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ca052aed7af9433ed2387be4f822787d}
+      \strng{fullhash}{ca052aed7af9433ed2387be4f822787d}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{abstract}{The ecosystem services concept provides a means to define successful disease management more broadly, beyond short-term crop yield evaluations. Plant disease can affect ecosystem services directly, such as through removal of plants providing services, or indirectly through the effects of disease management activities, including pesticide applications, tillage, and other methods of plant removal. Increased plant biodiversity may reduce disease risk if susceptible host tissue becomes less common, or may increase risk if additional plant species are important in completing pathogen life cycles. Arthropod and microbial biodiversity may play similar roles. Distant ecosystems may provide a disservice as the setting for the evolution of pathogens that later invade a focal ecosystem, where plants have not evolved defenses. Conversely, distant ecosystems may provide a service as sources of genetic resources of great value to agriculture, including disease resistance genes. Good policies are needed to support conservation and optimal use of genetic resources, protect ecosystems from exotic pathogens, and limit the homogeneity of agricultural systems. Research is needed to provide policy makers, farmers, and consumers with the information required for evaluating trade-offs in the pursuit of the full range of ecosystem services desired from managed and native ecosystems.}
+      \field{issn}{0031-949X}
+      \field{journaltitle}{Phytopathology}
+      \field{number}{11}
+      \field{title}{{Beyond yield: plant disease in the context of ecosystem services.}}
+      \field{volume}{99}
+      \field{year}{2009}
+      \field{pages}{1228\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1094/PHYTO-99-11-1228
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
+      \endverb
+      \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
