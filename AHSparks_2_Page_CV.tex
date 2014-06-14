@@ -1,0 +1,20 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+
+\addbibresource{bibliography_2_Page_CV.bib}
+
+\begin{document}
+
+\input{Aside_Work_Experience}
+
+\section{selected publications}
+
+\printbibsection{article}{Previous Five Years}
+\begin{refsection}
+  \nocite{*}
+  \printbibliography[sorting=chronological, type=inreview, title={in review}, heading=subbibliography]
+\end{refsection}
+
+\input{Certs_Affiliations}
+
+\end{document}
