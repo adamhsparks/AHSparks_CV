@@ -342,3 +342,5 @@
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{pifont}
 \RequirePackage{fontawesome}
+\RequirePackage{graphicx}
+\graphicspath{ {Images/} }
