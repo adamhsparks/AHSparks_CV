@@ -1,0 +1,14 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'AHSparks_2_Page_CV.blg'
+[44] biber-darwin:277> INFO - === Wed Jul  9, 2014, 17:13:53
+[45] Biber.pm:333> INFO - Reading 'AHSparks_2_Page_CV.bcf'
+[116] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[119] Biber.pm:635> INFO - Found 0 citekeys in bib section 0
+[119] Biber.pm:632> INFO - Using all citekeys in bib section 1
+[120] Biber.pm:635> INFO - Found 0 citekeys in bib section 0
+[120] Biber.pm:632> INFO - Using all citekeys in bib section 2
+[120] Biber.pm:635> INFO - Found 0 citekeys in bib section 0
+[150] Biber.pm:3051> INFO - Processing section 1
+[174] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
+[178] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[182] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
