@@ -8,12 +8,9 @@
 \ProcessOptions\relax
 \LoadClass{article}
 
-
 %%%%%%%%%%
 % Colors %
 %%%%%%%%%%
-
-%visit http://www.colourlovers.com/ for palettes and colours
 
 \RequirePackage{xcolor}
 
@@ -23,39 +20,17 @@
 \definecolor{gray}{HTML}{4D4D4D}
 \definecolor{lightgray}{HTML}{999999}
 
-\definecolor{eames}{HTML}{8C2318}
-\definecolor{knoll}{HTML}{5E8C6A}
-\definecolor{hans.wegner}{HTML}{88A65E}
-\definecolor{cantaloupe.skin}{HTML}{BFB35A}
-\definecolor{verner.panton}{HTML}{F2C45A}
-\definecolor{vitamin.C}{HTML}{FF9900}
-\definecolor{pachyderm}{HTML}{7A6A53}
-\definecolor{last}{HTML}{302A21}
 \definecolor{google.plus}{HTML}{CF3E2C}
 \definecolor{twitter.blue}{rgb}{0,172,237}
 \definecolor{skype}{HTML}{12A5F4}
 
 \ifdefined\@cv@print
-  \colorlet{eames}{gray}
-  \colorlet{knoll}{gray}
-  \colorlet{hans.wegner}{gray}
-  \colorlet{cantaloupe.skin}{gray}
-  \colorlet{verner.panton}{gray}
-  \colorlet{vitamin.C}{gray}
-  \colorlet{pachyderm}{gray}
-  \colorlet{last}{gray}
-  \colorlet{google.plus}{gray}
-  \colorlet{twitter.blue}{gray}
-  \colorlet{skype}{gray}
-  \colorlet{blue}{gray}
-  \colorlet{fillheader}{white}
-  \colorlet{header}{gray}
-  \else
-  \colorlet{fillheader}{gray}
-  \colorlet{header}{white}
+  \colorlet{google.plus}{black}
+  \colorlet{twitter.blue}{black}
+  \colorlet{skype}{black}
+  \colorlet{blue}{black}
 \fi
-\colorlet{textcolor}{gray}
-\colorlet{headercolor}{gray}
+\colorlet{textcolor}{black}
 
 %%%%%%%%%
 % Fonts %
@@ -76,70 +51,17 @@
 %%%%%%%%%%
 % Header %
 %%%%%%%%%%
-
-\RequirePackage{tikz}
-
 \newcommand{\rolefont}{%
   \fontsize{14pt}{24pt}\selectfont%
   \thinfont%
-  \color{white}%
+  \color{black}%
 }
 
-\newcommand{\header}[3]{%
-  \begin{tikzpicture}[remember picture,overlay]
-    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=4cm] (box) at (current page.north){};
-    \node [anchor=center] (name) at (box) {%
-      \fontsize{40pt}{72pt}\color{header}%
-      {\thinfont #1}{\bodyfont  #2}
-    };
-    \node [anchor=north] at (name.south) {%
-      \fontsize{14pt}{24pt}\color{header}%
-      \thinfont #3%
-    };
-  \end{tikzpicture}
-  \vspace{2.5cm}
-  \vspace{-2\parskip}
-}
 
 
 %%%%%%%%%%%%%
 % Structure %
 %%%%%%%%%%%%%
-\RequirePackage{parskip}
-
-\newcounter{colorCounter}
-\def\@sectioncolor#1#2#3{%
-  {%
-    \color{%
-      \ifcase\value{colorCounter}%
-        eames\or%
-        knoll\or%
-        hans.wegner\or%
-        cantaloupe.skin\or%
-        verner.panton\or%
-        vitamin.C\or%
-        pachyderm\or%
-        last\else%
-        headercolor\fi%
-    } #1#2#3%
-  }%
-  \stepcounter{colorCounter}%
-}
-
-\renewcommand{\section}[1]{
-  \par\vspace{\parskip}
-  {%
-    \LARGE\headingfont\color{headercolor}%
-    \@sectioncolor #1%
-  }
-  \par\vspace{\parskip}
-}
-
-\renewcommand{\subsection}[2]{
-  \par\vspace{.5\parskip}%
-  \Large\headingfont\color{headercolor} #2%
-  \par\vspace{.25\parskip}%
-}
 
 \pagestyle{empty}
 
@@ -154,7 +76,7 @@
 }{%
   \end{tabular*}
 }
-\renewcommand{\bfseries}{\headingfont\color{headercolor}}
+\renewcommand{\bfseries}{\headingfont}
 \newcommand{\entry}[4]{%
   #1&\parbox[t]{11.8cm}{%
     \textbf{#2}%
@@ -174,7 +96,7 @@
 \newenvironment{aside}{%
   \let\oldsection\section
   \renewcommand{\section}[1]{
-    \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
+    \par\vspace{\baselineskip}{\Large\headingfont ##1}
   }
   \begin{textblock}{3.6}(1.5, 4.33)
   \begin{flushright}
