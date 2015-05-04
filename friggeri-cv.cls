@@ -48,6 +48,8 @@
 
 %\setmathfont{XITS Math}
 
+\RequirePackage{fontawesome}
+
 %%%%%%%%%%
 % Header %
 %%%%%%%%%%
@@ -64,7 +66,6 @@
 %%%%%%%%%%%%%
 
 \pagestyle{empty}
-
 
 %%%%%%%%%%%%%%%%%%%%
 % List environment %
@@ -263,6 +264,5 @@
 \RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{pifont}
-\RequirePackage{fontawesome}
 \RequirePackage{graphicx}
 \graphicspath{ {Images/} }

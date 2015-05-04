@@ -357,65 +357,6 @@
       \field{volume}{102:S4.162}
       \field{year}{2012}
     \endentry
-    \entry{Savary2011a}{article}{}
-      \name{labelname}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Scientific Societies}%
-      }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
-      \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
-      \field{number}{10}
-      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{volume}{95}
-      \field{year}{2011}
-      \field{pages}{1204\bibrangedash 1216}
-      \verb{doi}
-      \verb 10.1094/PDIS-04-11-0316
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
-      \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
-    \endentry
     \entry{Garrett2011}{article}{}
       \name{labelname}{14}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -468,6 +409,63 @@
       \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
       \endverb
       \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Societies}%
+      }
+      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
+      \field{booktitle}{Plant Disease}
+      \field{isbn}{0191-2917}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{10}
+      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{volume}{95}
+      \field{year}{2011}
+      \field{pages}{1204\bibrangedash 1216}
+      \verb{doi}
+      \verb 10.1094/PDIS-04-11-0316
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
+      \endverb
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -1690,7 +1688,6 @@
       \field{booktitle}{Plant Disease}
       \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
       \field{number}{10}
       \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
       \field{volume}{95}
@@ -1702,7 +1699,6 @@
       \verb{url}
       \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
       \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -2564,65 +2560,6 @@
       \field{volume}{102:S4.162}
       \field{year}{2012}
     \endentry
-    \entry{Savary2011a}{article}{}
-      \name{labelname}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Scientific Societies}%
-      }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
-      \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
-      \field{number}{10}
-      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{volume}{95}
-      \field{year}{2011}
-      \field{pages}{1204\bibrangedash 1216}
-      \verb{doi}
-      \verb 10.1094/PDIS-04-11-0316
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
-      \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
-    \endentry
     \entry{Garrett2011}{article}{}
       \name{labelname}{14}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -2675,6 +2612,63 @@
       \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
       \endverb
       \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Societies}%
+      }
+      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
+      \field{booktitle}{Plant Disease}
+      \field{isbn}{0191-2917}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{10}
+      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{volume}{95}
+      \field{year}{2011}
+      \field{pages}{1204\bibrangedash 1216}
+      \verb{doi}
+      \verb 10.1094/PDIS-04-11-0316
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
+      \endverb
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -3897,7 +3891,6 @@
       \field{booktitle}{Plant Disease}
       \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
       \field{number}{10}
       \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
       \field{volume}{95}
@@ -3909,7 +3902,6 @@
       \verb{url}
       \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
       \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -4771,65 +4763,6 @@
       \field{volume}{102:S4.162}
       \field{year}{2012}
     \endentry
-    \entry{Savary2011a}{article}{}
-      \name{labelname}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Scientific Societies}%
-      }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
-      \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
-      \field{number}{10}
-      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{volume}{95}
-      \field{year}{2011}
-      \field{pages}{1204\bibrangedash 1216}
-      \verb{doi}
-      \verb 10.1094/PDIS-04-11-0316
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
-      \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
-    \endentry
     \entry{Garrett2011}{article}{}
       \name{labelname}{14}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -4882,6 +4815,63 @@
       \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
       \endverb
       \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Societies}%
+      }
+      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
+      \field{booktitle}{Plant Disease}
+      \field{isbn}{0191-2917}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{10}
+      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{volume}{95}
+      \field{year}{2011}
+      \field{pages}{1204\bibrangedash 1216}
+      \verb{doi}
+      \verb 10.1094/PDIS-04-11-0316
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
+      \endverb
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -6104,7 +6094,6 @@
       \field{booktitle}{Plant Disease}
       \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
       \field{number}{10}
       \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
       \field{volume}{95}
@@ -6116,7 +6105,6 @@
       \verb{url}
       \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
       \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -6978,65 +6966,6 @@
       \field{volume}{102:S4.162}
       \field{year}{2012}
     \endentry
-    \entry{Savary2011a}{article}{}
-      \name{labelname}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Scientific Societies}%
-      }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
-      \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
-      \field{number}{10}
-      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
-      \field{volume}{95}
-      \field{year}{2011}
-      \field{pages}{1204\bibrangedash 1216}
-      \verb{doi}
-      \verb 10.1094/PDIS-04-11-0316
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
-      \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
-    \endentry
     \entry{Garrett2011}{article}{}
       \name{labelname}{14}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -7089,6 +7018,63 @@
       \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
       \endverb
       \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
+    \endentry
+    \entry{Savary2011a}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=d6c22dad046f46c4feee6222958b71f2}{Savary}{S\bibinitperiod}{Serge}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{Nelson}{N\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8d9149d4046ecea8ec14656ff86253c4}{Willocquet}{W\bibinitperiod}{Laetitia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{Duveiller}{D\bibinitperiod}{Etienne}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a77afee9c47a17af88a4aa33722d8e04}{Mahuku}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=597474e485634b7479fb8f307a8ce01b}{Forbes}{F\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=b676334a48f84eb116d5a73711314159}{Hodson}{H\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{Padgham}{P\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{Pande}{P\bibinitperiod}{Suresh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{Sharma}{S\bibinitperiod}{Mamta}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce886eef9834aac10bc1a416328af5b}{Yuen}{Y\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f41000cbcf73348e15ba231bb040df8}{Djurle}{D\bibinitperiod}{Annika}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Societies}%
+      }
+      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
+      \field{booktitle}{Plant Disease}
+      \field{isbn}{0191-2917}
+      \field{journaltitle}{Plant Disease}
+      \field{number}{10}
+      \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
+      \field{volume}{95}
+      \field{year}{2011}
+      \field{pages}{1204\bibrangedash 1216}
+      \verb{doi}
+      \verb 10.1094/PDIS-04-11-0316
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
+      \endverb
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
@@ -8311,7 +8297,6 @@
       \field{booktitle}{Plant Disease}
       \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
-      \field{month}{2015/04/24}
       \field{number}{10}
       \field{title}{International Agricultural Research Tackling the Effects of Global and Climate Changes on Plant Diseases in the Developing World}
       \field{volume}{95}
@@ -8323,7 +8308,6 @@
       \verb{url}
       \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
       \endverb
-      \warn{\item Datamodel: Entry 'Savary2011a' (Sparks_bibliography.bib): Invalid format '2011/06/16' of date field 'date' - ignoring}
     \endentry
     \entry{Sparks2011}{article}{}
       \name{labelname}{4}{}{%
