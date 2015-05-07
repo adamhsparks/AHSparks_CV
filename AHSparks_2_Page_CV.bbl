@@ -75,7 +75,7 @@
       \field{year}{2014}
       \field{pages}{3621\bibrangedash 3631}
       \verb{doi}
-      \verb doi:10.1094 / PDIS-04-11-031
+      \verb 10.1094 / PDIS-04-11-031
       \endverb
     \endentry
     \entry{Sparks2013b}{inproceedings}{}
@@ -432,7 +432,7 @@
       \field{year}{2014}
       \field{pages}{3621\bibrangedash 3631}
       \verb{doi}
-      \verb doi:10.1094 / PDIS-04-11-031
+      \verb 10.1094 / PDIS-04-11-031
       \endverb
     \endentry
     \entry{Barnwal2013}{article}{}
@@ -792,7 +792,7 @@
       \field{year}{2014}
       \field{pages}{3621\bibrangedash 3631}
       \verb{doi}
-      \verb doi:10.1094 / PDIS-04-11-031
+      \verb 10.1094 / PDIS-04-11-031
       \endverb
     \endentry
     \entry{Sparks2013b}{inproceedings}{}
@@ -1149,7 +1149,7 @@
       \field{year}{2014}
       \field{pages}{3621\bibrangedash 3631}
       \verb{doi}
-      \verb doi:10.1094 / PDIS-04-11-031
+      \verb 10.1094 / PDIS-04-11-031
       \endverb
     \endentry
     \entry{Barnwal2013}{article}{}
