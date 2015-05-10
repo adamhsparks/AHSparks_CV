@@ -23,12 +23,14 @@
 \definecolor{google.plus}{HTML}{CF3E2C}
 \definecolor{twitter.blue}{rgb}{0,172,237}
 \definecolor{skype}{HTML}{12A5F4}
+\definecolor{linkedin}{HTML}{0077B5}
 
 \ifdefined\@cv@print
   \colorlet{google.plus}{black}
   \colorlet{twitter.blue}{black}
   \colorlet{skype}{black}
   \colorlet{blue}{black}
+  \colorlet{linkedin}{black}
 \fi
 \colorlet{textcolor}{black}
 
