@@ -19,34 +19,6 @@
 
 \refsection{1}
   \sortlist{chronological}{chronological}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Dossa2015}{article}{}
       \name{labelname}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -105,6 +77,34 @@
       \verb{doi}
       \verb 10.1094 / PDIS-04-11-031
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2013b}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -1119,34 +1119,6 @@
     \endentry
   \endsortlist
   \sortlist{ydnt}{ydnt}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Sparks2008b}{online}{}
       \name{labelname}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -1269,6 +1241,34 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2014}{article}{}
       \name{labelname}{4}{}{%
@@ -2222,34 +2222,6 @@
 
 \refsection{2}
   \sortlist{chronological}{chronological}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Dossa2015}{article}{}
       \name{labelname}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -2308,6 +2280,34 @@
       \verb{doi}
       \verb 10.1094 / PDIS-04-11-031
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2013b}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -3322,34 +3322,6 @@
     \endentry
   \endsortlist
   \sortlist{ydnt}{ydnt}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Sparks2008b}{online}{}
       \name{labelname}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -3472,6 +3444,34 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2014}{article}{}
       \name{labelname}{4}{}{%
@@ -4425,34 +4425,6 @@
 
 \refsection{3}
   \sortlist{chronological}{chronological}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Dossa2015}{article}{}
       \name{labelname}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -4511,6 +4483,34 @@
       \verb{doi}
       \verb 10.1094 / PDIS-04-11-031
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2013b}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -5525,34 +5525,6 @@
     \endentry
   \endsortlist
   \sortlist{ydnt}{ydnt}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Sparks2008b}{online}{}
       \name{labelname}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -5675,6 +5647,34 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2014}{article}{}
       \name{labelname}{4}{}{%
@@ -6628,34 +6628,6 @@
 
 \refsection{4}
   \sortlist{chronological}{chronological}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Dossa2015}{article}{}
       \name{labelname}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -6714,6 +6686,34 @@
       \verb{doi}
       \verb 10.1094 / PDIS-04-11-031
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2013b}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -7728,34 +7728,6 @@
     \endentry
   \endsortlist
   \sortlist{ydnt}{ydnt}
-    \entry{Jeger2013}{inbook}{}
-      \name{labelname}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {APS Press, Minneapolis, MN}%
-      }
-      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
-      \field{sortinit}{I}
-      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
-      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
-      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
-      \field{edition}{2nd}
-      \field{title}{Exercises in Plant Disease Epidemiology}
-      \field{year}{In Press}
-    \endentry
     \entry{Sparks2008b}{online}{}
       \name{labelname}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -7878,6 +7850,34 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
+    \endentry
+    \entry{Jeger2013}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{Esker}{E\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=672f63eddd53b7f6ff082f4a9b9e01e3}{Stevenson}{S\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1749059c3108917a203405fd96a5ef0d}{Jeger}{J\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS Press, Minneapolis, MN}%
+      }
+      \strng{namehash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \strng{fullhash}{0b9c305b2d99782ba68a8b785a5152c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labeltitle}{Exercises in Plant Disease Epidemiology}
+      \field{chapter}{An introduction to key distributions and models for epidemiology using R}
+      \field{edition}{2nd}
+      \field{title}{Exercises in Plant Disease Epidemiology}
+      \field{year}{2014}
     \endentry
     \entry{Sparks2014}{article}{}
       \name{labelname}{4}{}{%
