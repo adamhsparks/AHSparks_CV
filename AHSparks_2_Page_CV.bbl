@@ -19,25 +19,6 @@
 
 \refsection{1}
   \sortlist{ydnt}{ydnt}
-    \entry{Laborte2015}{article}{}
-      \name{author}{6}{}{%
-        {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=a18ead2b011535c823f6d78536c233e9}{Paguirigan}{P\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=eaa761998ffece6d9cca9dde75155ed2}{Moya}{M\bibinitperiod}{P\bibnamedelima F}{P\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=9a66355e36a3c83cb96b12d8998026bf}{Gregorio}{G\bibinitperiod}{G\bibnamedelima B}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{e76efd097d890eb86b07d626b86e0dca}
-      \strng{fullhash}{e76efd097d890eb86b07d626b86e0dca}
-      \field{sortinit}{I}
-      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{PLOS ONE}
-      \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
-      \field{year}{In Press}
-    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -63,6 +44,31 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
+      \endverb
+    \endentry
+    \entry{Laborte2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b55b41181357ca5c508adcf6d697b910}{Paguirigan}{P\bibinitperiod}{N\bibnamedelima C}{N\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=eaa761998ffece6d9cca9dde75155ed2}{Moya}{M\bibinitperiod}{P\bibnamedelima F}{P\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9a66355e36a3c83cb96b12d8998026bf}{Gregorio}{G\bibinitperiod}{G\bibnamedelima B}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b9496e14952b0d98df21f211562745a4}
+      \strng{fullhash}{b9496e14952b0d98df21f211562745a4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10(8)}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{08}
+      \field{number}{e0136562}
+      \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
+      \field{year}{2015}
+      \verb{doi}
+      \verb DOI:10.1371/journal.pone.0136562
       \endverb
     \endentry
     \entry{Sparks2014}{article}{}
@@ -327,25 +333,6 @@
 
 \refsection{2}
   \sortlist{ydnt}{ydnt}
-    \entry{Laborte2015}{article}{}
-      \name{author}{6}{}{%
-        {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=a18ead2b011535c823f6d78536c233e9}{Paguirigan}{P\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=eaa761998ffece6d9cca9dde75155ed2}{Moya}{M\bibinitperiod}{P\bibnamedelima F}{P\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=9a66355e36a3c83cb96b12d8998026bf}{Gregorio}{G\bibinitperiod}{G\bibnamedelima B}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{e76efd097d890eb86b07d626b86e0dca}
-      \strng{fullhash}{e76efd097d890eb86b07d626b86e0dca}
-      \field{sortinit}{I}
-      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{PLOS ONE}
-      \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
-      \field{year}{In Press}
-    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -371,6 +358,31 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
+      \endverb
+    \endentry
+    \entry{Laborte2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b55b41181357ca5c508adcf6d697b910}{Paguirigan}{P\bibinitperiod}{N\bibnamedelima C}{N\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=eaa761998ffece6d9cca9dde75155ed2}{Moya}{M\bibinitperiod}{P\bibnamedelima F}{P\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{Nelson}{N\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9a66355e36a3c83cb96b12d8998026bf}{Gregorio}{G\bibinitperiod}{G\bibnamedelima B}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b9496e14952b0d98df21f211562745a4}
+      \strng{fullhash}{b9496e14952b0d98df21f211562745a4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10(8)}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{08}
+      \field{number}{e0136562}
+      \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
+      \field{year}{2015}
+      \verb{doi}
+      \verb DOI:10.1371/journal.pone.0136562
       \endverb
     \endentry
     \entry{Sparks2014}{article}{}
