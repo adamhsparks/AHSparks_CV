@@ -97,6 +97,35 @@
       \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
       \endverb
     \endentry
+    \entry{Garrett2015}{inbook}{}
+      \name{author}{6}{}{%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7de20d675614596cef0980ace842308d}{Nita}{N\bibinitperiod}{Mizuho}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=345c0a436b4b650341661af3f352c1a3}{Wof}{W\bibinitperiod}{Erick\bibnamedelimb D.\bibnamedelimi De}{E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{Esker}{E\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{Gomez-Montano}{G\bibinithyphendelim M\bibinitperiod}{Lorena}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1401083ee136082e4f46fe9a765860d7}{Letcher}{L\bibinitperiod}{Trever\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ce759a99d5e5d09f9372e52963dd512}
+      \strng{fullhash}{4ce759a99d5e5d09f9372e52963dd512}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Plant pathogens as indicators for climate change}
+      \field{edition}{Second}
+      \field{number}{21}
+      \field{title}{Plant Pathogens as Indicators of Climate Change}
+      \field{year}{2016}
+      \field{pages}{325\bibrangedash 328}
+      \range{pages}{4}
+    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -148,6 +177,21 @@
       \verb{doi}
       \verb DOI:10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{Sparks2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=09a174650cce53b7f49f239bbb71381f}{Noel}{N\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
+      \field{year}{2015}
     \endentry
     \entry{Jeger2013}{inbook}{}
       \name{author}{3}{}{%
@@ -612,30 +656,6 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
       \endverb
       \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
-    \endentry
-    \entry{Letcher2009}{inbook}{}
-      \name{author}{5}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=ca5bd2717d7195cc94d3388adab0774d}{Nita}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=0757bd3aa96aa4800342df133abe4dd0}{{De\bibnamedelimb Wolf}}{D\bibinitperiod}{E\bibnamedelima D}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=83e0472cc797037f9ee3a9b648900394}{Gomez}{G\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=73f15fa0c2c52162b645ef52431b2861}{Letcher}{L\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \strng{fullhash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{chapter}{Plant pathogens as indicators for climate change}
-      \field{title}{Climate Change Indicators}
-      \field{year}{2009}
     \endentry
     \entry{Garrett2009}{inproceedings}{}
       \name{author}{8}{}{%
@@ -1001,6 +1021,35 @@
       \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
       \endverb
     \endentry
+    \entry{Garrett2015}{inbook}{}
+      \name{author}{6}{}{%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7de20d675614596cef0980ace842308d}{Nita}{N\bibinitperiod}{Mizuho}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=345c0a436b4b650341661af3f352c1a3}{Wof}{W\bibinitperiod}{Erick\bibnamedelimb D.\bibnamedelimi De}{E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{Esker}{E\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{Gomez-Montano}{G\bibinithyphendelim M\bibinitperiod}{Lorena}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1401083ee136082e4f46fe9a765860d7}{Letcher}{L\bibinitperiod}{Trever\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ce759a99d5e5d09f9372e52963dd512}
+      \strng{fullhash}{4ce759a99d5e5d09f9372e52963dd512}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Plant pathogens as indicators for climate change}
+      \field{edition}{Second}
+      \field{number}{21}
+      \field{title}{Plant Pathogens as Indicators of Climate Change}
+      \field{year}{2016}
+      \field{pages}{325\bibrangedash 328}
+      \range{pages}{4}
+    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -1052,6 +1101,21 @@
       \verb{doi}
       \verb DOI:10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{Sparks2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=09a174650cce53b7f49f239bbb71381f}{Noel}{N\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
+      \field{year}{2015}
     \endentry
     \entry{Jeger2013}{inbook}{}
       \name{author}{3}{}{%
@@ -1516,30 +1580,6 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
       \endverb
       \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
-    \endentry
-    \entry{Letcher2009}{inbook}{}
-      \name{author}{5}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=ca5bd2717d7195cc94d3388adab0774d}{Nita}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=0757bd3aa96aa4800342df133abe4dd0}{{De\bibnamedelimb Wolf}}{D\bibinitperiod}{E\bibnamedelima D}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=83e0472cc797037f9ee3a9b648900394}{Gomez}{G\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=73f15fa0c2c52162b645ef52431b2861}{Letcher}{L\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \strng{fullhash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{chapter}{Plant pathogens as indicators for climate change}
-      \field{title}{Climate Change Indicators}
-      \field{year}{2009}
     \endentry
     \entry{Garrett2009}{inproceedings}{}
       \name{author}{8}{}{%
@@ -1905,6 +1945,35 @@
       \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
       \endverb
     \endentry
+    \entry{Garrett2015}{inbook}{}
+      \name{author}{6}{}{%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7de20d675614596cef0980ace842308d}{Nita}{N\bibinitperiod}{Mizuho}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=345c0a436b4b650341661af3f352c1a3}{Wof}{W\bibinitperiod}{Erick\bibnamedelimb D.\bibnamedelimi De}{E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{Esker}{E\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{Gomez-Montano}{G\bibinithyphendelim M\bibinitperiod}{Lorena}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1401083ee136082e4f46fe9a765860d7}{Letcher}{L\bibinitperiod}{Trever\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ce759a99d5e5d09f9372e52963dd512}
+      \strng{fullhash}{4ce759a99d5e5d09f9372e52963dd512}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Plant pathogens as indicators for climate change}
+      \field{edition}{Second}
+      \field{number}{21}
+      \field{title}{Plant Pathogens as Indicators of Climate Change}
+      \field{year}{2016}
+      \field{pages}{325\bibrangedash 328}
+      \range{pages}{4}
+    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -1956,6 +2025,21 @@
       \verb{doi}
       \verb DOI:10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{Sparks2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=09a174650cce53b7f49f239bbb71381f}{Noel}{N\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
+      \field{year}{2015}
     \endentry
     \entry{Jeger2013}{inbook}{}
       \name{author}{3}{}{%
@@ -2420,30 +2504,6 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
       \endverb
       \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
-    \endentry
-    \entry{Letcher2009}{inbook}{}
-      \name{author}{5}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=ca5bd2717d7195cc94d3388adab0774d}{Nita}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=0757bd3aa96aa4800342df133abe4dd0}{{De\bibnamedelimb Wolf}}{D\bibinitperiod}{E\bibnamedelima D}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=83e0472cc797037f9ee3a9b648900394}{Gomez}{G\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=73f15fa0c2c52162b645ef52431b2861}{Letcher}{L\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \strng{fullhash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{chapter}{Plant pathogens as indicators for climate change}
-      \field{title}{Climate Change Indicators}
-      \field{year}{2009}
     \endentry
     \entry{Garrett2009}{inproceedings}{}
       \name{author}{8}{}{%
@@ -2809,6 +2869,35 @@
       \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
       \endverb
     \endentry
+    \entry{Garrett2015}{inbook}{}
+      \name{author}{6}{}{%
+        {{hash=a2425ce8df97a664e22c218adc6b7255}{Garrett}{G\bibinitperiod}{Karen\bibnamedelima A.}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=7de20d675614596cef0980ace842308d}{Nita}{N\bibinitperiod}{Mizuho}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=345c0a436b4b650341661af3f352c1a3}{Wof}{W\bibinitperiod}{Erick\bibnamedelimb D.\bibnamedelimi De}{E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{Esker}{E\bibinitperiod}{Paul\bibnamedelima D.}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{Gomez-Montano}{G\bibinithyphendelim M\bibinitperiod}{Lorena}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1401083ee136082e4f46fe9a765860d7}{Letcher}{L\bibinitperiod}{Trever\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ce759a99d5e5d09f9372e52963dd512}
+      \strng{fullhash}{4ce759a99d5e5d09f9372e52963dd512}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Plant pathogens as indicators for climate change}
+      \field{edition}{Second}
+      \field{number}{21}
+      \field{title}{Plant Pathogens as Indicators of Climate Change}
+      \field{year}{2016}
+      \field{pages}{325\bibrangedash 328}
+      \range{pages}{4}
+    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -2860,6 +2949,21 @@
       \verb{doi}
       \verb DOI:10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{Sparks2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=09a174650cce53b7f49f239bbb71381f}{Noel}{N\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
+      \field{year}{2015}
     \endentry
     \entry{Jeger2013}{inbook}{}
       \name{author}{3}{}{%
@@ -3324,30 +3428,6 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/19821726
       \endverb
       \keyw{Ecosystem,Pest Control,Biological,Plant Diseases}
-    \endentry
-    \entry{Letcher2009}{inbook}{}
-      \name{author}{5}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{Garrett}{G\bibinitperiod}{K\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=ca5bd2717d7195cc94d3388adab0774d}{Nita}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=0757bd3aa96aa4800342df133abe4dd0}{{De\bibnamedelimb Wolf}}{D\bibinitperiod}{E\bibnamedelima D}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=83e0472cc797037f9ee3a9b648900394}{Gomez}{G\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=73f15fa0c2c52162b645ef52431b2861}{Letcher}{L\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \strng{fullhash}{39b2c82660b3ad78dcc55cb29eb5a358}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{chapter}{Plant pathogens as indicators for climate change}
-      \field{title}{Climate Change Indicators}
-      \field{year}{2009}
     \endentry
     \entry{Garrett2009}{inproceedings}{}
       \name{author}{8}{}{%
