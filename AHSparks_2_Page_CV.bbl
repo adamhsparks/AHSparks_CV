@@ -19,6 +19,23 @@
 
 \refsection{1}
   \sortlist{ydnt}{ydnt}
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7dd184c628ce0a2a46e8963cdcbf97f2}{D}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=d95430a3beaf227baa7572fe8a9a0525}{Zwart}{Z\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c9893a6c6c5ce2f5951e0fdeaa112ad}
+      \strng{fullhash}{3c9893a6c6c5ce2f5951e0fdeaa112ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -45,23 +62,6 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
-    \endentry
-    \entry{Duku2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{610370b533873d4f2b74941b14927fec}
-      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Climatic Change}
-      \field{month}{Accepted}
-      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
-      \field{year}{2015}
     \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
@@ -262,6 +262,23 @@
 
 \refsection{2}
   \sortlist{ydnt}{ydnt}
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7dd184c628ce0a2a46e8963cdcbf97f2}{D}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=d95430a3beaf227baa7572fe8a9a0525}{Zwart}{Z\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c9893a6c6c5ce2f5951e0fdeaa112ad}
+      \strng{fullhash}{3c9893a6c6c5ce2f5951e0fdeaa112ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Dossa2015}{article}{}
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{Dossa}{D\bibinitperiod}{S\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -288,23 +305,6 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
-    \endentry
-    \entry{Duku2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{610370b533873d4f2b74941b14927fec}
-      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Climatic Change}
-      \field{month}{Accepted}
-      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
-      \field{year}{2015}
     \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
