@@ -46,6 +46,23 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{610370b533873d4f2b74941b14927fec}
+      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -128,94 +145,6 @@
       \verb{url}
       \verb http://link.springer.com/10.1007/s10658-013-0195-6
       \endverb
-    \endentry
-    \entry{Sparks2013b}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=94515487d9b1ef3cc7fbbdb11a24229b}{Anaurio}{A\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{Duku}{D\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=c4a5ad051f007540b16f6bd66db80363}{Noel}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7a2fda80a5d02b6178c573b390787605}{Raitzer}{R\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{7e321ff7f6fa2b7395a4daec6a3af4cd}
-      \strng{fullhash}{7e321ff7f6fa2b7395a4daec6a3af4cd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
-      \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
-      \field{year}{2013}
-    \endentry
-    \entry{Sparks2013a}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{Duku}{D\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=c4a5ad051f007540b16f6bd66db80363}{Noel}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=9729018cda6012aa9582b21b88a04e19}{Zwart}{Z\bibinitperiod}{S\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{6dcda782da1f3b122afbbc82206b3fec}
-      \strng{fullhash}{6dcda782da1f3b122afbbc82206b3fec}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Acta Phytopathologica Sinica}
-      \field{number}{Supplement}
-      \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
-      \field{volume}{43}
-      \field{year}{2013}
-    \endentry
-    \entry{Gaudin2012}{article}{}
-      \name{author}{4}{}{%
-        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
-      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
-      \field{issn}{1460-2431}
-      \field{journaltitle}{Journal of Experimental Botany}
-      \field{number}{2}
-      \field{title}{{Taking transgenic rice drought screening to the field}}
-      \field{volume}{63}
-      \field{year}{2012}
-      \field{pages}{695\bibrangedash 709}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1093/jxb/ers313
-      \endverb
-      \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
-      \endverb
-    \endentry
-    \entry{Mckinley2012}{article}{}
-      \name{author}{4}{}{%
-        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
-      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Philippine Agricultural Scientist}
-      \field{number}{3}
-      \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
-      \field{volume}{95}
-      \field{year}{2012}
-      \field{pages}{286\bibrangedash 292}
-      \range{pages}{7}
-      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
     \endentry
     \entry{Garrett2011}{article}{}
       \name{author}{14}{}{%
@@ -360,6 +289,23 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{610370b533873d4f2b74941b14927fec}
+      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -442,94 +388,6 @@
       \verb{url}
       \verb http://link.springer.com/10.1007/s10658-013-0195-6
       \endverb
-    \endentry
-    \entry{Sparks2013b}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=94515487d9b1ef3cc7fbbdb11a24229b}{Anaurio}{A\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{Duku}{D\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=c4a5ad051f007540b16f6bd66db80363}{Noel}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=7a2fda80a5d02b6178c573b390787605}{Raitzer}{R\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{7e321ff7f6fa2b7395a4daec6a3af4cd}
-      \strng{fullhash}{7e321ff7f6fa2b7395a4daec6a3af4cd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
-      \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
-      \field{year}{2013}
-    \endentry
-    \entry{Sparks2013a}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{Duku}{D\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=c4a5ad051f007540b16f6bd66db80363}{Noel}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=9729018cda6012aa9582b21b88a04e19}{Zwart}{Z\bibinitperiod}{S\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{6dcda782da1f3b122afbbc82206b3fec}
-      \strng{fullhash}{6dcda782da1f3b122afbbc82206b3fec}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Acta Phytopathologica Sinica}
-      \field{number}{Supplement}
-      \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
-      \field{volume}{43}
-      \field{year}{2013}
-    \endentry
-    \entry{Gaudin2012}{article}{}
-      \name{author}{4}{}{%
-        {{hash=706c70894736d2bbedf1de0f34d2979b}{Gaudin}{G\bibinitperiod}{A\bibnamedelima C\bibnamedelima M}{A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=1be7735ef3a588e80a973e9eef97ab95}{Henry}{H\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{Slamet-Loedin}{S\bibinithyphendelim L\bibinitperiod}{I\bibnamedelima H}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
-      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
-      \field{issn}{1460-2431}
-      \field{journaltitle}{Journal of Experimental Botany}
-      \field{number}{2}
-      \field{title}{{Taking transgenic rice drought screening to the field}}
-      \field{volume}{63}
-      \field{year}{2012}
-      \field{pages}{695\bibrangedash 709}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1093/jxb/ers313
-      \endverb
-      \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
-      \endverb
-    \endentry
-    \entry{Mckinley2012}{article}{}
-      \name{author}{4}{}{%
-        {{hash=cb9efa161163215a904fde2972f16c81}{Mckinley}{M\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{Sparks}{S\bibinitperiod}{A\bibnamedelima H}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{Pede}{P\bibinitperiod}{V\bibnamedelima O}{V\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{Duff}{D\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
-      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Philippine Agricultural Scientist}
-      \field{number}{3}
-      \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
-      \field{volume}{95}
-      \field{year}{2012}
-      \field{pages}{286\bibrangedash 292}
-      \range{pages}{7}
-      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
     \endentry
     \entry{Garrett2011}{article}{}
       \name{author}{14}{}{%

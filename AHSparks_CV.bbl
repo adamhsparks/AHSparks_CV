@@ -153,6 +153,23 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{610370b533873d4f2b74941b14927fec}
+      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -540,7 +557,6 @@
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
       \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
       \field{number}{10}
       \field{title}{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}
@@ -1078,6 +1094,23 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{610370b533873d4f2b74941b14927fec}
+      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -1465,7 +1498,6 @@
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
       \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
       \field{number}{10}
       \field{title}{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}
@@ -2003,6 +2035,23 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{610370b533873d4f2b74941b14927fec}
+      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -2390,7 +2439,6 @@
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
       \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
       \field{number}{10}
       \field{title}{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}
@@ -2928,6 +2976,23 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Duku2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{Duku}{D\bibinitperiod}{Confidence}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{Sparks}{S\bibinitperiod}{Adam\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=37aa4c4223ca2626ed235a80ea483386}{Zwart}{Z\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{610370b533873d4f2b74941b14927fec}
+      \strng{fullhash}{610370b533873d4f2b74941b14927fec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{Accepted}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial blight and leaf blast in a changing climate}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{Laborte}{L\bibinitperiod}{A\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -3315,7 +3380,6 @@
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
       \field{booktitle}{Plant Disease}
-      \field{isbn}{0191-2917}
       \field{journaltitle}{Plant Disease}
       \field{number}{10}
       \field{title}{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}
