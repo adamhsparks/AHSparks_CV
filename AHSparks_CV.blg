@@ -1,0 +1,50 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'AHSparks_CV.blg'
+[90] biber-darwin:290> INFO - === Sat Jun 25, 2016, 11:03:07
+[122] Biber.pm:351> INFO - Reading 'AHSparks_CV.bcf'
+[296] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[296] Biber.pm:773> INFO - Using all citekeys in bib section 1
+[296] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[296] Biber.pm:773> INFO - Using all citekeys in bib section 2
+[296] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[296] Biber.pm:773> INFO - Using all citekeys in bib section 3
+[296] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[296] Biber.pm:773> INFO - Using all citekeys in bib section 4
+[296] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:3493> INFO - Processing section 1
+[367] Biber.pm:3657> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 1
+[374] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[379] bibtex.pm:1048> INFO - Found BibTeX data source 'Sparks_bibliography.bib'
+[463] Utils.pm:149> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[463] Utils.pm:149> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[552] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[552] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[552] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[552] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[627] Biber.pm:3493> INFO - Processing section 2
+[628] Biber.pm:3657> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 2
+[696] Utils.pm:149> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[696] Utils.pm:149> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[835] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[835] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[836] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[836] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[925] Biber.pm:3493> INFO - Processing section 3
+[925] Biber.pm:3657> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 3
+[984] Utils.pm:149> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[984] Utils.pm:149> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1219] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1219] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1219] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[1219] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[1506] Biber.pm:3493> INFO - Processing section 4
+[1507] Biber.pm:3657> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 4
+[1804] Utils.pm:149> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1805] Utils.pm:149> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[2010] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2010] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2010] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[2010] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[2093] bbl.pm:526> INFO - Writing 'AHSparks_CV.bbl' with encoding 'UTF-8'
+[2141] bbl.pm:619> INFO - Output to AHSparks_CV.bbl
+[2142] Biber.pm:108> INFO - WARNINGS: 8
