@@ -2,89 +2,66 @@
 
 ## contact
 
-Centre for Crop Health
-
-University of Southern Queensland
-
+Centre for Crop Health   
+University of Southern Queensland  
 Toowoomba QLD 4350 Australia
 
 
-adamhsparks@gmail.com
-
+adamhsparks@gmail.com  
 +61 415 489 422
 
 ## skills
 
-GIS
-
-modelling
-
+GIS  
+modelling  
 agricultural statistics
 
 ## experience
 
-2016–Present University of Southern Queensland
-
-Associate Professor
-
+2016–Present University of Southern Queensland  
+Associate Professor  
 Toowoomba, Queensland, AUS
 
 
-2012–2015 International Rice Research Institute
-
-Scientist I
-
+2012–2015 International Rice Research Institute  
+Scientist I  
 Los Baños, Laguna, PHL
 
 
-2011–2012 International Rice Research Institute
-
-Post-Doctoral Fellow
-
+2011–2012 International Rice Research Institute  
+Post-Doctoral Fellow  
 Los Baños, Laguna, PHL
 
 
-2009–2010 Kansas State University
-
-Post-Doctoral Research Associate
-
+2009–2010 Kansas State University  
+Post-Doctoral Research Associate  
 Manhattan, Kansas, USA
 
 
-2002–2004 University of Nebraska-Lincoln
-
-Research Technologist
-
+2002–2004 University of Nebraska-Lincoln  
+Research Technologist  
 Lincoln, Nebraska, USA
 
 
-2000–2003 University of Nebraska-Lincoln
-
-Research Technician
-
+2000–2003 University of Nebraska-Lincoln  
+Research Technician  
 Clay Center, Nebraska, USA
 
 
-1999–2000 Purdue University
-
-Assistant Director
-
+1999–2000 Purdue University  
+Assistant Director  
 West Lafayette, Indiana, USA
 
 
-1997–1999 Purdue University
-
-Research Technician
-
+1997–1999 Purdue University  
+Research Technician  
 West Lafayette, Indiana, USA
 
 ## education
 2009 Ph.D. Plant Pathology
 
-Kansas State University, Manhattan, Kansas, USA
-
-Epidemiology and Ecology of Plant Pathogens
-
+Kansas State University, Manhattan, Kansas, USA  
+Epidemiology and Ecology of Plant Pathogens  
 Dissertation: Disease risk mapping with metamodels for coarse resolution
 predictors: global potato late blight risk now and under future climate conditions
 
