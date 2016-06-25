@@ -1,6 +1,5 @@
-# Adam H Sparks's CV  [![Example](https://img.shields.io/badge/Download%20Full%20CV-PDF-brightgreen.svg)](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf)
+# Adam H Sparks [![Example](https://img.shields.io/badge/Download%20Full%20CV-PDF-brightgreen.svg)](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf)
 
-# Adam H. Sparks
 ## contact
 
 Centre for Crop Health
@@ -50,7 +49,6 @@ West Lafayette, Indiana, USA
 Research Technician
 West Lafayette, Indiana, USA
 
-
 ## education
 2009 Ph.D. Plant Pathology
 Kansas State University, Manhattan, Kansas, USA
@@ -64,8 +62,7 @@ Geographic Information Science
 
 2000 B.Sc. Agronomy
 Purdue University, West Lafayette, Indiana, USA
-Soil and Crop Management
-
+Soil and Crop Management  
 
 # License
 
