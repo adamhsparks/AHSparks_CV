@@ -1,10 +1,11 @@
 # Fdb version 3
-["biber AHSparks_2_Page_CV"] 1466816591 "AHSparks_2_Page_CV.bcf" "AHSparks_2_Page_CV.bbl" "AHSparks_2_Page_CV" 1466816615
+["biber AHSparks_2_Page_CV"] 1466816591 "AHSparks_2_Page_CV.bcf" "AHSparks_2_Page_CV.bbl" "AHSparks_2_Page_CV" 1466820680
   "AHSparks_2_Page_CV.bcf" 1466816614 93935 9bfaec1f3e0ad51cc02148ee011dbc2f ""
   "bibliography_2_Page_CV.bib" 1448923457 6281 fc0bfb83c630b4e99acf509180c76cbd ""
   (generated)
   "AHSparks_2_Page_CV.bbl"
-["pdflatex"] 1466816607 "AHSparks_2_Page_CV.tex" "AHSparks_2_Page_CV.pdf" "AHSparks_2_Page_CV" 1466816615
+  "AHSparks_2_Page_CV.blg"
+["pdflatex"] 1466816607 "AHSparks_2_Page_CV.tex" "AHSparks_2_Page_CV.pdf" "AHSparks_2_Page_CV" 1466820680
   "/usr/local/texlive/2016basic/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016basic/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2016basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -110,11 +111,11 @@
   "AHSparks_2_Page_CV.tex" 1466816118 629 344087e2227478bdce76cb919e386556 ""
   "Aside_Work_Experience.tex" 1466816118 2745 cfe96b8e6f048549908882cc4e5c6776 ""
   "Certs_Affiliations.tex" 1453680023 908 6d6bf708a62b1a8f8c4f302e87739002 ""
-  "friggeri-cv.cls" 1466816118 6041 f8eded9d55887062c20fff8a61b77da2 ""
+  "friggeri-cv.cls" 1466819328 6041 f8eded9d55887062c20fff8a61b77da2 ""
   (generated)
+  "AHSparks_2_Page_CV.run.xml"
   "AHSparks_2_Page_CV.log"
+  "AHSparks_2_Page_CV.out"
   "AHSparks_2_Page_CV.pdf"
   "AHSparks_2_Page_CV.aux"
   "AHSparks_2_Page_CV.bcf"
-  "AHSparks_2_Page_CV.out"
-  "AHSparks_2_Page_CV.run.xml"
