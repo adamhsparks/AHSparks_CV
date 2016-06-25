@@ -10,12 +10,6 @@ Toowoomba QLD 4350 Australia
 adamhsparks@gmail.com  
 +61 415 489 422  
 
-## skills
-
-GIS  
-modelling  
-agricultural statistics  
-
 ## experience
 
 **2016–Present** *University of Southern Queensland*  
