@@ -1,11 +1,11 @@
-# Adam H Sparks [![PDF](https://img.shields.io/badge/Download%20Full%20CV-PDF-brightgreen.svg)](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf)
+ [![PDF](https://img.shields.io/badge/Download%20Full%20CV-PDF-brightgreen.svg)](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf)
 
+# Adam H Sparks
 ## contact
 
 Centre for Crop Health  
 University of Southern Queensland  
 Toowoomba QLD 4350 Australia  
-
 
 adamhsparks@gmail.com  
 +61 415 489 422  
