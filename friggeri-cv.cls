@@ -237,13 +237,21 @@
   \par\vspace{0.3\baselineskip}
 }
 
-\DeclareNameFormat{author}{%
-  \small\addfontfeature{Color=lightgray}%
-  \ifblank{#3}{}{#3\space}#1%
-  \ifthenelse{\value{listcount}<\value{liststop}}
-    {\addcomma\space}
-    {}%
-}
+% New syntax for flexible backend (BibLaTeX > v3.3)
+% Correction for biblatex taken from https://github.com/posquit0/Awesome-CV
+  \DeclareNameFormat{author}{%
+    \small\addfontfeature{Color=lightgray}%
+  \renewcommand*{\multinamedelim}{\addcomma\addspace}%
+  \nameparts{#1}%
+  \ifthenelse{\value{listcount}=1}
+    {\ifblank{\namepartgiven}{}{\namepartgiven\space}%
+    \namepartfamily}%
+    {\ifblank{\namepartgiven}{}{\namepartgiven\space}%
+    \namepartfamily}%
+    \ifthenelse{\value{listcount}<\value{liststop}}
+  {\addcomma\space}
+  {}
+  }
 
 \newcommand{\printbibsection}[2]{
   \begin{refsection}
