@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.7)  25 JUN 2016 12:17
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.26)  26 JUN 2016 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1004,17 +1004,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--50
  []
 
 [5] (./Certs_Affiliations.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
+Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--21
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
+Underfull \hbox (badness 10000) in paragraph at lines 24--52
 
  []
 
@@ -1030,7 +1030,7 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  33829 strings out of 495086
- 604179 string characters out of 6174759
+ 604179 string characters out of 6174758
  1033860 words of memory out of 5000000
  36810 multiletter control sequences out of 15000+600000
  7864 words of font info for 90 fonts, out of 8000000 for 9000
