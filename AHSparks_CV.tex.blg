@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'AHSparks_CV.tex.blg'
+[41] biber-darwin:290> INFO - === Thu Sep  1, 2016, 14:35:49
+[91] Utils.pm:165> ERROR - Cannot find control file 'AHSparks_CV.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[91] Biber.pm:112> INFO - ERRORS: 1
