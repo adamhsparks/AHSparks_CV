@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.8)  1 SEP 2016 14:56
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.8)  1 SEP 2016 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1063,41 +1063,41 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 Package biblatex Info: Reference section=0 on input line 27.
 \blx@maxsegment@2=\count334
 \blx@sectionciteorder@2=\count335
-Package biblatex Info: Reference section=2 on input line 32.
-Package biblatex Info: Setting label 'refsection:2' on input line 32.
+Package biblatex Info: Reference section=2 on input line 29.
+Package biblatex Info: Setting label 'refsection:2' on input line 29.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer sup
 ported, use 'sorting' option to \newrefcontext.
 
 [3]
-Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference section=0 on input line 32.
 \blx@maxsegment@3=\count336
 \blx@sectionciteorder@3=\count337
-Package biblatex Info: Reference section=3 on input line 36.
-Package biblatex Info: Setting label 'refsection:3' on input line 36.
+Package biblatex Info: Reference section=3 on input line 33.
+Package biblatex Info: Setting label 'refsection:3' on input line 33.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer sup
 ported, use 'sorting' option to \newrefcontext.
 
-Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference section=0 on input line 36.
 \blx@maxsegment@4=\count338
 \blx@sectionciteorder@4=\count339
-Package biblatex Info: Reference section=4 on input line 40.
-Package biblatex Info: Setting label 'refsection:4' on input line 40.
+Package biblatex Info: Reference section=4 on input line 37.
+Package biblatex Info: Setting label 'refsection:4' on input line 37.
 
 Package biblatex Warning: sorting option to \printbibliography is no longer sup
 ported, use 'sorting' option to \newrefcontext.
 
-Package biblatex Info: Reference section=0 on input line 43.
+Package biblatex Info: Reference section=0 on input line 40.
 (./Invited_Talks.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--46
+Underfull \hbox (badness 10000) in paragraph at lines 2--43
 
  []
 
 [4] (./Extramural_Support.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--48
+Underfull \hbox (badness 10000) in paragraph at lines 2--45
 
  []
 
@@ -1107,7 +1107,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--8
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 10--50
+Underfull \hbox (badness 10000) in paragraph at lines 10--47
 
  []
 
@@ -1122,16 +1122,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--20
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 24--52
+Underfull \hbox (badness 10000) in paragraph at lines 24--49
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./AHSparks_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 53.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 50.
 Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 \openout1 = `AHSparks_CV.run.xml'.
 

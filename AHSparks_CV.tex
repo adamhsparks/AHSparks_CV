@@ -25,21 +25,18 @@
 \section*{publications}
 
 \printbibsection{article}{peer-reviewed}
-%\begin{refsection}
-%  \nocite{*}
-%  \printbibliography[sorting=chronological, type=inreview, title={in review}, heading=subbibliography]
-%\end{refsection}
+
 \begin{refsection}
   \nocite{*}
-  \newrefcontext[sorting=chronological, type=inproceedings, heading=subbibliography]
+  \printbibliography[sorting=chronological, type=inproceedings, title={conferences/proceedings},  heading=subbibliography]
 \end{refsection}
 \begin{refsection}
   \nocite{*}
-  \newrefcontext[sorting=chronological, type=inbook, heading=subbibliography]
+  \printbibliography[sorting=chronological, type=inbook, title={book chapters}, heading=subbibliography]
 \end{refsection}
 \begin{refsection}
   \nocite{*}
-  \newrefcontext[sorting=chronological, type=report, heading=subbibliography]
+  \printbibliography[sorting=chronological, type=report, title={reports}, heading=subbibliography]
 \end{refsection}
 
 \input{Invited_Talks}
