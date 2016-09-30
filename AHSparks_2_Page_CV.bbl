@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.7 $
+% $ biblatex bbl format version 2.8 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -23,22 +23,24 @@
       \name{author}{3}{}{%
         {{hash=237e69480ecbb092d51cf2880cb6122f}{%
            family={Duku},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Confidence},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=b410f8df054294d6fc9c44884a310e87}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Adam\bibnamedelima H.},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=c57f6f760dc05647090ef3970fe6869a}{%
            family={Zwart},
-           family_i={Z\bibinitperiod},
+           familyi={Z\bibinitperiod},
            given={Sander\bibnamedelima J.},
-           given_i={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
       \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -63,27 +65,29 @@
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{%
            family={Dossa},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={S\bibnamedelima G},
-           given_i={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=b99ccd527ea8833bb10031bb5e78316d}{%
            family={Vera\bibnamedelima Cruz},
-           family_i={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
            given={C\bibnamedelima M},
-           given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=aa175d1d11f2a4cbb07f01b7ca27eadb}{%
            family={Oliva},
-           family_i={O\bibinitperiod},
+           familyi={O\bibinitperiod},
            given={R},
-           given_i={R\bibinitperiod}}}%
+           giveni={R\bibinitperiod}}}%
       }
       \strng{namehash}{413ce394b33e0f0b9c8fb812820de013}
       \strng{fullhash}{413ce394b33e0f0b9c8fb812820de013}
+      \strng{authornamehash}{413ce394b33e0f0b9c8fb812820de013}
+      \strng{authorfullhash}{413ce394b33e0f0b9c8fb812820de013}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -106,44 +110,46 @@
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{%
            family={Laborte},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={A\bibnamedelima G},
-           given_i={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=b55b41181357ca5c508adcf6d697b910}{%
            family={Paguirigan},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={N\bibnamedelima C},
-           given_i={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=eaa761998ffece6d9cca9dde75155ed2}{%
            family={Moya},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={P\bibnamedelima F},
-           given_i={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
         {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={A},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=9a66355e36a3c83cb96b12d8998026bf}{%
            family={Gregorio},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={G\bibnamedelima B},
-           given_i={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \strng{namehash}{b9496e14952b0d98df21f211562745a4}
       \strng{fullhash}{b9496e14952b0d98df21f211562745a4}
+      \strng{authornamehash}{b9496e14952b0d98df21f211562745a4}
+      \strng{authorfullhash}{b9496e14952b0d98df21f211562745a4}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{08}
+      \field{month}{8}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -155,27 +161,29 @@
       \name{author}{4}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=dfc18a486260f72c6da450bc98587406}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={G\bibnamedelima A},
-           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=51d13bf1af0fcbbc034b18eac04f7676}{%
            family={Hijmans},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={R\bibnamedelima J},
-           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={K\bibnamedelima A},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
       \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authornamehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authorfullhash}{d8500857444e77b151a2b329b7cb807d}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -194,62 +202,64 @@
       \name{author}{11}{}{%
         {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{%
            family={Barnwal},
-           family_i={B\bibinitperiod},
+           familyi={B\bibinitperiod},
            given={M\bibnamedelima K},
-           given_i={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
         {{hash=7446541693af9dabdc1f41b0ca7ea598}{%
            family={Kotasthane},
-           family_i={K\bibinitperiod},
+           familyi={K\bibinitperiod},
            given={A},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=3d6be1133a525fc2b823db1009a25302}{%
            family={Magculia},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={N},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=5a4f27f4646dd5c076a48b17118cd36e}{%
            family={Mukherjee},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={P\bibnamedelima K},
-           given_i={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
         {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={S},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{%
            family={Sharma},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima K},
-           given_i={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
         {{hash=7927305838b2ea50c6170dce134c96c7}{%
            family={Singh},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={H\bibnamedelima B},
-           given_i={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
         {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{%
            family={Singh},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={U\bibnamedelima S},
-           given_i={U\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{%
            family={Variar},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={M},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{%
            family={Zaidi},
-           family_i={Z\bibinitperiod},
+           familyi={Z\bibinitperiod},
            given={N},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \strng{namehash}{14cfc3c39be32a180cfd610fc6266e62}
       \strng{fullhash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{authornamehash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{authorfullhash}{14cfc3c39be32a180cfd610fc6266e62}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -269,81 +279,130 @@
       \verb http://link.springer.com/10.1007/s10658-013-0195-6
       \endverb
     \endentry
+    \entry{Gaudin2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{%
+           family={Gaudin},
+           familyi={G\bibinitperiod},
+           given={A\bibnamedelima C\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{%
+           family={Slamet-Loedin},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={I\bibnamedelima H},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{authornamehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{authorfullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
+      \field{issn}{1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{1}
+      \field{title}{{Taking transgenic rice drought screening to the field}}
+      \field{volume}{63}
+      \field{year}{2013}
+      \field{pages}{109\bibrangedash 117}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/jxb/ers313
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
+      \endverb
+    \endentry
     \entry{Garrett2011}{article}{}
       \name{author}{14}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={K\bibnamedelima A},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=dfc18a486260f72c6da450bc98587406}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={G\bibnamedelima A},
-           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={S},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=707804976675cc5f0dfd124bc59790ec}{%
            family={Skelsey},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={P},
-           given_i={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=0aff9414c698c61a95f12fbd40aaf46a}{%
            family={Valdivia},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={C},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=6119536557e5537d82de5c0f9684cafe}{%
            family={{van Bruggen}},
-           family_i={v\bibinitperiod},
+           familyi={v\bibinitperiod},
            given={A\bibnamedelima H\bibnamedelima C},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
-           family_i={W\bibinitperiod},
+           familyi={W\bibinitperiod},
            given={L},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={A},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={E},
-           given_i={E\bibinitperiod}}}%
+           giveni={E\bibinitperiod}}}%
         {{hash=1384cae32ce866bb81b5b09494d03e75}{%
            family={Eckersten},
-           family_i={E\bibinitperiod},
+           familyi={E\bibinitperiod},
            given={H},
-           given_i={H\bibinitperiod}}}%
+           giveni={H\bibinitperiod}}}%
         {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={S},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=312311068531479970498d6f3e68148b}{%
            family={{Vera Cruz}},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={C},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
-           family_i={Y\bibinitperiod},
+           familyi={Y\bibinitperiod},
            given={J},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
       \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{authornamehash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{authorfullhash}{e1cfcc49e335b93afe5e67115cb92c00}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -368,80 +427,82 @@
       \name{author}{14}{}{%
         {{hash=d6c22dad046f46c4feee6222958b71f2}{%
            family={Savary},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Serge},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=462884b594079727b08caef52f52dbc9}{%
            family={Nelson},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={Andrew},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=b410f8df054294d6fc9c44884a310e87}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Adam\bibnamedelima H.},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
            family={Willocquet},
-           family_i={W\bibinitperiod},
+           familyi={W\bibinitperiod},
            given={Laetitia},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
            family={Duveiller},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Etienne},
-           given_i={E\bibinitperiod}}}%
+           giveni={E\bibinitperiod}}}%
         {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
            family={Mahuku},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={George},
-           given_i={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod}}}%
         {{hash=597474e485634b7479fb8f307a8ce01b}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={Greg},
-           given_i={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod}}}%
         {{hash=a2425ce8df97a664e22c218adc6b7255}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={Karen\bibnamedelima A.},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=b676334a48f84eb116d5a73711314159}{%
            family={Hodson},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
            family={Padgham},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={Jon},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
            family={Pande},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={Suresh},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
            family={Sharma},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Mamta},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=7ce886eef9834aac10bc1a416328af5b}{%
            family={Yuen},
-           family_i={Y\bibinitperiod},
+           familyi={Y\bibinitperiod},
            given={Jonathan},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=7f41000cbcf73348e15ba231bb040df8}{%
            family={Djurle},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Annika},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
       \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
       \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -466,27 +527,29 @@
       \name{author}{4}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=dfc18a486260f72c6da450bc98587406}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={G\bibnamedelima A},
-           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=51d13bf1af0fcbbc034b18eac04f7676}{%
            family={Hijmans},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={R\bibnamedelima J},
-           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={K\bibnamedelima A},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
       \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authornamehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authorfullhash}{d8500857444e77b151a2b329b7cb807d}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -516,22 +579,24 @@
       \name{author}{3}{}{%
         {{hash=237e69480ecbb092d51cf2880cb6122f}{%
            family={Duku},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Confidence},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=b410f8df054294d6fc9c44884a310e87}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Adam\bibnamedelima H.},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=c57f6f760dc05647090ef3970fe6869a}{%
            family={Zwart},
-           family_i={Z\bibinitperiod},
+           familyi={Z\bibinitperiod},
            given={Sander\bibnamedelima J.},
-           given_i={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
       \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -556,27 +621,29 @@
       \name{author}{4}{}{%
         {{hash=37b628b7c19af317573311bec4873fa4}{%
            family={Dossa},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={S\bibnamedelima G},
-           given_i={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=b99ccd527ea8833bb10031bb5e78316d}{%
            family={Vera\bibnamedelima Cruz},
-           family_i={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
            given={C\bibnamedelima M},
-           given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=aa175d1d11f2a4cbb07f01b7ca27eadb}{%
            family={Oliva},
-           family_i={O\bibinitperiod},
+           familyi={O\bibinitperiod},
            given={R},
-           given_i={R\bibinitperiod}}}%
+           giveni={R\bibinitperiod}}}%
       }
       \strng{namehash}{413ce394b33e0f0b9c8fb812820de013}
       \strng{fullhash}{413ce394b33e0f0b9c8fb812820de013}
+      \strng{authornamehash}{413ce394b33e0f0b9c8fb812820de013}
+      \strng{authorfullhash}{413ce394b33e0f0b9c8fb812820de013}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -599,44 +666,46 @@
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{%
            family={Laborte},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={A\bibnamedelima G},
-           given_i={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=b55b41181357ca5c508adcf6d697b910}{%
            family={Paguirigan},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={N\bibnamedelima C},
-           given_i={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=eaa761998ffece6d9cca9dde75155ed2}{%
            family={Moya},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={P\bibnamedelima F},
-           given_i={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
         {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={A},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=9a66355e36a3c83cb96b12d8998026bf}{%
            family={Gregorio},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={G\bibnamedelima B},
-           given_i={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \strng{namehash}{b9496e14952b0d98df21f211562745a4}
       \strng{fullhash}{b9496e14952b0d98df21f211562745a4}
+      \strng{authornamehash}{b9496e14952b0d98df21f211562745a4}
+      \strng{authorfullhash}{b9496e14952b0d98df21f211562745a4}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{08}
+      \field{month}{8}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -648,27 +717,29 @@
       \name{author}{4}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=dfc18a486260f72c6da450bc98587406}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={G\bibnamedelima A},
-           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=51d13bf1af0fcbbc034b18eac04f7676}{%
            family={Hijmans},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={R\bibnamedelima J},
-           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={K\bibnamedelima A},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
       \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authornamehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authorfullhash}{d8500857444e77b151a2b329b7cb807d}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -687,62 +758,64 @@
       \name{author}{11}{}{%
         {{hash=71bc4175f3c07d7fee5b187b1ed5d71a}{%
            family={Barnwal},
-           family_i={B\bibinitperiod},
+           familyi={B\bibinitperiod},
            given={M\bibnamedelima K},
-           given_i={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
         {{hash=7446541693af9dabdc1f41b0ca7ea598}{%
            family={Kotasthane},
-           family_i={K\bibinitperiod},
+           familyi={K\bibinitperiod},
            given={A},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=3d6be1133a525fc2b823db1009a25302}{%
            family={Magculia},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={N},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=5a4f27f4646dd5c076a48b17118cd36e}{%
            family={Mukherjee},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={P\bibnamedelima K},
-           given_i={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
         {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={S},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=8aa3a9524f9bb1dbcbb829bc0253c09d}{%
            family={Sharma},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima K},
-           given_i={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
         {{hash=7927305838b2ea50c6170dce134c96c7}{%
            family={Singh},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={H\bibnamedelima B},
-           given_i={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
         {{hash=74f253f9ca11f4d49e24ba3fb3033adc}{%
            family={Singh},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={U\bibnamedelima S},
-           given_i={U\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=c2d8e1aaffb0cef3338bc304e49449c6}{%
            family={Variar},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={M},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=74ca93b90e1e2de8145fc83ce4e02f8a}{%
            family={Zaidi},
-           family_i={Z\bibinitperiod},
+           familyi={Z\bibinitperiod},
            given={N},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \strng{namehash}{14cfc3c39be32a180cfd610fc6266e62}
       \strng{fullhash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{authornamehash}{14cfc3c39be32a180cfd610fc6266e62}
+      \strng{authorfullhash}{14cfc3c39be32a180cfd610fc6266e62}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -762,81 +835,130 @@
       \verb http://link.springer.com/10.1007/s10658-013-0195-6
       \endverb
     \endentry
+    \entry{Gaudin2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=706c70894736d2bbedf1de0f34d2979b}{%
+           family={Gaudin},
+           familyi={G\bibinitperiod},
+           given={A\bibnamedelima C\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1be7735ef3a588e80a973e9eef97ab95}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c7f62cc16b14a6c4d88fe812c7cee66e}{%
+           family={Slamet-Loedin},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={I\bibnamedelima H},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{fullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{authornamehash}{e845bc7439ea2a0639defde22bdedf51}
+      \strng{authorfullhash}{e845bc7439ea2a0639defde22bdedf51}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Numerous transgenes have been reported to increase rice drought resistance, mostly in small-scale experiments under vegetative-stage drought stress, but few studies have included grain yield or field evaluations. Different definitions of drought resistance are currently in use for field-based and laboratory evaluations of transgenics, the former emphasizing plant responses that may not be linked to yield under drought. Although those fundamental studies use efficient protocols to uncover and validate gene functions, screening conditions differ greatly from field drought environments where the onset of drought stress symptoms is slow (2-3 weeks). Simplified screening methods, including severely stressed survival studies, are therefore not likely to identify transgenic events with better yield performance under drought in the target environment. As biosafety regulations are becoming established to allow field trials in some rice-producing countries, there is a need to develop relevant screening procedures that scale from preliminary event selection to greenhouse and field trials. Multilocation testing in a range of drought environments may reveal that different transgenes are necessary for different types of drought-prone field conditions. We describe here a pipeline to improve the selection efficiency and reproducibility of results across drought treatments and test the potential of transgenic rice for the development of drought-resistant material for agricultural purposes.}
+      \field{issn}{1460-2431}
+      \field{journaltitle}{Journal of Experimental Botany}
+      \field{number}{1}
+      \field{title}{{Taking transgenic rice drought screening to the field}}
+      \field{volume}{63}
+      \field{year}{2013}
+      \field{pages}{109\bibrangedash 117}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/jxb/ers313
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
+      \endverb
+    \endentry
     \entry{Garrett2011}{article}{}
       \name{author}{14}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={K\bibnamedelima A},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=dfc18a486260f72c6da450bc98587406}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={G\bibnamedelima A},
-           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={S},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=707804976675cc5f0dfd124bc59790ec}{%
            family={Skelsey},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={P},
-           given_i={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod}}}%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=0aff9414c698c61a95f12fbd40aaf46a}{%
            family={Valdivia},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={C},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=6119536557e5537d82de5c0f9684cafe}{%
            family={{van Bruggen}},
-           family_i={v\bibinitperiod},
+           familyi={v\bibinitperiod},
            given={A\bibnamedelima H\bibnamedelima C},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
-           family_i={W\bibinitperiod},
+           familyi={W\bibinitperiod},
            given={L},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={A},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={E},
-           given_i={E\bibinitperiod}}}%
+           giveni={E\bibinitperiod}}}%
         {{hash=1384cae32ce866bb81b5b09494d03e75}{%
            family={Eckersten},
-           family_i={E\bibinitperiod},
+           familyi={E\bibinitperiod},
            given={H},
-           given_i={H\bibinitperiod}}}%
+           giveni={H\bibinitperiod}}}%
         {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={S},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=312311068531479970498d6f3e68148b}{%
            family={{Vera Cruz}},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={C},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
-           family_i={Y\bibinitperiod},
+           familyi={Y\bibinitperiod},
            given={J},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
       \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{authornamehash}{e1cfcc49e335b93afe5e67115cb92c00}
+      \strng{authorfullhash}{e1cfcc49e335b93afe5e67115cb92c00}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -861,80 +983,82 @@
       \name{author}{14}{}{%
         {{hash=d6c22dad046f46c4feee6222958b71f2}{%
            family={Savary},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Serge},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=462884b594079727b08caef52f52dbc9}{%
            family={Nelson},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={Andrew},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=b410f8df054294d6fc9c44884a310e87}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Adam\bibnamedelima H.},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
            family={Willocquet},
-           family_i={W\bibinitperiod},
+           familyi={W\bibinitperiod},
            given={Laetitia},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
            family={Duveiller},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Etienne},
-           given_i={E\bibinitperiod}}}%
+           giveni={E\bibinitperiod}}}%
         {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
            family={Mahuku},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={George},
-           given_i={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod}}}%
         {{hash=597474e485634b7479fb8f307a8ce01b}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={Greg},
-           given_i={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod}}}%
         {{hash=a2425ce8df97a664e22c218adc6b7255}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={Karen\bibnamedelima A.},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=b676334a48f84eb116d5a73711314159}{%
            family={Hodson},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
            family={Padgham},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={Jon},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
            family={Pande},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={Suresh},
-           given_i={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod}}}%
         {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
            family={Sharma},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Mamta},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=7ce886eef9834aac10bc1a416328af5b}{%
            family={Yuen},
-           family_i={Y\bibinitperiod},
+           familyi={Y\bibinitperiod},
            given={Jonathan},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=7f41000cbcf73348e15ba231bb040df8}{%
            family={Djurle},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Annika},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
       \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
       \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -959,27 +1083,29 @@
       \name{author}{4}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={A\bibnamedelima H},
-           given_i={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=dfc18a486260f72c6da450bc98587406}{%
            family={Forbes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={G\bibnamedelima A},
-           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=51d13bf1af0fcbbc034b18eac04f7676}{%
            family={Hijmans},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={R\bibnamedelima J},
-           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={K\bibnamedelima A},
-           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
       \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authornamehash}{d8500857444e77b151a2b329b7cb807d}
+      \strng{authorfullhash}{d8500857444e77b151a2b329b7cb807d}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
