@@ -1,10 +1,11 @@
 # Fdb version 3
-["biber AHSparks_2_Page_CV"] 1475888976 "AHSparks_2_Page_CV.bcf" "AHSparks_2_Page_CV.bbl" "AHSparks_2_Page_CV" 1475888987
-  "AHSparks_2_Page_CV.bcf" 1475888987 96165 40537076223a1193ac6e2c874b5c6893 ""
-  "bibliography_2_Page_CV.bib" 1475888949 9609 15524aa669ef157ef6f07425e7f88031 ""
+["biber AHSparks_2_Page_CV"] 1475891721 "AHSparks_2_Page_CV.bcf" "AHSparks_2_Page_CV.bbl" "AHSparks_2_Page_CV" 1475891726
+  "AHSparks_2_Page_CV.bcf" 1475891726 96165 40537076223a1193ac6e2c874b5c6893 ""
+  "bibliography_2_Page_CV.bib" 1475891705 9650 9671baa9abe8cd8720445135b34f3915 ""
   (generated)
+  "AHSparks_2_Page_CV.blg"
   "AHSparks_2_Page_CV.bbl"
-["pdflatex"] 1475888984 "AHSparks_2_Page_CV.tex" "AHSparks_2_Page_CV.pdf" "AHSparks_2_Page_CV" 1475888987
+["pdflatex"] 1475891722 "AHSparks_2_Page_CV.tex" "AHSparks_2_Page_CV.pdf" "AHSparks_2_Page_CV" 1475891726
   "/usr/local/texlive/2016basic/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016basic/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2016basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -102,17 +103,17 @@
   "/usr/local/texlive/2016basic/texmf-dist/web2c/texmf.cnf" 1470266149 31958 926ad82bc47ee89401cf24be7d2cbf7d ""
   "/usr/local/texlive/2016basic/texmf-var/web2c/xetex/xelatex.fmt" 1466942408 3080666 9a79f939d20dcb9076438ea286d88910 ""
   "/usr/local/texlive/2016basic/texmf.cnf" 1463981856 628 02e65753891144204a0c89f7fa5761b2 ""
-  "AHSparks_2_Page_CV.aux" 1475888987 1959 8babe7664a665d51f4d5cdeab5820dc4 ""
-  "AHSparks_2_Page_CV.bbl" 1475888977 51816 ee2b57d6a16a988984d2abcd8e0ec336 "biber AHSparks_2_Page_CV"
-  "AHSparks_2_Page_CV.out" 1475888986 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "AHSparks_2_Page_CV.run.xml" 1475888987 2450 0c9278de52d4dff3b088980105ebeb2c ""
+  "AHSparks_2_Page_CV.aux" 1475891726 1959 8babe7664a665d51f4d5cdeab5820dc4 ""
+  "AHSparks_2_Page_CV.bbl" 1475891722 51910 0b8f4485407790729a82ced842f9e556 "biber AHSparks_2_Page_CV"
+  "AHSparks_2_Page_CV.out" 1475891725 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "AHSparks_2_Page_CV.run.xml" 1475891726 2450 0c9278de52d4dff3b088980105ebeb2c ""
   "AHSparks_2_Page_CV.tex" 1475888066 600 49767d01832323043546106729382e49 ""
   "Aside_Work_Experience.tex" 1466841660 2745 cfe96b8e6f048549908882cc4e5c6776 ""
   "friggeri-cv.cls" 1472811776 6033 4e008245a79b879ffe0bb3cb6459490d ""
   (generated)
-  "AHSparks_2_Page_CV.run.xml"
   "AHSparks_2_Page_CV.log"
-  "AHSparks_2_Page_CV.aux"
-  "AHSparks_2_Page_CV.out"
-  "AHSparks_2_Page_CV.bcf"
+  "AHSparks_2_Page_CV.run.xml"
   "AHSparks_2_Page_CV.pdf"
+  "AHSparks_2_Page_CV.bcf"
+  "AHSparks_2_Page_CV.out"
+  "AHSparks_2_Page_CV.aux"
