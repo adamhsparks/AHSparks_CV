@@ -21,26 +21,26 @@
   \sortlist[entry]{ydnt/global/}
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
            family={Duku},
            familyi={D\bibinitperiod},
-           given={Confidence},
+           given={C},
            giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+        {{hash=9729018cda6012aa9582b21b88a04e19}{%
            family={Zwart},
            familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
+           given={S\bibnamedelima J},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{namehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{fullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authornamehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authorfullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -96,6 +96,7 @@
       \field{abstract}{Attempting to achieve long-lasting and stable resistance using uniformly deployed rice varieties is not a sustainable approach. The real situation appears to be much more complex and dynamic, one in which pathogens quickly adapt to resistant varieties. To prevent disease epidemics, deployment should be customized and this decision will require interdisciplinary actions. This perspective article aims to highlight the current progress on disease resistance deployment to control bacterial blight in rice. Although the model system rice \textit{Xanthomonas oryzae} pv. \textit{oryzae} has distinctive features that underpin the need for a case-by-case analysis, strategies to integrate those elements into a unique decision tool could be easily extended to other crops.}
       \field{issn}{1664-462X}
       \field{journaltitle}{Frontiers in Plant Science}
+      \field{month}{5}
       \field{number}{305}
       \field{title}{Decision tools for bacterial blight resistance gene deployment in rice-based agricultural ecosystems}
       \field{volume}{6}
@@ -427,84 +428,84 @@
     \endentry
     \entry{Savary2011a}{article}{}
       \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
            familyi={S\bibinitperiod},
-           given={Serge},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
            familyi={N\bibinitperiod},
-           given={Andrew},
+           given={A},
            giveni={A\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
            familyi={W\bibinitperiod},
-           given={Laetitia},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
            familyi={D\bibinitperiod},
-           given={Etienne},
+           given={E},
            giveni={E\bibinitperiod}}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
            family={Mahuku},
            familyi={M\bibinitperiod},
-           given={George},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
            family={Forbes},
            familyi={F\bibinitperiod},
-           given={Greg},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{%
+        {{hash=d321f65febdd34739c45263f89db7cc4}{%
            family={Hodson},
            familyi={H\bibinitperiod},
-           given={David},
+           given={D},
            giveni={D\bibinitperiod}}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
            family={Padgham},
            familyi={P\bibinitperiod},
-           given={Jon},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
            familyi={P\bibinitperiod},
-           given={Suresh},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
            familyi={Y\bibinitperiod},
-           given={Jonathan},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
            familyi={D\bibinitperiod},
-           given={Annika},
+           given={A},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -579,26 +580,26 @@
   \sortlist[entry]{ydnt/global/}
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
            family={Duku},
            familyi={D\bibinitperiod},
-           given={Confidence},
+           given={C},
            giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+        {{hash=9729018cda6012aa9582b21b88a04e19}{%
            family={Zwart},
            familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
+           given={S\bibnamedelima J},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{namehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{fullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authornamehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authorfullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -654,6 +655,7 @@
       \field{abstract}{Attempting to achieve long-lasting and stable resistance using uniformly deployed rice varieties is not a sustainable approach. The real situation appears to be much more complex and dynamic, one in which pathogens quickly adapt to resistant varieties. To prevent disease epidemics, deployment should be customized and this decision will require interdisciplinary actions. This perspective article aims to highlight the current progress on disease resistance deployment to control bacterial blight in rice. Although the model system rice \textit{Xanthomonas oryzae} pv. \textit{oryzae} has distinctive features that underpin the need for a case-by-case analysis, strategies to integrate those elements into a unique decision tool could be easily extended to other crops.}
       \field{issn}{1664-462X}
       \field{journaltitle}{Frontiers in Plant Science}
+      \field{month}{5}
       \field{number}{305}
       \field{title}{Decision tools for bacterial blight resistance gene deployment in rice-based agricultural ecosystems}
       \field{volume}{6}
@@ -985,84 +987,84 @@
     \endentry
     \entry{Savary2011a}{article}{}
       \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
            familyi={S\bibinitperiod},
-           given={Serge},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
            familyi={N\bibinitperiod},
-           given={Andrew},
+           given={A},
            giveni={A\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
            familyi={W\bibinitperiod},
-           given={Laetitia},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
            familyi={D\bibinitperiod},
-           given={Etienne},
+           given={E},
            giveni={E\bibinitperiod}}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
            family={Mahuku},
            familyi={M\bibinitperiod},
-           given={George},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
            family={Forbes},
            familyi={F\bibinitperiod},
-           given={Greg},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{%
+        {{hash=d321f65febdd34739c45263f89db7cc4}{%
            family={Hodson},
            familyi={H\bibinitperiod},
-           given={David},
+           given={D},
            giveni={D\bibinitperiod}}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
            family={Padgham},
            familyi={P\bibinitperiod},
-           given={Jon},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
            familyi={P\bibinitperiod},
-           given={Suresh},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
            familyi={Y\bibinitperiod},
-           given={Jonathan},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
            familyi={D\bibinitperiod},
-           given={Annika},
+           given={A},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}

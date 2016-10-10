@@ -19,6 +19,48 @@
 
 \refsection{1}
   \sortlist[entry]{ydnt/global/}
+    \entry{Sparks2002b}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Root Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
+      \endverb
+    \endentry
+    \entry{Sparks2002a}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Stalk Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
+      \endverb
+    \endentry
     \entry{Sparks2008b}{online}{}
       \name{author}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -97,70 +139,28 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{Sparks2002b}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Root Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
-      \endverb
-    \endentry
-    \entry{Sparks2002a}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Stalk Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
-      \endverb
-    \endentry
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
            family={Duku},
            familyi={D\bibinitperiod},
-           given={Confidence},
+           given={C},
            giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+        {{hash=9729018cda6012aa9582b21b88a04e19}{%
            family={Zwart},
            familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
+           given={S\bibnamedelima J},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{namehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{fullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authornamehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authorfullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -184,35 +184,35 @@
     \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7de20d675614596cef0980ace842308d}{%
+        {{hash=ca5bd2717d7195cc94d3388adab0774d}{%
            family={Nita},
            familyi={N\bibinitperiod},
-           given={Mizuho},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=93f6641a603ac7f13cff7d70ea530a01}{%
+        {{hash=8970e01f9e1b2762677b3fe5cafc69a8}{%
            family={Wolf},
            familyi={W\bibinitperiod},
-           given={Erick\bibnamedelimb D.\bibnamedelimi De},
+           given={E\bibnamedelima D\bibnamedelima De},
            giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{%
            family={Esker},
            familyi={E\bibinitperiod},
-           given={Paul\bibnamedelima D.},
+           given={P\bibnamedelima D},
            giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{%
+        {{hash=ae9d19357034624562795afdbb16124f}{%
            family={Gomez-Montano},
            familyi={G\bibinithyphendelim M\bibinitperiod},
-           given={Lorena},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
@@ -225,10 +225,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{fullhash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authornamehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authorfullhash}{b6c2c1bedb793abc5b313684e1676161}
+      \strng{namehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{fullhash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authornamehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authorfullhash}{ea3562456eef60009c3e60e63d8057c6}
       \strng{editornamehash}{1401083ee136082e4f46fe9a765860d7}
       \strng{editorfullhash}{1401083ee136082e4f46fe9a765860d7}
       \field{sortinit}{2}
@@ -345,21 +345,21 @@
     \endentry
     \entry{Sparks2015}{inproceedings}{}
       \name{author}{2}{}{%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=09a174650cce53b7f49f239bbb71381f}{%
+        {{hash=c4a5ad051f007540b16f6bd66db80363}{%
            family={Noel},
            familyi={N\bibinitperiod},
-           given={Michael},
+           given={M},
            giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authornamehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authorfullhash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{namehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{fullhash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authornamehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authorfullhash}{09b81c204b1ddde68aca821bcbeceeac}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -1029,84 +1029,84 @@
     \endentry
     \entry{Savary2011a}{article}{}
       \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
            familyi={S\bibinitperiod},
-           given={Serge},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
            familyi={N\bibinitperiod},
-           given={Andrew},
+           given={A},
            giveni={A\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
            familyi={W\bibinitperiod},
-           given={Laetitia},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
            familyi={D\bibinitperiod},
-           given={Etienne},
+           given={E},
            giveni={E\bibinitperiod}}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
            family={Mahuku},
            familyi={M\bibinitperiod},
-           given={George},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
            family={Forbes},
            familyi={F\bibinitperiod},
-           given={Greg},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{%
+        {{hash=d321f65febdd34739c45263f89db7cc4}{%
            family={Hodson},
            familyi={H\bibinitperiod},
-           given={David},
+           given={D},
            giveni={D\bibinitperiod}}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
            family={Padgham},
            familyi={P\bibinitperiod},
-           given={Jon},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
            familyi={P\bibinitperiod},
-           given={Suresh},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
            familyi={Y\bibinitperiod},
-           given={Jonathan},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
            familyi={D\bibinitperiod},
-           given={Annika},
+           given={A},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -1393,6 +1393,30 @@
       \verb http://stacks.iop.org/1755-1315/6/i=37/a=372007?key=crossref.69544ee02328bd1221563edc11c16354
       \endverb
     \endentry
+    \entry{SparksDissertation2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kansas State University}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
+      \field{type}{PhD Dissertation}
+      \field{year}{2009}
+    \endentry
     \entry{Sparks2009a}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -1458,30 +1482,6 @@
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
       \range{pages}{3}
-    \endentry
-    \entry{SparksDissertation2009}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Kansas State University}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
-      \field{type}{PhD Dissertation}
-      \field{year}{2009}
     \endentry
     \entry{Esker2008b}{article}{}
       \name{author}{9}{}{%
@@ -1818,10 +1818,10 @@
       \field{title}{Introduction to the R programming environment}
       \field{year}{2007}
       \verb{doi}
-      \verb 10.1094/PHI-A-2008-0129-02
+      \verb 10.1094/PHI-A-2007-1226-02
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1094/PHI-A-2008-0129-02
+      \verb http://dx.doi.org/10.1094/PHI-A-2007-1226-02
       \endverb
     \endentry
     \entry{Garrett2007b}{article}{}
@@ -1928,6 +1928,48 @@
 
 \refsection{2}
   \sortlist[entry]{ydnt/global/}
+    \entry{Sparks2002b}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Root Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
+      \endverb
+    \endentry
+    \entry{Sparks2002a}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Stalk Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
+      \endverb
+    \endentry
     \entry{Sparks2008b}{online}{}
       \name{author}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -2006,70 +2048,28 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{Sparks2002b}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Root Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
-      \endverb
-    \endentry
-    \entry{Sparks2002a}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Stalk Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
-      \endverb
-    \endentry
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
            family={Duku},
            familyi={D\bibinitperiod},
-           given={Confidence},
+           given={C},
            giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+        {{hash=9729018cda6012aa9582b21b88a04e19}{%
            family={Zwart},
            familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
+           given={S\bibnamedelima J},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{namehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{fullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authornamehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authorfullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -2093,35 +2093,35 @@
     \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7de20d675614596cef0980ace842308d}{%
+        {{hash=ca5bd2717d7195cc94d3388adab0774d}{%
            family={Nita},
            familyi={N\bibinitperiod},
-           given={Mizuho},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=93f6641a603ac7f13cff7d70ea530a01}{%
+        {{hash=8970e01f9e1b2762677b3fe5cafc69a8}{%
            family={Wolf},
            familyi={W\bibinitperiod},
-           given={Erick\bibnamedelimb D.\bibnamedelimi De},
+           given={E\bibnamedelima D\bibnamedelima De},
            giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{%
            family={Esker},
            familyi={E\bibinitperiod},
-           given={Paul\bibnamedelima D.},
+           given={P\bibnamedelima D},
            giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{%
+        {{hash=ae9d19357034624562795afdbb16124f}{%
            family={Gomez-Montano},
            familyi={G\bibinithyphendelim M\bibinitperiod},
-           given={Lorena},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
@@ -2134,10 +2134,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{fullhash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authornamehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authorfullhash}{b6c2c1bedb793abc5b313684e1676161}
+      \strng{namehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{fullhash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authornamehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authorfullhash}{ea3562456eef60009c3e60e63d8057c6}
       \strng{editornamehash}{1401083ee136082e4f46fe9a765860d7}
       \strng{editorfullhash}{1401083ee136082e4f46fe9a765860d7}
       \field{sortinit}{2}
@@ -2254,21 +2254,21 @@
     \endentry
     \entry{Sparks2015}{inproceedings}{}
       \name{author}{2}{}{%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=09a174650cce53b7f49f239bbb71381f}{%
+        {{hash=c4a5ad051f007540b16f6bd66db80363}{%
            family={Noel},
            familyi={N\bibinitperiod},
-           given={Michael},
+           given={M},
            giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authornamehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authorfullhash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{namehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{fullhash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authornamehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authorfullhash}{09b81c204b1ddde68aca821bcbeceeac}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -2938,84 +2938,84 @@
     \endentry
     \entry{Savary2011a}{article}{}
       \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
            familyi={S\bibinitperiod},
-           given={Serge},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
            familyi={N\bibinitperiod},
-           given={Andrew},
+           given={A},
            giveni={A\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
            familyi={W\bibinitperiod},
-           given={Laetitia},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
            familyi={D\bibinitperiod},
-           given={Etienne},
+           given={E},
            giveni={E\bibinitperiod}}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
            family={Mahuku},
            familyi={M\bibinitperiod},
-           given={George},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
            family={Forbes},
            familyi={F\bibinitperiod},
-           given={Greg},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{%
+        {{hash=d321f65febdd34739c45263f89db7cc4}{%
            family={Hodson},
            familyi={H\bibinitperiod},
-           given={David},
+           given={D},
            giveni={D\bibinitperiod}}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
            family={Padgham},
            familyi={P\bibinitperiod},
-           given={Jon},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
            familyi={P\bibinitperiod},
-           given={Suresh},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
            familyi={Y\bibinitperiod},
-           given={Jonathan},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
            familyi={D\bibinitperiod},
-           given={Annika},
+           given={A},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -3302,6 +3302,30 @@
       \verb http://stacks.iop.org/1755-1315/6/i=37/a=372007?key=crossref.69544ee02328bd1221563edc11c16354
       \endverb
     \endentry
+    \entry{SparksDissertation2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kansas State University}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
+      \field{type}{PhD Dissertation}
+      \field{year}{2009}
+    \endentry
     \entry{Sparks2009a}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -3367,30 +3391,6 @@
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
       \range{pages}{3}
-    \endentry
-    \entry{SparksDissertation2009}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Kansas State University}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
-      \field{type}{PhD Dissertation}
-      \field{year}{2009}
     \endentry
     \entry{Esker2008b}{article}{}
       \name{author}{9}{}{%
@@ -3727,10 +3727,10 @@
       \field{title}{Introduction to the R programming environment}
       \field{year}{2007}
       \verb{doi}
-      \verb 10.1094/PHI-A-2008-0129-02
+      \verb 10.1094/PHI-A-2007-1226-02
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1094/PHI-A-2008-0129-02
+      \verb http://dx.doi.org/10.1094/PHI-A-2007-1226-02
       \endverb
     \endentry
     \entry{Garrett2007b}{article}{}
@@ -3837,6 +3837,48 @@
 
 \refsection{3}
   \sortlist[entry]{ydnt/global/}
+    \entry{Sparks2002b}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Root Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
+      \endverb
+    \endentry
+    \entry{Sparks2002a}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Stalk Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
+      \endverb
+    \endentry
     \entry{Sparks2008b}{online}{}
       \name{author}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -3915,70 +3957,28 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{Sparks2002b}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Root Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
-      \endverb
-    \endentry
-    \entry{Sparks2002a}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Stalk Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
-      \endverb
-    \endentry
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
            family={Duku},
            familyi={D\bibinitperiod},
-           given={Confidence},
+           given={C},
            giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+        {{hash=9729018cda6012aa9582b21b88a04e19}{%
            family={Zwart},
            familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
+           given={S\bibnamedelima J},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{namehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{fullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authornamehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authorfullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -4002,35 +4002,35 @@
     \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7de20d675614596cef0980ace842308d}{%
+        {{hash=ca5bd2717d7195cc94d3388adab0774d}{%
            family={Nita},
            familyi={N\bibinitperiod},
-           given={Mizuho},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=93f6641a603ac7f13cff7d70ea530a01}{%
+        {{hash=8970e01f9e1b2762677b3fe5cafc69a8}{%
            family={Wolf},
            familyi={W\bibinitperiod},
-           given={Erick\bibnamedelimb D.\bibnamedelimi De},
+           given={E\bibnamedelima D\bibnamedelima De},
            giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{%
            family={Esker},
            familyi={E\bibinitperiod},
-           given={Paul\bibnamedelima D.},
+           given={P\bibnamedelima D},
            giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{%
+        {{hash=ae9d19357034624562795afdbb16124f}{%
            family={Gomez-Montano},
            familyi={G\bibinithyphendelim M\bibinitperiod},
-           given={Lorena},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
@@ -4043,10 +4043,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{fullhash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authornamehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authorfullhash}{b6c2c1bedb793abc5b313684e1676161}
+      \strng{namehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{fullhash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authornamehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authorfullhash}{ea3562456eef60009c3e60e63d8057c6}
       \strng{editornamehash}{1401083ee136082e4f46fe9a765860d7}
       \strng{editorfullhash}{1401083ee136082e4f46fe9a765860d7}
       \field{sortinit}{2}
@@ -4163,21 +4163,21 @@
     \endentry
     \entry{Sparks2015}{inproceedings}{}
       \name{author}{2}{}{%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=09a174650cce53b7f49f239bbb71381f}{%
+        {{hash=c4a5ad051f007540b16f6bd66db80363}{%
            family={Noel},
            familyi={N\bibinitperiod},
-           given={Michael},
+           given={M},
            giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authornamehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authorfullhash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{namehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{fullhash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authornamehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authorfullhash}{09b81c204b1ddde68aca821bcbeceeac}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -4847,84 +4847,84 @@
     \endentry
     \entry{Savary2011a}{article}{}
       \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
            familyi={S\bibinitperiod},
-           given={Serge},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
            familyi={N\bibinitperiod},
-           given={Andrew},
+           given={A},
            giveni={A\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
            familyi={W\bibinitperiod},
-           given={Laetitia},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
            familyi={D\bibinitperiod},
-           given={Etienne},
+           given={E},
            giveni={E\bibinitperiod}}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
            family={Mahuku},
            familyi={M\bibinitperiod},
-           given={George},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
            family={Forbes},
            familyi={F\bibinitperiod},
-           given={Greg},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{%
+        {{hash=d321f65febdd34739c45263f89db7cc4}{%
            family={Hodson},
            familyi={H\bibinitperiod},
-           given={David},
+           given={D},
            giveni={D\bibinitperiod}}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
            family={Padgham},
            familyi={P\bibinitperiod},
-           given={Jon},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
            familyi={P\bibinitperiod},
-           given={Suresh},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
            familyi={Y\bibinitperiod},
-           given={Jonathan},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
            familyi={D\bibinitperiod},
-           given={Annika},
+           given={A},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -5211,6 +5211,30 @@
       \verb http://stacks.iop.org/1755-1315/6/i=37/a=372007?key=crossref.69544ee02328bd1221563edc11c16354
       \endverb
     \endentry
+    \entry{SparksDissertation2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kansas State University}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
+      \field{type}{PhD Dissertation}
+      \field{year}{2009}
+    \endentry
     \entry{Sparks2009a}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -5276,30 +5300,6 @@
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
       \range{pages}{3}
-    \endentry
-    \entry{SparksDissertation2009}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Kansas State University}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
-      \field{type}{PhD Dissertation}
-      \field{year}{2009}
     \endentry
     \entry{Esker2008b}{article}{}
       \name{author}{9}{}{%
@@ -5636,10 +5636,10 @@
       \field{title}{Introduction to the R programming environment}
       \field{year}{2007}
       \verb{doi}
-      \verb 10.1094/PHI-A-2008-0129-02
+      \verb 10.1094/PHI-A-2007-1226-02
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1094/PHI-A-2008-0129-02
+      \verb http://dx.doi.org/10.1094/PHI-A-2007-1226-02
       \endverb
     \endentry
     \entry{Garrett2007b}{article}{}
@@ -5746,6 +5746,48 @@
 
 \refsection{4}
   \sortlist[entry]{ydnt/global/}
+    \entry{Sparks2002b}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Root Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
+      \endverb
+    \endentry
+    \entry{Sparks2002a}{url}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusarium Stalk Rot of Corn}
+      \verb{url}
+      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
+      \endverb
+    \endentry
     \entry{Sparks2008b}{online}{}
       \name{author}{2}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -5824,70 +5866,28 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{Sparks2002b}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Root Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumrootrot
-      \endverb
-    \endentry
-    \entry{Sparks2002a}{url}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{9}
-      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fusarium Stalk Rot of Corn}
-      \verb{url}
-      \verb http://pdc.unl.edu/agriculturecrops/corn/fusariumstalkrot
-      \endverb
-    \endentry
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+        {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
            family={Duku},
            familyi={D\bibinitperiod},
-           given={Confidence},
+           given={C},
            giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+        {{hash=9729018cda6012aa9582b21b88a04e19}{%
            family={Zwart},
            familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
+           given={S\bibnamedelima J},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{namehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{fullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authornamehash}{eb854d49ed572b641ee6c1d8bb5e26c1}
+      \strng{authorfullhash}{eb854d49ed572b641ee6c1d8bb5e26c1}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -5911,35 +5911,35 @@
     \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7de20d675614596cef0980ace842308d}{%
+        {{hash=ca5bd2717d7195cc94d3388adab0774d}{%
            family={Nita},
            familyi={N\bibinitperiod},
-           given={Mizuho},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=93f6641a603ac7f13cff7d70ea530a01}{%
+        {{hash=8970e01f9e1b2762677b3fe5cafc69a8}{%
            family={Wolf},
            familyi={W\bibinitperiod},
-           given={Erick\bibnamedelimb D.\bibnamedelimi De},
+           given={E\bibnamedelima D\bibnamedelima De},
            giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=b7959a9b6a7dfb3a45ad0f4dd068cc6c}{%
+        {{hash=e5d0ee6a979257137550fb335f0dc849}{%
            family={Esker},
            familyi={E\bibinitperiod},
-           given={Paul\bibnamedelima D.},
+           given={P\bibnamedelima D},
            giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ef20fa77ebe7417ad6b6e27183bc2b0b}{%
+        {{hash=ae9d19357034624562795afdbb16124f}{%
            family={Gomez-Montano},
            familyi={G\bibinithyphendelim M\bibinitperiod},
-           given={Lorena},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
@@ -5952,10 +5952,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{fullhash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authornamehash}{b6c2c1bedb793abc5b313684e1676161}
-      \strng{authorfullhash}{b6c2c1bedb793abc5b313684e1676161}
+      \strng{namehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{fullhash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authornamehash}{ea3562456eef60009c3e60e63d8057c6}
+      \strng{authorfullhash}{ea3562456eef60009c3e60e63d8057c6}
       \strng{editornamehash}{1401083ee136082e4f46fe9a765860d7}
       \strng{editorfullhash}{1401083ee136082e4f46fe9a765860d7}
       \field{sortinit}{2}
@@ -6072,21 +6072,21 @@
     \endentry
     \entry{Sparks2015}{inproceedings}{}
       \name{author}{2}{}{%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=09a174650cce53b7f49f239bbb71381f}{%
+        {{hash=c4a5ad051f007540b16f6bd66db80363}{%
            family={Noel},
            familyi={N\bibinitperiod},
-           given={Michael},
+           given={M},
            giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{fullhash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authornamehash}{1506e532d3baf118182d95c6d755ff61}
-      \strng{authorfullhash}{1506e532d3baf118182d95c6d755ff61}
+      \strng{namehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{fullhash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authornamehash}{09b81c204b1ddde68aca821bcbeceeac}
+      \strng{authorfullhash}{09b81c204b1ddde68aca821bcbeceeac}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -6756,84 +6756,84 @@
     \endentry
     \entry{Savary2011a}{article}{}
       \name{author}{14}{}{%
-        {{hash=d6c22dad046f46c4feee6222958b71f2}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
            family={Savary},
            familyi={S\bibinitperiod},
-           given={Serge},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=462884b594079727b08caef52f52dbc9}{%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
            family={Nelson},
            familyi={N\bibinitperiod},
-           given={Andrew},
+           given={A},
            giveni={A\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
+           given={A\bibnamedelima H},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=8d9149d4046ecea8ec14656ff86253c4}{%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
            family={Willocquet},
            familyi={W\bibinitperiod},
-           given={Laetitia},
+           given={L},
            giveni={L\bibinitperiod}}}%
-        {{hash=bdaa74d9028f02e93192a0ed12fa3951}{%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
            family={Duveiller},
            familyi={D\bibinitperiod},
-           given={Etienne},
+           given={E},
            giveni={E\bibinitperiod}}}%
-        {{hash=a77afee9c47a17af88a4aa33722d8e04}{%
+        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
            family={Mahuku},
            familyi={M\bibinitperiod},
-           given={George},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=597474e485634b7479fb8f307a8ce01b}{%
+        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
            family={Forbes},
            familyi={F\bibinitperiod},
-           given={Greg},
+           given={G},
            giveni={G\bibinitperiod}}}%
-        {{hash=a2425ce8df97a664e22c218adc6b7255}{%
+        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
            family={Garrett},
            familyi={G\bibinitperiod},
-           given={Karen\bibnamedelima A.},
+           given={K\bibnamedelima A},
            giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=b676334a48f84eb116d5a73711314159}{%
+        {{hash=d321f65febdd34739c45263f89db7cc4}{%
            family={Hodson},
            familyi={H\bibinitperiod},
-           given={David},
+           given={D},
            giveni={D\bibinitperiod}}}%
-        {{hash=f69ac9fb4799fe354f85fd5b6d888b46}{%
+        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
            family={Padgham},
            familyi={P\bibinitperiod},
-           given={Jon},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=04bb88a3d52cbf26f39e076cb54c8020}{%
+        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
            family={Pande},
            familyi={P\bibinitperiod},
-           given={Suresh},
+           given={S},
            giveni={S\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=7ce886eef9834aac10bc1a416328af5b}{%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
            family={Yuen},
            familyi={Y\bibinitperiod},
-           given={Jonathan},
+           given={J},
            giveni={J\bibinitperiod}}}%
-        {{hash=7f41000cbcf73348e15ba231bb040df8}{%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
            family={Djurle},
            familyi={D\bibinitperiod},
-           given={Annika},
+           given={A},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Scientific Societies}%
       }
-      \strng{namehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{fullhash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authornamehash}{b2109a7b9b362973a0f1c8edb039e66f}
-      \strng{authorfullhash}{b2109a7b9b362973a0f1c8edb039e66f}
+      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
+      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
@@ -7120,6 +7120,30 @@
       \verb http://stacks.iop.org/1755-1315/6/i=37/a=372007?key=crossref.69544ee02328bd1221563edc11c16354
       \endverb
     \endentry
+    \entry{SparksDissertation2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kansas State University}%
+      }
+      \strng{namehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{fullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authornamehash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \strng{authorfullhash}{fdf969493c1eb310bd9dd0410b6c670c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
+      \field{type}{PhD Dissertation}
+      \field{year}{2009}
+    \endentry
     \entry{Sparks2009a}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
@@ -7185,30 +7209,6 @@
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
       \range{pages}{3}
-    \endentry
-    \entry{SparksDissertation2009}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=9f87d183e042ee0f513b24a72902b550}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Kansas State University}%
-      }
-      \strng{namehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{fullhash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authornamehash}{9f87d183e042ee0f513b24a72902b550}
-      \strng{authorfullhash}{9f87d183e042ee0f513b24a72902b550}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions}
-      \field{type}{PhD Dissertation}
-      \field{year}{2009}
     \endentry
     \entry{Esker2008b}{article}{}
       \name{author}{9}{}{%
@@ -7545,10 +7545,10 @@
       \field{title}{Introduction to the R programming environment}
       \field{year}{2007}
       \verb{doi}
-      \verb 10.1094/PHI-A-2008-0129-02
+      \verb 10.1094/PHI-A-2007-1226-02
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1094/PHI-A-2008-0129-02
+      \verb http://dx.doi.org/10.1094/PHI-A-2007-1226-02
       \endverb
     \endentry
     \entry{Garrett2007b}{article}{}
