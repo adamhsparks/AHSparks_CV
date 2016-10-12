@@ -1,0 +1,630 @@
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  12 OCT 2016 09:41
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**Aside_Work_Experience.tex
+(./Aside_Work_Experience.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+
+./Aside_Work_Experience.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \hfill
+         {\Huge Adam H. Sparks}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Aside_Work_Experience.tex:2: Undefined control sequence.
+l.2 \hfill {\Huge
+                Adam H. Sparks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[]
+ []
+
+
+./Aside_Work_Experience.tex:5: LaTeX Error: Environment aside undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{aside}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Aside_Work_Experience.tex:6: Undefined control sequence.
+l.6 \small
+        {\section{contact}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:6: Undefined control sequence.
+l.6 \small{\section
+                 {contact}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Aside_Work_Experience.tex:6: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \small{\section{c
+                   ontact}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Aside_Work_Experience.tex:7: Undefined control sequence.
+l.7 \href
+       {http://www.usq.edu.au/research/research-at-usq/institutes-centres/cc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:11: Undefined control sequence.
+l.11 \href
+        {mailto:adamhsparks@gmail.com}{adamhsparks@gmail.com}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:12: Undefined control sequence.
+l.12 +61 415 489 422 \faMobilePhone
+                                 {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:13: Undefined control sequence.
+l.13 {\href
+         {skype:adam.h.sparks?call}{adam.h.sparks \color{skype}{\FA \symbol{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:13: Undefined control sequence.
+l.13 ...ype:adam.h.sparks?call}{adam.h.sparks \color
+                                                  {skype}{\FA \symbol{"F17E}}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:13: Undefined control sequence.
+l.13 ...sparks?call}{adam.h.sparks \color{skype}{\FA
+                                                   \symbol{"F17E}}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:14: Undefined control sequence.
+l.14 \section
+           {web}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:15: Undefined control sequence.
+l.15 \href
+        {https://ph.linkedin.com/pub/adam-sparks/8b/b96/507}{Adam H. Sparks ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:15: Undefined control sequence.
+l.15 ...am-sparks/8b/b96/507}{Adam H. Sparks {\color
+                                                  {linkedin}\FA \symbol{"F08...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:15: Undefined control sequence.
+l.15 ...b96/507}{Adam H. Sparks {\color{linkedin}\FA
+                                                   \symbol{"F08C}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:16: Undefined control sequence.
+l.16 \href
+        {https://www.twitter.com/adamhsparks/}{@adamhsparks {\color{twitter....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:16: Undefined control sequence.
+l.16 ...itter.com/adamhsparks/}{@adamhsparks {\color
+                                                  {twitter.blue}\FA \symbol{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:16: Undefined control sequence.
+l.16 ...arks/}{@adamhsparks {\color{twitter.blue}\FA
+                                                   \symbol{"F099}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:17: Undefined control sequence.
+l.17 \href
+        {https://github.com/adamhsparks/}{adamhsparks \FA \symbol{"F09B}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:17: Undefined control sequence.
+l.17 ...s://github.com/adamhsparks/}{adamhsparks \FA
+                                                   \symbol{"F09B}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:18: Undefined control sequence.
+l.18 \section
+           {skills}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Aside_Work_Experience.tex:23: LaTeX Error: \begin{document} ended by \end{aside}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{aside}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--24
+[]contact
+ []
+
+./Aside_Work_Experience.tex:25: Undefined control sequence.
+l.25 \section
+           *{experience}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Aside_Work_Experience.tex:25: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \section*
+            {experience}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Aside_Work_Experience.tex:26: LaTeX Error: Environment entrylist undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \begin{entrylist}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Aside_Work_Experience.tex:27: Undefined control sequence.
+l.27   \entry
+           {\small{2016--Present}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:27: Undefined control sequence.
+l.27   \entry{\small
+                  {2016--Present}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:31: Undefined control sequence.
+l.31   \entry
+           {\small{2012--2015}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:31: Undefined control sequence.
+l.31   \entry{\small
+                  {2012--2015}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for +cmr on input line 34.
+LaTeX Font Info:    No file cmr.fd. on input line 34.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 34.
+
+./Aside_Work_Experience.tex:34: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.34     {Los Ba\~n
+                 os, Laguna, PHL}
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 34.
+
+./Aside_Work_Experience.tex:35: Undefined control sequence.
+l.35   \entry
+           {\small{2011--2012}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:35: Undefined control sequence.
+l.35   \entry{\small
+                  {2011--2012}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:39: Undefined control sequence.
+l.39   \entry
+           {\small{2009--2010}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:39: Undefined control sequence.
+l.39   \entry{\small
+                  {2009--2010}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:43: Undefined control sequence.
+l.43   \entry
+           {\small{2002--2004}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:43: Undefined control sequence.
+l.43   \entry{\small
+                  {2002--2004}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:47: Undefined control sequence.
+l.47   \entry
+           {\small{2000--2003}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:47: Undefined control sequence.
+l.47   \entry{\small
+                  {2000--2003}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:51: Undefined control sequence.
+l.51   \entry
+           {\small{1999--2000}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:51: Undefined control sequence.
+l.51   \entry{\small
+                  {1999--2000}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:55: Undefined control sequence.
+l.55   \entry
+           {\small{1997--1999}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:55: Undefined control sequence.
+l.55   \entry{\small
+                  {1997--1999}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--59
+[]*experience
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 25--59
+Ba\OT1/cmr/m/n/10 ~\/cmr/m/n/10 n\nullfont os,
+ []
+
+
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 25--59
+Ba\OT1/cmr/m/n/10 ~\/cmr/m/n/10 n\nullfont os,
+ []
+
+
+./Aside_Work_Experience.tex:60: LaTeX Error: \begin{document} ended by \end{entrylist}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{entrylist}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Aside_Work_Experience.tex:62: Undefined control sequence.
+l.62 \section
+           *{education}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Aside_Work_Experience.tex:62: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \section*
+            {education}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
+[]*education 
+ []
+
+
+./Aside_Work_Experience.tex:64: LaTeX Error: Environment entrylist undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \begin{entrylist}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Aside_Work_Experience.tex:65: Undefined control sequence.
+l.65   \entry
+           {\small{2009}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:65: Undefined control sequence.
+l.65   \entry{\small
+                  {2009}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Aside_Work_Experience.tex:65: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65   \entry{\small{2
+                    009}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Aside_Work_Experience.tex:69: Undefined control sequence.
+l.69   \entry
+           {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:70: Undefined control sequence.
+<recently read> \href 
+      
+l.70 ...ping with metamodels for coarse resolution}}
+                                                  }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:72: Undefined control sequence.
+<recently read> \href 
+      
+l.72 ...sk now and under future climate conditions}}
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:73: Undefined control sequence.
+l.73  \entry
+          {\small{2007}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:73: Undefined control sequence.
+l.73  \entry{\small
+                 {2007}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:77: Undefined control sequence.
+l.77   \entry
+           {\small{2000}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Aside_Work_Experience.tex:77: Undefined control sequence.
+l.77   \entry{\small
+                  {2000}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Aside_Work_Experience.tex:81: LaTeX Error: \begin{document} ended by \end{entrylist}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \end{entrylist}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> Aside_Work_Experience.tex
+                          
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 27 strings out of 495119
+ 100000,89155 words of node,token memory allocated 11765 words of node memory still in use:
+   16 hlist, 5 local_par, 1 dir, 210 glue, 4 kern, 8 penalty, 1641 glyph, 32 glue_spec, 1 temp nodes
+   avail lists: 2:11,3:1,4:49,5:4,7:8,8:1,9:1,10:48
+ 3685 multiletter control sequences out of 65536+600000
+ 17 fonts using 715439 bytes
+ 16i,1n,16p,192b,102s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
