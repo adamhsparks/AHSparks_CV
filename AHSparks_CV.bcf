@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bcf:controlfile version="3.2" bltxversion="3.6" xmlns:bcf="https://sourceforge.net/projects/biblatex">
+<bcf:controlfile version="3.3" bltxversion="3.7" xmlns:bcf="https://sourceforge.net/projects/biblatex">
   <!-- BIBER OPTIONS -->
   <bcf:options component="biber" type="global">
     <bcf:option type="singlevalued">
@@ -428,6 +428,7 @@
     <bcf:option datatype="xml">labelalphatemplate</bcf:option>
     <bcf:option datatype="xml">translit</bcf:option>
     <bcf:option datatype="xml">sortexclusion</bcf:option>
+    <bcf:option datatype="xml">sortinclusion</bcf:option>
     <bcf:option datatype="xml">labelnamespec</bcf:option>
     <bcf:option datatype="xml">labeltitlespec</bcf:option>
     <bcf:option datatype="xml">labeldatespec</bcf:option>
@@ -910,7 +911,7 @@
       <bcf:field fieldtype="field" datatype="entrykey">xref</bcf:field>
       <bcf:field fieldtype="field" datatype="date" skip_output="true">date</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart" nullok="true">endyear</bcf:field>
-      <bcf:field fieldtype="field" datatype="datepart">year</bcf:field>
+      <bcf:field fieldtype="field" datatype="datepart" nullok="true">year</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">month</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">day</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">hour</bcf:field>
@@ -927,7 +928,7 @@
       <bcf:field fieldtype="field" datatype="datepart">endseason</bcf:field>
       <bcf:field fieldtype="field" datatype="date" skip_output="true">eventdate</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart" nullok="true">eventendyear</bcf:field>
-      <bcf:field fieldtype="field" datatype="datepart">eventyear</bcf:field>
+      <bcf:field fieldtype="field" datatype="datepart" nullok="true">eventyear</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">eventmonth</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">eventday</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">eventhour</bcf:field>
@@ -944,7 +945,7 @@
       <bcf:field fieldtype="field" datatype="datepart">eventendseason</bcf:field>
       <bcf:field fieldtype="field" datatype="date" skip_output="true">origdate</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart" nullok="true">origendyear</bcf:field>
-      <bcf:field fieldtype="field" datatype="datepart">origyear</bcf:field>
+      <bcf:field fieldtype="field" datatype="datepart" nullok="true">origyear</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">origmonth</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">origday</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">orighour</bcf:field>
@@ -961,7 +962,7 @@
       <bcf:field fieldtype="field" datatype="datepart">origendseason</bcf:field>
       <bcf:field fieldtype="field" datatype="date" skip_output="true">urldate</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart" nullok="true">urlendyear</bcf:field>
-      <bcf:field fieldtype="field" datatype="datepart">urlyear</bcf:field>
+      <bcf:field fieldtype="field" datatype="datepart" nullok="true">urlyear</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">urlmonth</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">urlday</bcf:field>
       <bcf:field fieldtype="field" datatype="datepart">urlhour</bcf:field>

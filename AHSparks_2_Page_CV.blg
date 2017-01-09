@@ -1,34 +1,34 @@
-[0] Config.pm:354> INFO - This is Biber 2.6
+[0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'AHSparks_2_Page_CV.blg'
-[271] biber-darwin:302> INFO - === Wed Oct 12, 2016, 09:48:20
-[827] Biber.pm:359> INFO - Reading 'AHSparks_2_Page_CV.bcf'
-[939] Biber.pm:823> INFO - Found 0 citekeys in bib section 0
-[939] Biber.pm:820> INFO - Using all citekeys in bib section 1
-[939] Biber.pm:823> INFO - Found 0 citekeys in bib section 0
-[939] Biber.pm:820> INFO - Using all citekeys in bib section 2
-[939] Biber.pm:823> INFO - Found 0 citekeys in bib section 0
-[960] Biber.pm:3658> INFO - Processing section 1
-[1392] Biber.pm:3828> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
-[1471] bibtex.pm:1425> INFO - Decoding LaTeX character macros into UTF-8
-[1598] bibtex.pm:1282> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
-[1778] Utils.pm:164> WARN - month field 'January' in entry 'Duku2016' is not an integer - this will probably not sort properly.
-[1859] Utils.pm:164> WARN - month field 'August' in entry 'Laborte2015' is not an integer - this will probably not sort properly.
-[1864] Utils.pm:164> WARN - month field 'December' in entry 'Sparks2014' is not an integer - this will probably not sort properly.
-[1868] Utils.pm:164> WARN - month field 'May' in entry 'Dossa2015' is not an integer - this will probably not sort properly.
-[1943] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1943] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1943] Biber.pm:3487> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[1943] Biber.pm:3493> INFO - No sort tailoring available for locale 'en-US'
-[1986] Biber.pm:3658> INFO - Processing section 2
-[1987] Biber.pm:3828> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 2
-[1989] Utils.pm:164> WARN - month field 'January' in entry 'Duku2016' is not an integer - this will probably not sort properly.
-[1995] Utils.pm:164> WARN - month field 'August' in entry 'Laborte2015' is not an integer - this will probably not sort properly.
-[2000] Utils.pm:164> WARN - month field 'December' in entry 'Sparks2014' is not an integer - this will probably not sort properly.
-[2004] Utils.pm:164> WARN - month field 'May' in entry 'Dossa2015' is not an integer - this will probably not sort properly.
-[2030] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2030] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2030] Biber.pm:3487> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[2030] Biber.pm:3493> INFO - No sort tailoring available for locale 'en-US'
-[2042] bbl.pm:597> INFO - Writing 'AHSparks_2_Page_CV.bbl' with encoding 'UTF-8'
-[2048] bbl.pm:701> INFO - Output to AHSparks_2_Page_CV.bbl
-[2048] Biber.pm:109> INFO - WARNINGS: 8
+[87] biber-darwin:303> INFO - === Mon Jan  9, 2017, 13:13:18
+[184] Biber.pm:359> INFO - Reading 'AHSparks_2_Page_CV.bcf'
+[277] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[278] Biber.pm:832> INFO - Using all citekeys in bib section 1
+[278] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[278] Biber.pm:832> INFO - Using all citekeys in bib section 2
+[278] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[303] Biber.pm:3670> INFO - Processing section 1
+[362] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
+[376] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[391] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
+[464] Utils.pm:164> WARN - month field 'January' in entry 'Duku2016' is not an integer - this will probably not sort properly.
+[492] Utils.pm:164> WARN - month field 'May' in entry 'Dossa2015' is not an integer - this will probably not sort properly.
+[494] Utils.pm:164> WARN - month field 'August' in entry 'Laborte2015' is not an integer - this will probably not sort properly.
+[504] Utils.pm:164> WARN - month field 'December' in entry 'Sparks2014' is not an integer - this will probably not sort properly.
+[525] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[525] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[525] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[525] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[538] Biber.pm:3670> INFO - Processing section 2
+[538] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 2
+[540] Utils.pm:164> WARN - month field 'January' in entry 'Duku2016' is not an integer - this will probably not sort properly.
+[551] Utils.pm:164> WARN - month field 'May' in entry 'Dossa2015' is not an integer - this will probably not sort properly.
+[553] Utils.pm:164> WARN - month field 'August' in entry 'Laborte2015' is not an integer - this will probably not sort properly.
+[561] Utils.pm:164> WARN - month field 'December' in entry 'Sparks2014' is not an integer - this will probably not sort properly.
+[581] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[582] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[582] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[582] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[594] bbl.pm:608> INFO - Writing 'AHSparks_2_Page_CV.bbl' with encoding 'UTF-8'
+[599] bbl.pm:712> INFO - Output to AHSparks_2_Page_CV.bbl
+[599] Biber.pm:109> INFO - WARNINGS: 8

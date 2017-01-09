@@ -1,0 +1,5 @@
+PWD /Users/U8004755/Development/AHSparks_CV
+INPUT /usr/local/texlive/2016basic/texmf-var/web2c/luatex/lualatex.fmt
+INPUT ./Extramural_Support.tex
+OUTPUT Extramural_Support.log
+INPUT /usr/local/texlive/2016basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
