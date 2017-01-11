@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  12 JAN 2017 09:14
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  12 JAN 2017 09:52
  restricted system commands enabled.
  file:line:error style messages enabled.
 **AHSparks_CV.tex
@@ -189,7 +189,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.936 seconds)
+luaotfload | main : initialization completed in 0.112 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX. (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
 \l_fontspec_script_int=\count115
@@ -1393,20 +1393,6 @@ luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
-luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 51
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 51
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
@@ -1441,6 +1427,34 @@ luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 51
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 51
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 51
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
 luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 51
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
@@ -1509,18 +1523,6 @@ luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
 luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 51
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 51
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
-luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
-luaotfload | aux : no font with id 55
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
 luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
@@ -1529,6 +1531,18 @@ luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 55
 luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 51 [3]
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 55 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 55
+luaotfload | aux : font no 51 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 51
 Package biblatex Info: Reference section=0 on input line 32.
 \blx@maxsegment@3=\count341
 \blx@sectionciteorder@3=\count342
@@ -1679,19 +1693,19 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33741 strings out of 495119
+ 33776 strings out of 495119
  125171,1144653 words of node,token memory allocated
- 2719 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 274 glue, 102 attribute, 54 glue_spec, 102 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:2,2:1486,3:262,4:98,5:188,6:2932,7:1011,8:65,9:221,10:8,11:223
- 34992 multiletter control sequences out of 65536+600000
- 67 fonts using 18025007 bytes
+ 2741 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 276 glue, 104 attribute, 54 glue_spec, 104 attribute_list, 1 write, 2 pdf_action nodes
+   avail lists: 1:2,2:1483,3:262,4:98,5:188,6:2932,7:1009,8:65,9:221,10:8,11:225
+ 34998 multiletter control sequences out of 65536+600000
+ 67 fonts using 18029375 bytes
  55i,12n,77p,1572b,1144s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Users/U8004755/Library/Fonts/fontawesome-webfont.ttf></usr/local/texlive/2016basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></System/Library/Fonts/Avenir Next Condensed.ttc></System/Library/Fonts/Avenir.ttc>
-Output written on AHSparks_CV.pdf (6 pages, 63551 bytes).
+Output written on AHSparks_CV.pdf (6 pages, 63811 bytes).
 
-PDF statistics: 148 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 131072)
+PDF statistics: 149 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
+ 59 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

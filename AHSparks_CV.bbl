@@ -289,6 +289,51 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Jaisong2015}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=0004d52852c66e42df1f5f0e95207e8c}{%
+           family={Jaisong},
+           familyi={J\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e2d97a0d69e9afb6664d6cbded04334}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=df3f3a992e0015b3c4affaea6515a185}{%
+           family={Magculia},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima T},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c23c87eeac9169130e404d362a92cdb5}{%
+           family={Pangga},
+           familyi={P\bibinitperiod},
+           given={I\bibnamedelima B},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{fullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authornamehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authorfullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{%
@@ -2197,6 +2242,51 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
+    \endentry
+    \entry{Jaisong2015}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=0004d52852c66e42df1f5f0e95207e8c}{%
+           family={Jaisong},
+           familyi={J\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e2d97a0d69e9afb6664d6cbded04334}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=df3f3a992e0015b3c4affaea6515a185}{%
+           family={Magculia},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima T},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c23c87eeac9169130e404d362a92cdb5}{%
+           family={Pangga},
+           familyi={P\bibinitperiod},
+           given={I\bibnamedelima B},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{fullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authornamehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authorfullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
+      \field{year}{2015}
     \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
@@ -4107,6 +4197,51 @@
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
     \endentry
+    \entry{Jaisong2015}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=0004d52852c66e42df1f5f0e95207e8c}{%
+           family={Jaisong},
+           familyi={J\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e2d97a0d69e9afb6664d6cbded04334}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=df3f3a992e0015b3c4affaea6515a185}{%
+           family={Magculia},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima T},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c23c87eeac9169130e404d362a92cdb5}{%
+           family={Pangga},
+           familyi={P\bibinitperiod},
+           given={I\bibnamedelima B},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{fullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authornamehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authorfullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
+      \field{year}{2015}
+    \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
         {{hash=5de8e41e8e198fbff00b2eee8b31985c}{%
@@ -6015,6 +6150,51 @@
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
       \endverb
+    \endentry
+    \entry{Jaisong2015}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=0004d52852c66e42df1f5f0e95207e8c}{%
+           family={Jaisong},
+           familyi={J\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e2d97a0d69e9afb6664d6cbded04334}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=df3f3a992e0015b3c4affaea6515a185}{%
+           family={Magculia},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima T},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c23c87eeac9169130e404d362a92cdb5}{%
+           family={Pangga},
+           familyi={P\bibinitperiod},
+           given={I\bibnamedelima B},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{fullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authornamehash}{d6669c0cd8c4b62141f03c977d440e54}
+      \strng{authorfullhash}{d6669c0cd8c4b62141f03c977d440e54}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
+      \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
+      \field{year}{2015}
     \endentry
     \entry{Laborte2015}{article}{}
       \name{author}{6}{}{%
