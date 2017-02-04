@@ -39,7 +39,7 @@
 %%%%%%%%%
 
 \RequirePackage[quiet]{fontspec}
-\RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
+\RequirePackage[math-style=TeX]{unicode-math}
 
 \newfontfamily\bodyfont[]{Avenir Book}
 \newfontfamily\thinfont[]{Avenir Next Ultra Light}

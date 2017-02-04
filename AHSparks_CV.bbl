@@ -139,6 +139,48 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
+    \entry{HSparks2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=412277d56b6623809d68a3a31b3a7312}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=be864637cd8b00d4737a3e20d64e43b5}{%
+           family={Hengl},
+           familyi={H\bibinitperiod},
+           given={Tomislav},
+           giveni={T\bibinitperiod}}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Open Journal}%
+      }
+      \strng{namehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{fullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authornamehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authorfullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Open Source Software}
+      \field{month}{2}
+      \field{number}{10}
+      \field{title}{{GSODR}: Global Summary Daily Weather Data in R}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.21105/joss.00177
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105%2Fjoss.00177
+      \endverb
+    \endentry
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
         {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
@@ -2093,6 +2135,48 @@
       \field{title}{Blackleg of Potato}
       \verb{url}
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
+      \endverb
+    \endentry
+    \entry{HSparks2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=412277d56b6623809d68a3a31b3a7312}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=be864637cd8b00d4737a3e20d64e43b5}{%
+           family={Hengl},
+           familyi={H\bibinitperiod},
+           given={Tomislav},
+           giveni={T\bibinitperiod}}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Open Journal}%
+      }
+      \strng{namehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{fullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authornamehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authorfullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Open Source Software}
+      \field{month}{2}
+      \field{number}{10}
+      \field{title}{{GSODR}: Global Summary Daily Weather Data in R}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.21105/joss.00177
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105%2Fjoss.00177
       \endverb
     \endentry
     \entry{Duku2016}{article}{}
@@ -4051,6 +4135,48 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
+    \entry{HSparks2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=412277d56b6623809d68a3a31b3a7312}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=be864637cd8b00d4737a3e20d64e43b5}{%
+           family={Hengl},
+           familyi={H\bibinitperiod},
+           given={Tomislav},
+           giveni={T\bibinitperiod}}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Open Journal}%
+      }
+      \strng{namehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{fullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authornamehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authorfullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Open Source Software}
+      \field{month}{2}
+      \field{number}{10}
+      \field{title}{{GSODR}: Global Summary Daily Weather Data in R}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.21105/joss.00177
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105%2Fjoss.00177
+      \endverb
+    \endentry
     \entry{Duku2016}{article}{}
       \name{author}{3}{}{%
         {{hash=53f2638c7ba061e4f780603e6f0c9cf4}{%
@@ -6005,6 +6131,48 @@
       \field{title}{Blackleg of Potato}
       \verb{url}
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
+      \endverb
+    \endentry
+    \entry{HSparks2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=412277d56b6623809d68a3a31b3a7312}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=be864637cd8b00d4737a3e20d64e43b5}{%
+           family={Hengl},
+           familyi={H\bibinitperiod},
+           given={Tomislav},
+           giveni={T\bibinitperiod}}}%
+        {{hash=462884b594079727b08caef52f52dbc9}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Open Journal}%
+      }
+      \strng{namehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{fullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authornamehash}{efcff3c687120f3396cc1bd4951aa923}
+      \strng{authorfullhash}{efcff3c687120f3396cc1bd4951aa923}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Open Source Software}
+      \field{month}{2}
+      \field{number}{10}
+      \field{title}{{GSODR}: Global Summary Daily Weather Data in R}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.21105/joss.00177
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105%2Fjoss.00177
       \endverb
     \endentry
     \entry{Duku2016}{article}{}
