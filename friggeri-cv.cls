@@ -51,6 +51,7 @@
 %\setmathfont{XITS Math}
 
 \RequirePackage{fontawesome}
+\RequirePackage[utf8]{inputenc}
 
 %%%%%%%%%%
 % Header %

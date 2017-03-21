@@ -242,9 +242,6 @@
            given={K},
            giveni={K\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
       \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
       \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
       \strng{authornamehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
@@ -2371,9 +2368,6 @@
            familyi={G\bibinitperiod},
            given={K},
            giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
       }
       \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
       \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
@@ -4502,9 +4496,6 @@
            given={K},
            giveni={K\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
       \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
       \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
       \strng{authornamehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
@@ -6631,9 +6622,6 @@
            familyi={G\bibinitperiod},
            given={K},
            giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
       }
       \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
       \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}

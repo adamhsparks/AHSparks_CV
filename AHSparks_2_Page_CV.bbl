@@ -122,9 +122,6 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
       \strng{namehash}{18260d5fc14d33facf6fa96e1fd562dd}
       \strng{fullhash}{18260d5fc14d33facf6fa96e1fd562dd}
       \strng{authornamehash}{18260d5fc14d33facf6fa96e1fd562dd}
@@ -497,6 +494,46 @@
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
       \endverb
+    \endentry
+    \entry{Mckinley2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{%
+           family={Mckinley},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{%
+           family={Pede},
+           familyi={P\bibinitperiod},
+           given={V\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{%
+           family={Duff},
+           familyi={D\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{authornamehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{authorfullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Philippine Agricultural Scientist}
+      \field{number}{3}
+      \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{286\bibrangedash 292}
+      \range{pages}{7}
+      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
     \endentry
   \endsortlist
 \endrefsection
@@ -606,9 +643,6 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
       \strng{namehash}{18260d5fc14d33facf6fa96e1fd562dd}
       \strng{fullhash}{18260d5fc14d33facf6fa96e1fd562dd}
       \strng{authornamehash}{18260d5fc14d33facf6fa96e1fd562dd}
@@ -981,6 +1015,46 @@
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
       \endverb
+    \endentry
+    \entry{Mckinley2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cb9efa161163215a904fde2972f16c81}{%
+           family={Mckinley},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1c5a20df30ef5efcf48198cdbfbc685a}{%
+           family={Pede},
+           familyi={P\bibinitperiod},
+           given={V\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=7baf3d1f5f25c46fc6b985083495bac3}{%
+           family={Duff},
+           familyi={D\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{fullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{authornamehash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \strng{authorfullhash}{ffdc98f35adb4cacf24770b261ac24bf}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Philippine Agricultural Scientist}
+      \field{number}{3}
+      \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{286\bibrangedash 292}
+      \range{pages}{7}
+      \keyw{abbreviations,export,mango,mango pulp weevil,mpw,palawan,propensity score matching,psm,rdi,relative density index,relative diversity index,specialization index,yield gap}
     \endentry
   \endsortlist
 \endrefsection

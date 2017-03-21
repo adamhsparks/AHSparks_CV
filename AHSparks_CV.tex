@@ -1,4 +1,4 @@
-%!TEX TS-program = xelatex
+%!TEX TS-program = XeLaTex
 %!BIB TS-program = biber
 \documentclass[]{friggeri-cv}
 
@@ -22,10 +22,13 @@
 
 \input{Aside_Work_Experience}
 
+\pagebreak
+
 \section*{publications}
-
-\printbibsection{article}{peer-reviewed}
-
+\begin{refsection}
+  \nocite{*}
+  \printbibliography[sorting=chronological, type=article, title={peer reviewed},  heading=subbibliography]
+\end{refsection}
 \begin{refsection}
   \nocite{*}
   \printbibliography[sorting=chronological, type=inproceedings, title={conferences/proceedings},  heading=subbibliography]

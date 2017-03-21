@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.7)  22 MAR 2017 07:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.7)  22 MAR 2017 07:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**AHSparks_CV.tex
-(./AHSparks_CV.tex
+**AHSparks_2_Page_CV.tex
+(./AHSparks_2_Page_CV.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 22 language(s) loaded.
 (./friggeri-cv.cls
@@ -838,8 +838,8 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
 \@quotelevel=\count339
 \@quotereset=\count340
- (./AHSparks_CV.aux)
-\openout1 = `AHSparks_CV.aux'.
+ (./AHSparks_2_Page_CV.aux)
+\openout1 = `AHSparks_2_Page_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -892,11 +892,11 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `AHSparks_CV.bcf'.
+\openout4 = `AHSparks_2_Page_CV.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'AHSparks_CV.bbl' found.
- (./AHSparks_CV.bbl)
+Package biblatex Info: ... file 'AHSparks_2_Page_CV.bbl' found.
+ (./AHSparks_2_Page_CV.bbl)
 Package biblatex Info: Reference section=0 on input line 21.
 Package biblatex Info: Reference segment=0 on input line 21.
 
@@ -946,9 +946,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
- (./AHSparks_CV.out) (./AHSparks_CV.out)
+ (./AHSparks_2_Page_CV.out) (./AHSparks_2_Page_CV.out)
 \@outlinefile=\write5
-\openout5 = `AHSparks_CV.out'.
+\openout5 = `AHSparks_2_Page_CV.out'.
 
  (./Aside_Work_Experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -980,119 +980,55 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ]
 \blx@maxsegment@1=\count343
 \blx@sectionciteorder@1=\count344
-Package biblatex Info: Reference section=1 on input line 28.
-Package biblatex Info: Setting label 'refsection:1' on input line 28.
+Package biblatex Info: Reference section=1 on input line 29.
+Package biblatex Info: Setting label 'refsection:1' on input line 29.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-LaTeX Font Info:    Try loading font information for TU+lmtt on input line 30.
+LaTeX Font Info:    Try loading font information for TU+lmtt on input line 29.
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/tulmtt.fd
 File: tulmtt.fd 2017/01/26 v1.8 Standard LaTeX font definitions for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 30.
+(Font)              scaled to size 8.00012pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 30.
+(Font)              scaled to size 6.00009pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 30.
+(Font)              scaled to size 5.00008pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 30.
+(Font)              scaled to size 7.99988pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 30.
+(Font)              scaled to size 5.99991pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 30.
- [2]
-Package biblatex Info: Reference section=0 on input line 31.
+(Font)              scaled to size 4.99992pt on input line 29.
+Package biblatex Info: Reference section=0 on input line 29.
 \blx@maxsegment@2=\count345
 \blx@sectionciteorder@2=\count346
-Package biblatex Info: Reference section=2 on input line 32.
-Package biblatex Info: Setting label 'refsection:2' on input line 32.
-
-
-Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
-
-[3]
-Package biblatex Info: Reference section=0 on input line 35.
-\blx@maxsegment@3=\count347
-\blx@sectionciteorder@3=\count348
-Package biblatex Info: Reference section=3 on input line 36.
-Package biblatex Info: Setting label 'refsection:3' on input line 36.
-
-
-Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
-
-Package biblatex Info: Reference section=0 on input line 39.
-\blx@maxsegment@4=\count349
-\blx@sectionciteorder@4=\count350
-Package biblatex Info: Reference section=4 on input line 40.
-Package biblatex Info: Setting label 'refsection:4' on input line 40.
-
-Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
-
-[4]
-Package biblatex Info: Reference section=0 on input line 43.
- (./Invited_Talks.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--46
-
- []
-
-(./Extramural_Support.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--20
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 22--48
-
- []
-
-[5] (./Mentorships.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--8
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 10--50
-
- []
-
-(./Certs_Affiliations.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--21
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 23--52
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
- (./AHSparks_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 53.
+Package biblatex Info: Reference section=2 on input line 30.
+Package biblatex Info: Setting label 'refsection:2' on input line 30.
+Package biblatex Info: Reference section=0 on input line 32.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+ (./AHSparks_2_Page_CV.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 34.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
-\openout1 = `AHSparks_CV.run.xml'.
+Package logreq Info: Writing requests to 'AHSparks_2_Page_CV.run.xml'.
+\openout1 = `AHSparks_2_Page_CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31287 strings out of 495086
- 572978 string characters out of 6174759
- 1103871 words of memory out of 5000000
- 34287 multiletter control sequences out of 15000+600000
+ 30868 strings out of 495086
+ 561224 string characters out of 6174759
+ 1064191 words of memory out of 5000000
+ 33880 multiletter control sequences out of 15000+600000
  7791 words of font info for 88 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 51i,12n,79p,10397b,4711s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,79p,10404b,4711s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AHSparks_CV.xdv (6 pages, 146020 bytes).
+Output written on AHSparks_2_Page_CV.xdv (2 pages, 49284 bytes).
