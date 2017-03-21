@@ -1,7 +1,0 @@
-PWD /Users/U8004755/Development/AHSparks_CV
-INPUT /usr/local/texlive/2016basic/texmf-var/web2c/luatex/lualatex.fmt
-INPUT ./Aside_Work_Experience.tex
-OUTPUT Aside_Work_Experience.log
-INPUT /usr/local/texlive/2016basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2016basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2016basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm

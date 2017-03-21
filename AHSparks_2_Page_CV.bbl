@@ -19,6 +19,133 @@
 
 \refsection{1}
   \sortlist[entry]{ydnt/global/}
+    \entry{Savary2017}{article}{}
+      \name{author}{20}{}{%
+        {{hash=677f4fd1f1fb888b1296756582f44457}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=973ec3560f1a7fe139eda25784fb1e6a}{%
+           family={Bregaglio},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1ff1112cde73e6c7d2667b74fbe705be}{%
+           family={Willocquet},
+           familyi={W\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=30302a54abdb9ad2ba183ff16f5d59db}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=525089ec46542ca84b6eac573994b77b}{%
+           family={Mason\bibnamedelima D'Croz},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=076bc7b26ed0f34bed746916639896d8}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=367519f0b421ae4a30d964b4d9b1a9c8}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=04f9a3846cde5f9ac53321b4260ca1b2}{%
+           family={Djurle},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ed3ab218296130a6914f75b2fd9f8043}{%
+           family={Allinne},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=67f6a50b9d93c9bee6a19e7b23adb3ad}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2063b5c5fd2f8464913c40ea507a3381}{%
+           family={Bergamin},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f3f45a66bae15a04249d4f874299fb7a}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68cb7934e909433a522dd46f3358123a}{%
+           family={Esker},
+           familyi={E\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+           family={McRoberts},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
+           family={Avelino},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=08eed6ed16e619961a32ac400f1e651f}{%
+           family={Duveiller},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=af653b044dfae9002e458339f26ffc31}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=518aaf6ee728961e3133c0fbd0704618}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \strng{fullhash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \strng{authornamehash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \strng{authorfullhash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Security}
+      \field{month}{3}
+      \field{title}{Crop health and its global impacts on the components of food security}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s12571-017-0659-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12571-017-0659-1
+      \endverb
+    \endentry
     \entry{HSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
@@ -193,7 +320,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{8}
+      \field{month}{7}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -370,256 +497,139 @@
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
       \endverb
-    \endentry
-    \entry{Garrett2011}{article}{}
-      \name{author}{14}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
-           family={Garrett},
-           familyi={G\bibinitperiod},
-           given={K\bibnamedelima A},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=dfc18a486260f72c6da450bc98587406}{%
-           family={Forbes},
-           familyi={F\bibinitperiod},
-           given={G\bibnamedelima A},
-           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=75596f862827db3b0a322e6bb459739a}{%
-           family={Savary},
-           familyi={S\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=707804976675cc5f0dfd124bc59790ec}{%
-           family={Skelsey},
-           familyi={S\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{%
-           family={Valdivia},
-           familyi={V\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
-        {{hash=6119536557e5537d82de5c0f9684cafe}{%
-           family={{van Bruggen}},
-           familyi={v\bibinitperiod},
-           given={A\bibnamedelima H\bibnamedelima C},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
-           family={Willocquet},
-           familyi={W\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=f1d17826859c541fe000653de99064cf}{%
-           family={Djurle},
-           familyi={D\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
-           family={Duveiller},
-           familyi={D\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod}}}%
-        {{hash=1384cae32ce866bb81b5b09494d03e75}{%
-           family={Eckersten},
-           familyi={E\bibinitperiod},
-           given={H},
-           giveni={H\bibinitperiod}}}%
-        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
-           family={Pande},
-           familyi={P\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=312311068531479970498d6f3e68148b}{%
-           family={{Vera Cruz}},
-           familyi={V\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
-        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
-           family={Yuen},
-           familyi={Y\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \strng{authornamehash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \strng{authorfullhash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00320862}
-      \field{journaltitle}{Plant Pathology}
-      \field{number}{1}
-      \field{title}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
-      \field{volume}{60}
-      \field{year}{2011}
-      \field{pages}{15\bibrangedash 30}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.1111/j.1365-3059.2010.02409.x
-      \endverb
-      \verb{url}
-      \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
-      \endverb
-      \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
-    \endentry
-    \entry{Savary2011a}{article}{}
-      \name{author}{14}{}{%
-        {{hash=75596f862827db3b0a322e6bb459739a}{%
-           family={Savary},
-           familyi={S\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
-           family={Nelson},
-           familyi={N\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
-           family={Willocquet},
-           familyi={W\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
-           family={Duveiller},
-           familyi={D\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod}}}%
-        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
-           family={Mahuku},
-           familyi={M\bibinitperiod},
-           given={G},
-           giveni={G\bibinitperiod}}}%
-        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
-           family={Forbes},
-           familyi={F\bibinitperiod},
-           given={G},
-           giveni={G\bibinitperiod}}}%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
-           family={Garrett},
-           familyi={G\bibinitperiod},
-           given={K\bibnamedelima A},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=d321f65febdd34739c45263f89db7cc4}{%
-           family={Hodson},
-           familyi={H\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
-           family={Padgham},
-           familyi={P\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
-           family={Pande},
-           familyi={P\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
-           family={Yuen},
-           familyi={Y\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f1d17826859c541fe000653de99064cf}{%
-           family={Djurle},
-           familyi={D\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Scientific Societies}%
-      }
-      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
-      \field{journaltitle}{Plant Disease}
-      \field{number}{10}
-      \field{title}{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}
-      \field{volume}{95}
-      \field{year}{2011}
-      \field{pages}{1204\bibrangedash 1216}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1094/PDIS-04-11-0316
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
-      \endverb
-    \endentry
-    \entry{Sparks2011}{article}{}
-      \name{author}{4}{}{%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=dfc18a486260f72c6da450bc98587406}{%
-           family={Forbes},
-           familyi={F\bibinitperiod},
-           given={G\bibnamedelima A},
-           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{%
-           family={Hijmans},
-           familyi={H\bibinitperiod},
-           given={R\bibnamedelima J},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
-           family={Garrett},
-           familyi={G\bibinitperiod},
-           given={K\bibnamedelima A},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
-      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
-      \strng{authornamehash}{d8500857444e77b151a2b329b7cb807d}
-      \strng{authorfullhash}{d8500857444e77b151a2b329b7cb807d}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2150-8925}
-      \field{journaltitle}{Ecosphere}
-      \field{number}{8}
-      \field{title}{{A metamodeling framework for extending the application domain of process-based ecological models}}
-      \field{volume}{2}
-      \field{year}{2011}
-      \field{pages}{art90}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1890/ES11-00128.1
-      \endverb
-      \verb{url}
-      \verb http://www.esajournals.org/doi/abs/10.1890/ES11-00128.1
-      \endverb
-      \keyw{accepted 20 may 2011,climate change scenario analysis,collinge,corresponding editor,data aggregation,ecoinformatics,ecological scaling,final version received 27,july 2011,metamodels,phytophthora infestans,plant disease,process-based models,published 18 august 2011,received 4 may 2011,s,solanum tuberosum}
     \endentry
   \endsortlist
 \endrefsection
 
 \refsection{2}
   \sortlist[entry]{ydnt/global/}
+    \entry{Savary2017}{article}{}
+      \name{author}{20}{}{%
+        {{hash=677f4fd1f1fb888b1296756582f44457}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=973ec3560f1a7fe139eda25784fb1e6a}{%
+           family={Bregaglio},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1ff1112cde73e6c7d2667b74fbe705be}{%
+           family={Willocquet},
+           familyi={W\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=30302a54abdb9ad2ba183ff16f5d59db}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=525089ec46542ca84b6eac573994b77b}{%
+           family={Mason\bibnamedelima D'Croz},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=076bc7b26ed0f34bed746916639896d8}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=367519f0b421ae4a30d964b4d9b1a9c8}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=04f9a3846cde5f9ac53321b4260ca1b2}{%
+           family={Djurle},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ed3ab218296130a6914f75b2fd9f8043}{%
+           family={Allinne},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=67f6a50b9d93c9bee6a19e7b23adb3ad}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2063b5c5fd2f8464913c40ea507a3381}{%
+           family={Bergamin},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f3f45a66bae15a04249d4f874299fb7a}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68cb7934e909433a522dd46f3358123a}{%
+           family={Esker},
+           familyi={E\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+           family={McRoberts},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
+           family={Avelino},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=08eed6ed16e619961a32ac400f1e651f}{%
+           family={Duveiller},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=af653b044dfae9002e458339f26ffc31}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=518aaf6ee728961e3133c0fbd0704618}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \strng{fullhash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \strng{authornamehash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \strng{authorfullhash}{18260d5fc14d33facf6fa96e1fd562dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Security}
+      \field{month}{3}
+      \field{title}{Crop health and its global impacts on the components of food security}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s12571-017-0659-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12571-017-0659-1
+      \endverb
+    \endentry
     \entry{HSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
@@ -794,7 +804,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{8}
+      \field{month}{7}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -971,250 +981,6 @@
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3254685%5C&tool=pmcentrez%5C&rendertype=abstract%20http://www.ncbi.nlm.nih.gov/pubmed/23202133
       \endverb
-    \endentry
-    \entry{Garrett2011}{article}{}
-      \name{author}{14}{}{%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
-           family={Garrett},
-           familyi={G\bibinitperiod},
-           given={K\bibnamedelima A},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=dfc18a486260f72c6da450bc98587406}{%
-           family={Forbes},
-           familyi={F\bibinitperiod},
-           given={G\bibnamedelima A},
-           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=75596f862827db3b0a322e6bb459739a}{%
-           family={Savary},
-           familyi={S\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=707804976675cc5f0dfd124bc59790ec}{%
-           family={Skelsey},
-           familyi={S\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=0aff9414c698c61a95f12fbd40aaf46a}{%
-           family={Valdivia},
-           familyi={V\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
-        {{hash=6119536557e5537d82de5c0f9684cafe}{%
-           family={{van Bruggen}},
-           familyi={v\bibinitperiod},
-           given={A\bibnamedelima H\bibnamedelima C},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
-           family={Willocquet},
-           familyi={W\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=f1d17826859c541fe000653de99064cf}{%
-           family={Djurle},
-           familyi={D\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
-           family={Duveiller},
-           familyi={D\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod}}}%
-        {{hash=1384cae32ce866bb81b5b09494d03e75}{%
-           family={Eckersten},
-           familyi={E\bibinitperiod},
-           given={H},
-           giveni={H\bibinitperiod}}}%
-        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
-           family={Pande},
-           familyi={P\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=312311068531479970498d6f3e68148b}{%
-           family={{Vera Cruz}},
-           familyi={V\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
-        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
-           family={Yuen},
-           familyi={Y\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \strng{fullhash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \strng{authornamehash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \strng{authorfullhash}{e1cfcc49e335b93afe5e67115cb92c00}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00320862}
-      \field{journaltitle}{Plant Pathology}
-      \field{number}{1}
-      \field{title}{{Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease}}
-      \field{volume}{60}
-      \field{year}{2011}
-      \field{pages}{15\bibrangedash 30}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.1111/j.1365-3059.2010.02409.x
-      \endverb
-      \verb{url}
-      \verb http://doi.wiley.com/10.1111/j.1365-3059.2010.02409.x
-      \endverb
-      \keyw{cereal head blight,disease risk,ecosystem services,fusarium graminearum,phy-,potato late blight}
-    \endentry
-    \entry{Savary2011a}{article}{}
-      \name{author}{14}{}{%
-        {{hash=75596f862827db3b0a322e6bb459739a}{%
-           family={Savary},
-           familyi={S\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
-           family={Nelson},
-           familyi={N\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
-           family={Willocquet},
-           familyi={W\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
-           family={Duveiller},
-           familyi={D\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod}}}%
-        {{hash=95b18d09962b06db1af5bf489c509dfc}{%
-           family={Mahuku},
-           familyi={M\bibinitperiod},
-           given={G},
-           giveni={G\bibinitperiod}}}%
-        {{hash=61b91b7eba32c7a0be6816c2e5e76a20}{%
-           family={Forbes},
-           familyi={F\bibinitperiod},
-           given={G},
-           giveni={G\bibinitperiod}}}%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
-           family={Garrett},
-           familyi={G\bibinitperiod},
-           given={K\bibnamedelima A},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=d321f65febdd34739c45263f89db7cc4}{%
-           family={Hodson},
-           familyi={H\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cedfb36f08a13b99e356bcd9f62cfc6e}{%
-           family={Padgham},
-           familyi={P\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=5a995c55904d47ee2357766f9ebe1a3c}{%
-           family={Pande},
-           familyi={P\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=3eb83d7836e3071cfa3db20aaeec79d2}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
-           family={Yuen},
-           familyi={Y\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f1d17826859c541fe000653de99064cf}{%
-           family={Djurle},
-           familyi={D\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Scientific Societies}%
-      }
-      \strng{namehash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \strng{fullhash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \strng{authornamehash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \strng{authorfullhash}{1ece2798d10ddbb7e9303c2c765779b3}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
-      \field{journaltitle}{Plant Disease}
-      \field{number}{10}
-      \field{title}{International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world}
-      \field{volume}{95}
-      \field{year}{2011}
-      \field{pages}{1204\bibrangedash 1216}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1094/PDIS-04-11-0316
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1094/PDIS-04-11-0316
-      \endverb
-    \endentry
-    \entry{Sparks2011}{article}{}
-      \name{author}{4}{}{%
-        {{hash=b3fa054dd752aa9c7b39a42181521c0c}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=dfc18a486260f72c6da450bc98587406}{%
-           family={Forbes},
-           familyi={F\bibinitperiod},
-           given={G\bibnamedelima A},
-           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=51d13bf1af0fcbbc034b18eac04f7676}{%
-           family={Hijmans},
-           familyi={H\bibinitperiod},
-           given={R\bibnamedelima J},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=2cfecf9610903b6a1debfb79c1553893}{%
-           family={Garrett},
-           familyi={G\bibinitperiod},
-           given={K\bibnamedelima A},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{d8500857444e77b151a2b329b7cb807d}
-      \strng{fullhash}{d8500857444e77b151a2b329b7cb807d}
-      \strng{authornamehash}{d8500857444e77b151a2b329b7cb807d}
-      \strng{authorfullhash}{d8500857444e77b151a2b329b7cb807d}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2150-8925}
-      \field{journaltitle}{Ecosphere}
-      \field{number}{8}
-      \field{title}{{A metamodeling framework for extending the application domain of process-based ecological models}}
-      \field{volume}{2}
-      \field{year}{2011}
-      \field{pages}{art90}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1890/ES11-00128.1
-      \endverb
-      \verb{url}
-      \verb http://www.esajournals.org/doi/abs/10.1890/ES11-00128.1
-      \endverb
-      \keyw{accepted 20 may 2011,climate change scenario analysis,collinge,corresponding editor,data aggregation,ecoinformatics,ecological scaling,final version received 27,july 2011,metamodels,phytophthora infestans,plant disease,process-based models,published 18 august 2011,received 4 may 2011,s,solanum tuberosum}
     \endentry
   \endsortlist
 \endrefsection

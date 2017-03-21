@@ -1,0 +1,354 @@
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  21 MAR 2017 14:09
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**Invited_Talks.tex
+(./Invited_Talks.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+./Invited_Talks.tex:1: Undefined control sequence.
+l.1 \section
+          *{invited talks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Invited_Talks.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section*
+           {invited talks}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Invited_Talks.tex:2: LaTeX Error: Environment entrylist undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{entrylist}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Invited_Talks.tex:3: Undefined control sequence.
+l.3  \entry
+         {2016}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--7
+[]*invited
+ []
+
+./Invited_Talks.tex:8: Undefined control sequence.
+l.8  \entry
+         {2014}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Invited_Talks.tex:8: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8  \entry{2
+           014}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Invited_Talks.tex:9: Undefined control sequence.
+l.9 	{\href
+         {http://figshare.com/articles/Taking_Sustainable_Crop_Protection_Fr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Invited_Talks.tex:9: Missing $ inserted.
+<inserted text> 
+$
+l.9 	{\href{http://figshare.com/articles/Taking_
+                                              Sustainable_Crop_Protection_Fr...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+./Invited_Talks.tex:9: Extra }, or forgotten $.
+l.9 ...otection_From_the_Field_to_the_Cloud/1225800}
+                                                  {Taking sustainable crop p...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Invited_Talks.tex:9: Extra }, or forgotten $.
+l.9 ...crop protection from the field to the cloud}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Invited_Talks.tex:12: Missing $ inserted.
+<inserted text> 
+$
+l.12 
+   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--12
+[]2014
+ []
+
+
+Overfull \hbox (798.33807pt too wide) in paragraph at lines 8--12
+http://figshare.com/articles/Taking$[][]\OML/cmm/m/it/10 ustainable[]rop[]rotection[]rom[]he[]ield[]o[]he[]loud=\OT1/cmr/m/n/10 1225800[][][]$ 
+ []
+
+./Invited_Talks.tex:13: Undefined control sequence.
+l.13 \entry
+         {2014}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Invited_Talks.tex:13: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \entry{2
+           014}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--17
+[]2014
+ []
+
+./Invited_Talks.tex:18: Undefined control sequence.
+l.18 \entry
+         {2014}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Invited_Talks.tex:18: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \entry{2
+           014}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Invited_Talks.tex:19: Undefined control sequence.
+l.19 	{\href
+          {http://figshare.com/articles/IPS_2014/1037569}{Epidemiology and D...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Invited_Talks.tex:19: Missing $ inserted.
+<inserted text> 
+$
+l.19 	{\href{http://figshare.com/articles/IPS_
+                                            2014/1037569}{Epidemiology and D...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Invited_Talks.tex:19: Extra }, or forgotten $.
+l.19 ...tp://figshare.com/articles/IPS_2014/1037569}
+                                                  {Epidemiology and Disease ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Invited_Talks.tex:19: Extra }, or forgotten $.
+l.19 ...t:\\Research priorities and knowledge gaps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Invited_Talks.tex:22: Missing $ inserted.
+<inserted text> 
+$
+l.22 
+   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 18--22
+[]2014
+ []
+
+
+Overfull \hbox (1007.55261pt too wide) in paragraph at lines 18--22
+http://figshare.com/articles/IPS$[][]\OT1/cmr/m/n/10 014\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 1037569[][][]$ 
+ []
+
+./Invited_Talks.tex:23: Undefined control sequence.
+l.23 \entry
+         {2013}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Invited_Talks.tex:23: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \entry{2
+           013}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--27
+[]2013
+ []
+
+./Invited_Talks.tex:28: Undefined control sequence.
+l.28 \entry
+         {2010}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Invited_Talks.tex:28: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \entry{2
+           010}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Invited_Talks.tex:32: LaTeX Error: \begin{document} ended by \end{entrylist}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{entrylist}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Invited_Talks.tex:32: Missing } inserted.
+<inserted text> 
+}
+l.32 \end{entrylist}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Invited_Talks.tex:32: Missing } inserted.
+<inserted text> 
+}
+l.32 \end{entrylist}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Invited_Talks.tex:32: Missing } inserted.
+<inserted text> 
+}
+l.32 \end{entrylist}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Invited_Talks.tex:32: Missing } inserted.
+<inserted text> 
+}
+l.32 \end{entrylist}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> Invited_Talks.tex
+                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 22 strings out of 495119
+ 100000,89155 words of node,token memory allocated 9875 words of node memory still in use:
+   44 hlist, 6 local_par, 1 dir, 4 math, 197 glue, 82 kern, 37 penalty, 1214 glyph, 32 glue_spec, 1 temp nodes
+   avail lists: 2:11,3:191,4:30,5:2,8:204,10:29
+ 3676 multiletter control sequences out of 65536+600000
+ 25 fonts using 1045927 bytes
+ 18i,3n,12p,213b,63s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!

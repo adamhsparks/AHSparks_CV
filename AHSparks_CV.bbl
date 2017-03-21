@@ -139,7 +139,134 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{HSparks2017}{article}{}
+    \entry{Savary2017}{article}{}
+      \name{author}{20}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d556e980412aa46eedec6a40e184778a}{%
+           family={Bregaglio},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
+           family={Willocquet},
+           familyi={W\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5d787b37fa28a85f17c71d20252dfc2}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=991ef9ae1739ec4d79072e9ea15bca9d}{%
+           family={Mason\bibnamedelima D'Croz},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50e0b86a1eb98b9504c24e3596f8dd12}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
+           family={Djurle},
+           familyi={D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adf26b82bb04eb2660fe00697c58fc8e}{%
+           family={Allinne},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c60b04cf784c2ee697f20e06514e75b8}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=214ca359d992e0773a6980177024106f}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=68debe9bdd1e5c4134038d13386f6adb}{%
+           family={Bergamin},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e0214380b7155ec45fe9801e15585a1c}{%
+           family={Esker},
+           familyi={E\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+           family={McRoberts},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5dbd9478251f85f53edb177b0bed0b97}{%
+           family={Avelino},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
+           family={Duveiller},
+           familyi={D\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c9bfd2ac1730a83eea4150683a19f0f5}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ebf90a96bdf190087bf73216c79dbbc}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authornamehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authorfullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Security}
+      \field{month}{3}
+      \field{title}{Crop health and its global impacts on the components of food security}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s12571-017-0659-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12571-017-0659-1
+      \endverb
+    \endentry
+    \entry{AHSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
            family={Sparks},
@@ -372,8 +499,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -420,7 +547,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{8}
+      \field{month}{7}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -452,8 +579,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -676,6 +803,9 @@
            given={E},
            giveni={E\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Plural editores}%
+      }
       \strng{namehash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{fullhash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{authornamehash}{4e80fa92dc5267695b2b31808c99f458}
@@ -687,6 +817,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{Cambio climático, enfermedades de las plantas e insectos plaga}
+      \field{edition}{Primera edición}
+      \field{month}{6}
       \field{title}{Cambio climático y adaptaciń en el Altiplano boliviano}
       \field{year}{2013}
     \endentry
@@ -773,7 +905,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -808,7 +940,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Acta Phytopathologica Sinica}
+      \field{booktitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -835,7 +967,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -917,7 +1049,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -948,7 +1080,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -980,7 +1112,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -1112,7 +1244,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -1299,7 +1431,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -1335,7 +1467,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -1469,8 +1601,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
-      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -1532,7 +1664,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -1566,7 +1698,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the 10th International Epidemiology Workshop}
+      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -1806,7 +1938,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
@@ -2137,7 +2269,134 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{HSparks2017}{article}{}
+    \entry{Savary2017}{article}{}
+      \name{author}{20}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d556e980412aa46eedec6a40e184778a}{%
+           family={Bregaglio},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
+           family={Willocquet},
+           familyi={W\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5d787b37fa28a85f17c71d20252dfc2}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=991ef9ae1739ec4d79072e9ea15bca9d}{%
+           family={Mason\bibnamedelima D'Croz},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50e0b86a1eb98b9504c24e3596f8dd12}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
+           family={Djurle},
+           familyi={D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adf26b82bb04eb2660fe00697c58fc8e}{%
+           family={Allinne},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c60b04cf784c2ee697f20e06514e75b8}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=214ca359d992e0773a6980177024106f}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=68debe9bdd1e5c4134038d13386f6adb}{%
+           family={Bergamin},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e0214380b7155ec45fe9801e15585a1c}{%
+           family={Esker},
+           familyi={E\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+           family={McRoberts},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5dbd9478251f85f53edb177b0bed0b97}{%
+           family={Avelino},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
+           family={Duveiller},
+           familyi={D\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c9bfd2ac1730a83eea4150683a19f0f5}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ebf90a96bdf190087bf73216c79dbbc}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authornamehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authorfullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Security}
+      \field{month}{3}
+      \field{title}{Crop health and its global impacts on the components of food security}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s12571-017-0659-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12571-017-0659-1
+      \endverb
+    \endentry
+    \entry{AHSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
            family={Sparks},
@@ -2370,8 +2629,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -2418,7 +2677,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{8}
+      \field{month}{7}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -2450,8 +2709,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -2674,6 +2933,9 @@
            given={E},
            giveni={E\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Plural editores}%
+      }
       \strng{namehash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{fullhash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{authornamehash}{4e80fa92dc5267695b2b31808c99f458}
@@ -2685,6 +2947,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{Cambio climático, enfermedades de las plantas e insectos plaga}
+      \field{edition}{Primera edición}
+      \field{month}{6}
       \field{title}{Cambio climático y adaptaciń en el Altiplano boliviano}
       \field{year}{2013}
     \endentry
@@ -2771,7 +3035,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -2806,7 +3070,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Acta Phytopathologica Sinica}
+      \field{booktitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -2833,7 +3097,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -2915,7 +3179,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -2946,7 +3210,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -2978,7 +3242,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -3110,7 +3374,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -3297,7 +3561,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -3333,7 +3597,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -3467,8 +3731,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
-      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -3530,7 +3794,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -3564,7 +3828,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the 10th International Epidemiology Workshop}
+      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -3804,7 +4068,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
@@ -4135,7 +4399,134 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{HSparks2017}{article}{}
+    \entry{Savary2017}{article}{}
+      \name{author}{20}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d556e980412aa46eedec6a40e184778a}{%
+           family={Bregaglio},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
+           family={Willocquet},
+           familyi={W\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5d787b37fa28a85f17c71d20252dfc2}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=991ef9ae1739ec4d79072e9ea15bca9d}{%
+           family={Mason\bibnamedelima D'Croz},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50e0b86a1eb98b9504c24e3596f8dd12}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
+           family={Djurle},
+           familyi={D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adf26b82bb04eb2660fe00697c58fc8e}{%
+           family={Allinne},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c60b04cf784c2ee697f20e06514e75b8}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=214ca359d992e0773a6980177024106f}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=68debe9bdd1e5c4134038d13386f6adb}{%
+           family={Bergamin},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e0214380b7155ec45fe9801e15585a1c}{%
+           family={Esker},
+           familyi={E\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+           family={McRoberts},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5dbd9478251f85f53edb177b0bed0b97}{%
+           family={Avelino},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
+           family={Duveiller},
+           familyi={D\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c9bfd2ac1730a83eea4150683a19f0f5}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ebf90a96bdf190087bf73216c79dbbc}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authornamehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authorfullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Security}
+      \field{month}{3}
+      \field{title}{Crop health and its global impacts on the components of food security}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s12571-017-0659-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12571-017-0659-1
+      \endverb
+    \endentry
+    \entry{AHSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
            family={Sparks},
@@ -4368,8 +4759,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -4416,7 +4807,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{8}
+      \field{month}{7}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -4448,8 +4839,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -4672,6 +5063,9 @@
            given={E},
            giveni={E\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Plural editores}%
+      }
       \strng{namehash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{fullhash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{authornamehash}{4e80fa92dc5267695b2b31808c99f458}
@@ -4683,6 +5077,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{Cambio climático, enfermedades de las plantas e insectos plaga}
+      \field{edition}{Primera edición}
+      \field{month}{6}
       \field{title}{Cambio climático y adaptaciń en el Altiplano boliviano}
       \field{year}{2013}
     \endentry
@@ -4769,7 +5165,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -4804,7 +5200,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Acta Phytopathologica Sinica}
+      \field{booktitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -4831,7 +5227,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -4913,7 +5309,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -4944,7 +5340,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -4976,7 +5372,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -5108,7 +5504,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -5295,7 +5691,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -5331,7 +5727,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -5465,8 +5861,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
-      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -5528,7 +5924,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -5562,7 +5958,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the 10th International Epidemiology Workshop}
+      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -5802,7 +6198,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
@@ -6133,7 +6529,134 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
-    \entry{HSparks2017}{article}{}
+    \entry{Savary2017}{article}{}
+      \name{author}{20}{}{%
+        {{hash=75596f862827db3b0a322e6bb459739a}{%
+           family={Savary},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d556e980412aa46eedec6a40e184778a}{%
+           family={Bregaglio},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df8b8b40907a721bd0fbd754dace5f5b}{%
+           family={Willocquet},
+           familyi={W\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5d787b37fa28a85f17c71d20252dfc2}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=991ef9ae1739ec4d79072e9ea15bca9d}{%
+           family={Mason\bibnamedelima D'Croz},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50e0b86a1eb98b9504c24e3596f8dd12}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f1d17826859c541fe000653de99064cf}{%
+           family={Djurle},
+           familyi={D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adf26b82bb04eb2660fe00697c58fc8e}{%
+           family={Allinne},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c60b04cf784c2ee697f20e06514e75b8}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=214ca359d992e0773a6980177024106f}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=68debe9bdd1e5c4134038d13386f6adb}{%
+           family={Bergamin},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e25c1f7e039d1f12e743d3899b76e50}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e0214380b7155ec45fe9801e15585a1c}{%
+           family={Esker},
+           familyi={E\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+           family={McRoberts},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5dbd9478251f85f53edb177b0bed0b97}{%
+           family={Avelino},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51f98cb5a1e96e5486f900b4ae825b3e}{%
+           family={Duveiller},
+           familyi={D\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c9bfd2ac1730a83eea4150683a19f0f5}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ebf90a96bdf190087bf73216c79dbbc}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{fullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authornamehash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \strng{authorfullhash}{a2d1c3f7a1f84583f6f3feb5a610ff45}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Security}
+      \field{month}{3}
+      \field{title}{Crop health and its global impacts on the components of food security}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s12571-017-0659-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12571-017-0659-1
+      \endverb
+    \endentry
+    \entry{AHSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
            family={Sparks},
@@ -6366,8 +6889,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -6414,7 +6937,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{10(8)}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{8}
+      \field{month}{7}
       \field{number}{e0136562}
       \field{title}{Farmers' preference for rice traits: Insights from farm surveys in Central Luzon, Philippines, 1966--2012}
       \field{year}{2015}
@@ -6446,8 +6969,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -6670,6 +7193,9 @@
            given={E},
            giveni={E\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Plural editores}%
+      }
       \strng{namehash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{fullhash}{4e80fa92dc5267695b2b31808c99f458}
       \strng{authornamehash}{4e80fa92dc5267695b2b31808c99f458}
@@ -6681,6 +7207,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{Cambio climático, enfermedades de las plantas e insectos plaga}
+      \field{edition}{Primera edición}
+      \field{month}{6}
       \field{title}{Cambio climático y adaptaciń en el Altiplano boliviano}
       \field{year}{2013}
     \endentry
@@ -6767,7 +7295,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -6802,7 +7330,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Acta Phytopathologica Sinica}
+      \field{booktitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -6829,7 +7357,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -6911,7 +7439,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -6942,7 +7470,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -6974,7 +7502,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -7106,7 +7634,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -7293,7 +7821,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -7329,7 +7857,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -7463,8 +7991,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
-      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -7526,7 +8054,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -7560,7 +8088,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{In Proceedings of the 10th International Epidemiology Workshop}
+      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -7800,7 +8328,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Phytopathology}
+      \field{booktitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
