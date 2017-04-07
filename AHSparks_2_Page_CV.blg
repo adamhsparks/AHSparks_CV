@@ -1,25 +1,28 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'AHSparks_2_Page_CV.blg'
-[111] biber-darwin:303> INFO - === Wed Mar 22, 2017, 07:14:32
-[150] Biber.pm:359> INFO - Reading 'AHSparks_2_Page_CV.bcf'
-[297] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[297] Biber.pm:832> INFO - Using all citekeys in bib section 1
-[297] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[297] Biber.pm:832> INFO - Using all citekeys in bib section 2
-[297] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[329] Biber.pm:3670> INFO - Processing section 1
-[351] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
-[354] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[366] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
-[438] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[438] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[438] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[438] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[454] Biber.pm:3670> INFO - Processing section 2
-[455] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 2
-[528] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[528] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[529] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[529] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[555] bbl.pm:608> INFO - Writing 'AHSparks_2_Page_CV.bbl' with encoding 'UTF-8'
-[564] bbl.pm:712> INFO - Output to AHSparks_2_Page_CV.bbl
+[51] biber-darwin:303> INFO - === Fri Apr  7, 2017, 14:56:54
+[170] Biber.pm:359> INFO - Reading 'AHSparks_2_Page_CV.bcf'
+[258] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[258] Biber.pm:832> INFO - Using all citekeys in bib section 1
+[258] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[258] Biber.pm:832> INFO - Using all citekeys in bib section 2
+[258] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[284] Biber.pm:3670> INFO - Processing section 1
+[354] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
+[357] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[380] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
+[449] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
+[509] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[509] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[509] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[509] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[522] Biber.pm:3670> INFO - Processing section 2
+[523] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 2
+[531] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
+[567] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[567] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[567] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[567] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[580] bbl.pm:608> INFO - Writing 'AHSparks_2_Page_CV.bbl' with encoding 'UTF-8'
+[585] bbl.pm:712> INFO - Output to AHSparks_2_Page_CV.bbl
+[585] Biber.pm:109> INFO - WARNINGS: 2

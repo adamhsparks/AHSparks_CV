@@ -1,12 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.6.7)  22 MAR 2017 07:14
-entering extended mode
- restricted \write18 enabled.
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  7 APR 2017 14:57
+ restricted system commands enabled.
  file:line:error style messages enabled.
- %&-line parsing enabled.
 **AHSparks_2_Page_CV.tex
 (./AHSparks_2_Page_CV.tex
 LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 22 language(s) loaded.
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (./friggeri-cv.cls
 Document Class: friggeri-cv 2013/07/19 CV class
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/article.cls
@@ -30,11 +28,18 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/JK)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2017/01/12 v0.01h Graphics/Color for luaTeX
+ (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -46,17 +51,18 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 Package: expl3 2017/03/18 v7019 L3 programming layer (loader) 
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/03/18 v7019 L3 programming layer (code)
-\c_max_int=\count87
-\l_tmpa_int=\count88
-\l_tmpb_int=\count89
-\g_tmpa_int=\count90
-\g_tmpb_int=\count91
-\g__prg_map_int=\count92
-\c_log_iow=\count93
-\l_iow_line_count_int=\count94
-\l__iow_line_target_int=\count95
-\l__iow_one_indent_int=\count96
-\l__iow_indent_int=\count97
+\ucharcat@table=\catcodetable5
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+\g__prg_map_int=\count93
+\c_log_iow=\count94
+\l_iow_line_count_int=\count95
+\l__iow_line_target_int=\count96
+\l__iow_one_indent_int=\count97
+\l__iow_indent_int=\count98
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
 \l_tmpa_dim=\dimen105
@@ -75,27 +81,30 @@ Package: expl3 2017/03/18 v7019 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count98
-\c__fp_leading_shift_int=\count99
-\c__fp_middle_shift_int=\count100
-\c__fp_trailing_shift_int=\count101
-\c__fp_big_leading_shift_int=\count102
-\c__fp_big_middle_shift_int=\count103
-\c__fp_big_trailing_shift_int=\count104
-\c__fp_Bigg_leading_shift_int=\count105
-\c__fp_Bigg_middle_shift_int=\count106
-\c__fp_Bigg_trailing_shift_int=\count107
-\l__sort_length_int=\count108
-\l__sort_min_int=\count109
-\l__sort_top_int=\count110
-\l__sort_max_int=\count111
-\l__sort_true_max_int=\count112
-\l__sort_block_int=\count113
-\l__sort_begin_int=\count114
-\l__sort_end_int=\count115
-\l__sort_A_int=\count116
-\l__sort_B_int=\count117
-\l__sort_C_int=\count118
+\l_keys_choice_int=\count99
+\c__fp_leading_shift_int=\count100
+\c__fp_middle_shift_int=\count101
+\c__fp_trailing_shift_int=\count102
+\c__fp_big_leading_shift_int=\count103
+\c__fp_big_middle_shift_int=\count104
+\c__fp_big_trailing_shift_int=\count105
+\c__fp_Bigg_leading_shift_int=\count106
+\c__fp_Bigg_middle_shift_int=\count107
+\c__fp_Bigg_trailing_shift_int=\count108
+\c__fp_rand_size_int=\count109
+\c__fp_rand_four_int=\count110
+\c__fp_rand_eight_int=\count111
+\l__sort_length_int=\count112
+\l__sort_min_int=\count113
+\l__sort_top_int=\count114
+\l__sort_max_int=\count115
+\l__sort_true_max_int=\count116
+\l__sort_block_int=\count117
+\l__sort_begin_int=\count118
+\l__sort_end_int=\count119
+\l__sort_A_int=\count120
+\l__sort_B_int=\count121
+\l__sort_C_int=\count122
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -136,28 +145,51 @@ Package: expl3 2017/03/18 v7019 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen131
 \l__coffin_scaled_total_height_dim=\dimen132
 \l__coffin_scaled_width_dim=\dimen133
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2017/03/18 v7019 L3 Experimental driver: xdvipdfmx
+) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v7019 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count123
 \l__driver_tmp_box=\box41
 )) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/03/18 v7019 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count119
-\g__xparse_grabber_int=\count120
-\l__xparse_m_args_int=\count121
-\l__xparse_mandatory_args_int=\count122
-\l__xparse_v_nesting_int=\count123
+\l__xparse_current_arg_int=\count124
+\g__xparse_grabber_int=\count125
+\l__xparse_m_args_int=\count126
+\l__xparse_mandatory_args_int=\count127
+\l__xparse_v_nesting_int=\count128
 )
-Package: fontspec 2017/02/12 v2.6 Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/02/12 v2.6 Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count124
-\l__fontspec_language_int=\count125
-\l__fontspec_strnum_int=\count126
-\l__fontspec_tmp_int=\count127
-\l__fontspec_em_int=\count128
-\l__fontspec_emdef_int=\count129
-\l__fontspec_strong_int=\count130
-\l__fontspec_strongdef_int=\count131
+Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2016basic/texmf-dist/tex/luatex/luaotfload/luaotfload.sty
+Package: luaotfload 2017/01/29 v2.8 OpenType layout system
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended collection.(using write cache: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic)(using read cache: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic /Users/U8004755/Library/texlive/2016basic/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse-resolved path “/usr/local/texlive/2016basic/texmf-dist/tex/luatex/luaotfload/fontloader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
+luaotfload | main : initialization completed in 0.122 seconds)
+Lua module: fontspec 2017/03/31 2.6a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count129
+\l__fontspec_language_int=\count130
+\l__fontspec_strnum_int=\count131
+\l__fontspec_tmp_int=\count132
+\l__fontspec_em_int=\count133
+\l__fontspec_emdef_int=\count134
+\l__fontspec_strong_int=\count135
+\l__fontspec_strongdef_int=\count136
 \l__fontspec_tmpa_dim=\dimen134
 \l__fontspec_tmpb_dim=\dimen135
 \l__fontspec_tmpc_dim=\dimen136
@@ -170,8 +202,8 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 
 /usr/local/texlive/2016basic/texmf-dist/tex/latex/base/tuenc.def:252: Missing \endcsname inserted.
 <to be read again> 
-                   \def 
-l.252 ...           \UnicodeEncodingName {}{"007E}
+\def 
+l.252 ...             \UnicodeEncodingName {}{"007E}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -183,12 +215,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 ...           \UnicodeEncodingName {}{"007E}
+l.252 ...             \UnicodeEncodingName {}{"007E}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no ̂ in font cmr10!
 )
 LaTeX Font Info:    Try loading font information for TU+cmr on input line 105.
 LaTeX Font Info:    No file TUcmr.fd. on input line 105.
@@ -200,7 +231,7 @@ File: tulmr.fd 2017/01/26 v1.8 Standard LaTeX font definitions for Latin Modern
 LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 105.
 
-)
+luaotfload | db : Font names database loaded from /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -209,174 +240,186 @@ LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 491.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 486.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 507.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 506.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 523.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 526.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 528.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 546.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 533.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 550.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 538.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 558.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 543.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 563.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 574.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 567.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 589.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 574.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 606.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 623.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 617.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 634.
+. Defining command \addfontfeatures with sig. 'm' on line 648.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 642.
+. Defining command \newfontfeature with sig. 'mm' on line 675.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 652.
+. Defining command \newAATfeature with sig. 'mmmm' on line 689.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 675.
+. Defining command \newopentypefeature with sig. 'mmm' on line 703.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 692.
+. Defining command \newICUfeature with sig. 'mmm' on line 723.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 696.
+. Defining command \aliasfontfeature with sig. 'mm' on line 727.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 700.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 748.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 705.
+. Defining command \newfontscript with sig. 'mm' on line 781.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 711.
+. Defining command \newfontlanguage with sig. 'mm' on line 785.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3338.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 789.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3344.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 800.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3350.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3162.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3356.
+. Defining command \EncodingAccent with sig. 'mm' on line 3168.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3362.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3174.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3387.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3180.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3393.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3186.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3401.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3211.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3217.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3225.
 .................................................
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3586.
-LaTeX Info: Redefining \slshape on input line 3591.
-LaTeX Info: Redefining \scshape on input line 3596.
-LaTeX Info: Redefining \upshape on input line 3601.
-LaTeX Info: Redefining \em on input line 3631.
-LaTeX Info: Redefining \emph on input line 3656.
-LaTeX Info: Redefining \- on input line 3707.
+LaTeX Info: Redefining \itshape on input line 3410.
+LaTeX Info: Redefining \slshape on input line 3415.
+LaTeX Info: Redefining \scshape on input line 3420.
+LaTeX Info: Redefining \upshape on input line 3425.
+LaTeX Info: Redefining \em on input line 3455.
+LaTeX Info: Redefining \emph on input line 3480.
+(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)
+LaTeX Info: Redefining \- on input line 3531.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3802.
+. Redefining command \oldstylenums with sig. 'm' on line 3626.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3806.
+. Defining command \liningnums with sig. 'm' on line 3630.
 .................................................
 )) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2017/01/27 v0.8d Unicode maths in XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2016basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Overfull \hbox (126.10056pt too wide) in paragraph at lines 252--10
-[]\OT1/cmr/m/n/10 ~                                                                                                                                                                                                            
+[]\OT1/cmr/m/n/10 ~̂                                                                                                                                                                                                            
  []
 
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package ifluatex Info: LuaTeX detected.
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/ucharcat/ucharcat.sty
 Package: ucharcat 2015/11/19 v0.03 ucharcat for luaLaTeX (DPC)
+\ucharcat@table=\catcodetable6
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/03/18 v7019 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/fix-cm.sty
@@ -386,50 +429,76 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )
-\g__um_fam_int=\count132
+\g__um_fam_int=\count137
 \g__um_primekern_muskip=\muskip16
-\l__um_primecount_int=\count133
+\l__um_primecount_int=\count138
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \unimathsetup with sig. 'm' on line 166.
 .................................................
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty (/usr/local/texlive/2016basic/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
+Package: lualatex-math 2016/04/16 v1.6 Patches for mathematics typesetting with LuaLaTeX
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count139
+)
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting with LuaLaTeX)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 165.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setoperatorfont with sig. 'm' on line 169.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathfont with sig. 'O{}mO{}' on line 278.
+. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 167.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addnolimits with sig. 'm' on line 520.
+. Defining command \setoperatorfont with sig. 'm' on line 171.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \removenolimits with sig. 'm' on line 524.
+. Defining command \setmathfont with sig. 'O{}mO{}' on line 280.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addnolimits with sig. 'm' on line 523.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \removenolimits with sig. 'm' on line 527.
 .................................................
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
-\g__fontspec_family_AvenirBook_int=\count134
-\g__fontspec_family_AvenirNextUltraLight_int=\count135
-\g__fontspec_family_AvenirNextCondensedDemiBold_int=\count136
+luaotfload | cache : Lookup cache loaded from /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/avenir-1.luc)
+luaotfload | aux : font no 19 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 19
+\g__fontspec_family_AvenirBook_int=\count140
+luaotfload | aux : font no 19 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 19(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/avenir-next-11.luc)
+\g__fontspec_family_AvenirNextUltraLight_int=\count141
+(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/avenir-next-condensed-3.luc)
+\g__fontspec_family_AvenirNextCondensedDemiBold_int=\count142
+luaotfload | aux : font no 19 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 19
+luaotfload | aux : font no 19 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 19
 LaTeX Info: Redefining \rmfamily on input line 49.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
-\g__fontspec_family_FontAwesome_int=\count137
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/inputenc.sty
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/fontawesome-webfont.luc)
+luaotfload | aux : font no 23 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 23
+\g__fontspec_family_FontAwesome_int=\count143
+(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc)
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 23
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 24
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 24
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 24 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -464,35 +533,23 @@ TextBlockOrigin set to 0pt x 0pt
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
  (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
-) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count138
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks18
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
  (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
  (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 ))) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count139
+\lrq@indent=\count144
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/ifthen.sty
@@ -500,52 +557,51 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2016basic/texmf-dist/tex/generic/xstring/xstring.tex
+) (/usr/local/texlive/2016basic/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2016basic/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
-\integerpart=\count140
-\decimalpart=\count141
+\integerpart=\count145
+\decimalpart=\count146
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count142
-\c@listtotal=\count143
-\c@listcount=\count144
-\c@liststart=\count145
-\c@liststop=\count146
-\c@citecount=\count147
-\c@citetotal=\count148
-\c@multicitecount=\count149
-\c@multicitetotal=\count150
-\c@instcount=\count151
-\c@maxnames=\count152
-\c@minnames=\count153
-\c@maxitems=\count154
-\c@minitems=\count155
-\c@citecounter=\count156
-\c@savedcitecounter=\count157
-\c@uniquelist=\count158
-\c@uniquename=\count159
-\c@refsection=\count160
-\c@refsegment=\count161
-\c@maxextratitle=\count162
-\c@maxextratitleyear=\count163
-\c@maxextrayear=\count164
-\c@maxextraalpha=\count165
-\c@abbrvpenalty=\count166
-\c@highnamepenalty=\count167
-\c@lownamepenalty=\count168
-\c@maxparens=\count169
-\c@parenlevel=\count170
-\blx@tempcnta=\count171
-\blx@tempcntb=\count172
-\blx@tempcntc=\count173
-\blx@maxsection=\count174
-\blx@maxsegment@0=\count175
-\blx@notetype=\count176
-\blx@parenlevel@text=\count177
-\blx@parenlevel@foot=\count178
-\blx@sectionciteorder@0=\count179
+\c@tabx@nest=\count147
+\c@listtotal=\count148
+\c@listcount=\count149
+\c@liststart=\count150
+\c@liststop=\count151
+\c@citecount=\count152
+\c@citetotal=\count153
+\c@multicitecount=\count154
+\c@multicitetotal=\count155
+\c@instcount=\count156
+\c@maxnames=\count157
+\c@minnames=\count158
+\c@maxitems=\count159
+\c@minitems=\count160
+\c@citecounter=\count161
+\c@savedcitecounter=\count162
+\c@uniquelist=\count163
+\c@uniquename=\count164
+\c@refsection=\count165
+\c@refsegment=\count166
+\c@maxextratitle=\count167
+\c@maxextratitleyear=\count168
+\c@maxextrayear=\count169
+\c@maxextraalpha=\count170
+\c@abbrvpenalty=\count171
+\c@highnamepenalty=\count172
+\c@lownamepenalty=\count173
+\c@maxparens=\count174
+\c@parenlevel=\count175
+\blx@tempcnta=\count176
+\blx@tempcntb=\count177
+\blx@tempcntc=\count178
+\blx@maxsection=\count179
+\blx@maxsegment@0=\count180
+\blx@notetype=\count181
+\blx@parenlevel@text=\count182
+\blx@parenlevel@foot=\count183
+\blx@sectionciteorder@0=\count184
 \labelnumberwidth=\skip49
 \labelalphawidth=\skip50
 \biblabelsep=\skip51
@@ -556,9 +612,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip56
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count180
-\c@maxcomprange=\count181
-\c@mincompwidth=\count182
+\c@mincomprange=\count185
+\c@maxcomprange=\count186
+\c@mincompwidth=\count187
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/blx-dm.def)
@@ -566,72 +622,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count183
-\c@savedafterword=\count184
-\c@annotator=\count185
-\c@savedannotator=\count186
-\c@author=\count187
-\c@savedauthor=\count188
-\c@bookauthor=\count189
-\c@savedbookauthor=\count190
-\c@commentator=\count191
-\c@savedcommentator=\count192
-\c@editor=\count193
-\c@savededitor=\count194
-\c@editora=\count195
-\c@savededitora=\count196
-\c@editorb=\count197
-\c@savededitorb=\count198
-\c@editorc=\count199
-\c@savededitorc=\count266
-\c@foreword=\count267
-\c@savedforeword=\count268
-\c@holder=\count269
-\c@savedholder=\count270
-\c@introduction=\count271
-\c@savedintroduction=\count272
-\c@namea=\count273
-\c@savednamea=\count274
-\c@nameb=\count275
-\c@savednameb=\count276
-\c@namec=\count277
-\c@savednamec=\count278
-\c@translator=\count279
-\c@savedtranslator=\count280
-\c@shortauthor=\count281
-\c@savedshortauthor=\count282
-\c@shorteditor=\count283
-\c@savedshorteditor=\count284
-\c@labelname=\count285
-\c@savedlabelname=\count286
-\c@institution=\count287
-\c@savedinstitution=\count288
-\c@lista=\count289
-\c@savedlista=\count290
-\c@listb=\count291
-\c@savedlistb=\count292
-\c@listc=\count293
-\c@savedlistc=\count294
-\c@listd=\count295
-\c@savedlistd=\count296
-\c@liste=\count297
-\c@savedliste=\count298
-\c@listf=\count299
-\c@savedlistf=\count300
-\c@location=\count301
-\c@savedlocation=\count302
-\c@organization=\count303
-\c@savedorganization=\count304
-\c@origlocation=\count305
-\c@savedoriglocation=\count306
-\c@origpublisher=\count307
-\c@savedorigpublisher=\count308
-\c@publisher=\count309
-\c@savedpublisher=\count310
-\c@language=\count311
-\c@savedlanguage=\count312
-\c@pageref=\count313
-\c@savedpageref=\count314
+\c@afterword=\count188
+\c@savedafterword=\count189
+\c@annotator=\count190
+\c@savedannotator=\count191
+\c@author=\count192
+\c@savedauthor=\count193
+\c@bookauthor=\count194
+\c@savedbookauthor=\count195
+\c@commentator=\count196
+\c@savedcommentator=\count197
+\c@editor=\count198
+\c@savededitor=\count199
+\c@editora=\count266
+\c@savededitora=\count267
+\c@editorb=\count268
+\c@savededitorb=\count269
+\c@editorc=\count270
+\c@savededitorc=\count271
+\c@foreword=\count272
+\c@savedforeword=\count273
+\c@holder=\count274
+\c@savedholder=\count275
+\c@introduction=\count276
+\c@savedintroduction=\count277
+\c@namea=\count278
+\c@savednamea=\count279
+\c@nameb=\count280
+\c@savednameb=\count281
+\c@namec=\count282
+\c@savednamec=\count283
+\c@translator=\count284
+\c@savedtranslator=\count285
+\c@shortauthor=\count286
+\c@savedshortauthor=\count287
+\c@shorteditor=\count288
+\c@savedshorteditor=\count289
+\c@labelname=\count290
+\c@savedlabelname=\count291
+\c@institution=\count292
+\c@savedinstitution=\count293
+\c@lista=\count294
+\c@savedlista=\count295
+\c@listb=\count296
+\c@savedlistb=\count297
+\c@listc=\count298
+\c@savedlistc=\count299
+\c@listd=\count300
+\c@savedlistd=\count301
+\c@liste=\count302
+\c@savedliste=\count303
+\c@listf=\count304
+\c@savedlistf=\count305
+\c@location=\count306
+\c@savedlocation=\count307
+\c@organization=\count308
+\c@savedorganization=\count309
+\c@origlocation=\count310
+\c@savedoriglocation=\count311
+\c@origpublisher=\count312
+\c@savedorigpublisher=\count313
+\c@publisher=\count314
+\c@savedpublisher=\count315
+\c@language=\count316
+\c@savedlanguage=\count317
+\c@pageref=\count318
+\c@savedpageref=\count319
 \shorthandwidth=\skip57
 \shortjournalwidth=\skip58
 \shortserieswidth=\skip59
@@ -640,20 +696,21 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \shorteditorwidth=\skip62
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/blx-compat.def
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count315
-\c@textcitetotal=\count316
-\c@textcitemaxnames=\count317
-\c@biburlnumpenalty=\count318
-\c@biburlucpenalty=\count319
-\c@biburllcpenalty=\count320
-\c@smartand=\count321
+\c@textcitecount=\count320
+\c@textcitetotal=\count321
+\c@textcitemaxnames=\count322
+\c@biburlnumpenalty=\count323
+\c@biburlucpenalty=\count324
+\c@biburllcpenalty=\count325
+\c@smartand=\count326
 )
 Package biblatex Info: Trying to load bibliography style 'verbose'...
 Package biblatex Info: ... file 'verbose.bbx' found.
@@ -667,8 +724,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count322
-\c@bbx:relatedtotal=\count323
+\c@bbx:relatedcount=\count327
+\c@bbx:relatedtotal=\count328
 )))
 Package biblatex Info: Trying to load citation style 'verbose'...
 Package biblatex Info: ... file 'verbose.cbx' found.
@@ -692,9 +749,9 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count324
-\Gm@cntv=\count325
-\c@Gm@tempcnt=\count326
+\Gm@cnth=\count329
+\Gm@cntv=\count330
+\c@Gm@tempcnt=\count331
 \Gm@bindingoffset=\dimen145
 \Gm@wd@mp=\dimen146
 \Gm@odd@mp=\dimen147
@@ -703,11 +760,10 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutheight=\dimen150
 \Gm@layouthoffset=\dimen151
 \Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks19
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
-
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+ (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
  (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
@@ -721,6 +777,9 @@ Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package hobsub Info: Skipping package `etexcmds' (already loaded).
 Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(/usr/local/texlive/2016basic/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
 Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
@@ -739,12 +798,12 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen153
-\Hy@linkcounter=\count327
-\Hy@pagecounter=\count328
+\Hy@linkcounter=\count332
+\Hy@pagecounter=\count333
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count329
+\Hy@SavedSpaceFactor=\count334
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -755,10 +814,10 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count330
+\c@Hy@tempcnt=\count335
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen154
-\Fld@menulength=\count331
+\Fld@menulength=\count336
 \Field@Width=\dimen155
 \Fld@charsize=\dimen156
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -770,31 +829,20 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count332
-\c@Item=\count333
-\c@Hfootnote=\count334
+\Hy@abspage=\count337
+\c@Item=\count338
+\c@Hfootnote=\count339
 )
 
-Package hyperref Message: Driver (autodetected): hxetex.
+Package hyperref Message: Driver (autodetected): hluatex.
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2017/03/14 v6.85a Hyperref driver for XeTeX
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
-) (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/stringenc.sty
-Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
-)
-\pdfm@box=\box44
-\c@Hy@AnnotLevel=\count335
-\HyField@AnnotCount=\count336
-\Fld@listcount=\count337
-\c@bookmark@seq@number=\count338
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2017/03/14 v6.85a Hyperref driver for luaTeX
+\Fld@listcount=\count340
+\c@bookmark@seq@number=\count341
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
-(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
-(rerunfilecheck)             Therefore file contents cannot be checked efficiently
-(rerunfilecheck)             and the loading of the package is aborted.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip63
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/psnfss/pifont.sty
@@ -815,7 +863,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 99.
+Package graphics Info: Driver file: luatex.def on input line 99.
 )
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
@@ -831,15 +879,20 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@olf=\skip71
 \f@ncyO@orf=\skip72
 )
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \frac.
+.................................................
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count339
-\@quotereset=\count340
+\@quotelevel=\count342
+\@quotereset=\count343
  (./AHSparks_2_Page_CV.aux)
-\openout1 = `AHSparks_2_Page_CV.aux'.
+\openout1 = AHSparks_2_Page_CV.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -859,9 +912,36 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-\g__fontspec_family_latinmodern-math.otf_int=\count341
+ (/usr/local/texlive/2016basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count344
+\scratchdimen=\dimen159
+\scratchbox=\box44
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen160
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc)
+\g__fontspec_family_latinmodern-math.otf_int=\count350
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script math with language dflt
+luaotfload | aux : no font with id 27
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script math with language dflt
+luaotfload | aux : no font with id 27
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -870,6 +950,10 @@ LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on input line 21.
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script math with language dflt
+luaotfload | aux : no font with id 27
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script math with language dflt
+luaotfload | aux : no font with id 27
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
@@ -878,6 +962,10 @@ LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on input line 21.
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script math with language dflt
+luaotfload | aux : no font with id 27
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script math with language dflt
+luaotfload | aux : no font with id 27
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -886,14 +974,13 @@ LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on input line 21.
-
-ABD: EveryShipout initializing macros
-Package biblatex Info: XeTeX detected.
+ ABD: EveryShipout initializing macros
+Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `AHSparks_2_Page_CV.bcf'.
 
+\openout4 = AHSparks_2_Page_CV.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'AHSparks_2_Page_CV.bbl' found.
  (./AHSparks_2_Page_CV.bbl)
@@ -901,9 +988,9 @@ Package biblatex Info: Reference section=0 on input line 21.
 Package biblatex Info: Reference segment=0 on input line 21.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -941,70 +1028,281 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count342
+\c@section@level=\count351
 )
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
  (./AHSparks_2_Page_CV.out) (./AHSparks_2_Page_CV.out)
 \@outlinefile=\write5
-\openout5 = `AHSparks_2_Page_CV.out'.
 
+\openout5 = AHSparks_2_Page_CV.out
  (./Aside_Work_Experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 35.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 35.
+(Font)              scaled to size 7.0001pt on input line 35.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 35.
+(Font)              scaled to size 5.00008pt on input line 35.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 9.99985pt on input line 35.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 35.
+(Font)              scaled to size 6.9999pt on input line 35.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 35.
-
+(Font)              scaled to size 4.99992pt on input line 35.
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 48
+Inserting `luaotfload.color_handler' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.color_handler' at position 2 in `hpack_filter'.
+Inserting `luaotfload.color_handler' at position 1 in `mlist_to_hlist'.
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
 Underfull \hbox (badness 10000) in paragraph at lines 35--69
 
  []
 
-)
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+
+LaTeX Font Warning: Font shape `TU/AvenirBook(1)/m/it' undefined
+(Font)              using `TU/AvenirBook(1)/m/n' instead on input line 78.
+
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48)
 Underfull \hbox (badness 10000) in paragraph at lines 70--24
 
  []
 
-(/usr/local/texlive/2016basic/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-) [1
+[1
 
+{/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no ̂ (U+0302) in font cmr10!
 ]
-\blx@maxsegment@1=\count343
-\blx@sectionciteorder@1=\count344
+\blx@maxsegment@1=\count352
+\blx@sectionciteorder@1=\count353
 Package biblatex Info: Reference section=1 on input line 29.
 Package biblatex Info: Setting label 'refsection:1' on input line 29.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 48
+
+LaTeX Font Warning: Font shape `TU/AvenirBook(22)/m/it' undefined
+(Font)              using `TU/AvenirBook(22)/m/n' instead on input line 29.
+
 LaTeX Font Info:    Try loading font information for TU+lmtt on input line 29.
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/tulmtt.fd
 File: tulmtt.fd 2017/01/26 v1.8 Standard LaTeX font definitions for Latin Modern
-)
+)(load luc: /usr/local/texlive/2016basic/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc)
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.00012pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.00009pt on input line 29.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.99988pt on input line 29.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 29.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 29.
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 52 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 52
+luaotfload | aux : font no 48 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 48
 Package biblatex Info: Reference section=0 on input line 29.
-\blx@maxsegment@2=\count345
-\blx@sectionciteorder@2=\count346
+\blx@maxsegment@2=\count354
+\blx@sectionciteorder@2=\count355
 Package biblatex Info: Reference section=2 on input line 30.
 Package biblatex Info: Setting label 'refsection:2' on input line 30.
 Package biblatex Info: Reference section=0 on input line 32.
@@ -1012,23 +1310,33 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
  [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
  (./AHSparks_2_Page_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 34.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 34.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package rerunfilecheck Info: File `AHSparks_2_Page_CV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package logreq Info: Writing requests to 'AHSparks_2_Page_CV.run.xml'.
-\openout1 = `AHSparks_2_Page_CV.run.xml'.
 
- ) 
-Here is how much of TeX's memory you used:
- 30868 strings out of 495086
- 561224 string characters out of 6174759
- 1064191 words of memory out of 5000000
- 33880 multiletter control sequences out of 15000+600000
- 7791 words of font info for 88 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 51i,11n,79p,10404b,4711s stack positions out of 5000i,500n,10000p,200000b,80000s
+\openout1 = AHSparks_2_Page_CV.run.xml
+)
 
-Output written on AHSparks_2_Page_CV.xdv (2 pages, 49284 bytes).
+Here is how much of LuaTeX's memory you used:
+ 29326 strings out of 495119
+ 100000,1144653 words of node,token memory allocated
+ 1341 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 114 glue, 39 attribute, 54 glue_spec, 39 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 1:2,2:1318,3:191,4:70,5:135,6:2255,7:793,8:49,9:208,10:5,11:194
+ 31212 multiletter control sequences out of 65536+600000
+ 64 fonts using 16897975 bytes
+ 55i,11n,91p,1579b,1162s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2016basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></Users/U8004755/Library/Fonts/fontawesome-webfont.ttf></System/Library/Fonts/Avenir Next Condensed.ttc></System/Library/Fonts/Avenir.ttc></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on AHSparks_2_Page_CV.pdf (2 pages, 58535 bytes).
+
+PDF statistics: 84 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

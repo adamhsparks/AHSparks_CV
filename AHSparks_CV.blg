@@ -1,46 +1,50 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'AHSparks_CV.blg'
-[98] biber-darwin:303> INFO - === Wed Mar 22, 2017, 07:06:01
-[154] Biber.pm:359> INFO - Reading 'AHSparks_CV.bcf'
-[290] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[290] Biber.pm:832> INFO - Using all citekeys in bib section 1
-[290] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[290] Biber.pm:832> INFO - Using all citekeys in bib section 2
-[291] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[291] Biber.pm:832> INFO - Using all citekeys in bib section 3
-[291] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[291] Biber.pm:832> INFO - Using all citekeys in bib section 4
-[291] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[343] Biber.pm:3670> INFO - Processing section 1
-[365] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 1
-[371] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[387] bibtex.pm:1292> INFO - Found BibTeX data source 'Sparks_bibliography.bib'
-[541] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
-[643] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[643] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[644] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[644] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[711] Biber.pm:3670> INFO - Processing section 2
-[711] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 2
-[805] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
-[905] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[905] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[905] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[905] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[987] Biber.pm:3670> INFO - Processing section 3
-[987] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 3
-[1087] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
-[1197] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1197] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1198] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[1198] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[1304] Biber.pm:3670> INFO - Processing section 4
-[1305] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 4
-[1413] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
-[1520] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1520] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1520] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[1520] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[1596] bbl.pm:608> INFO - Writing 'AHSparks_CV.bbl' with encoding 'UTF-8'
-[1641] bbl.pm:712> INFO - Output to AHSparks_CV.bbl
-[1641] Biber.pm:109> INFO - WARNINGS: 4
+[38] biber-darwin:303> INFO - === Fri Apr  7, 2017, 14:54:10
+[59] Biber.pm:359> INFO - Reading 'AHSparks_CV.bcf'
+[152] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[152] Biber.pm:832> INFO - Using all citekeys in bib section 1
+[152] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[152] Biber.pm:832> INFO - Using all citekeys in bib section 2
+[152] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[153] Biber.pm:832> INFO - Using all citekeys in bib section 3
+[153] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[153] Biber.pm:832> INFO - Using all citekeys in bib section 4
+[153] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[191] Biber.pm:3670> INFO - Processing section 1
+[204] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 1
+[210] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[221] bibtex.pm:1292> INFO - Found BibTeX data source 'Sparks_bibliography.bib'
+[280] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
+[324] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
+[399] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[399] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[399] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[399] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[450] Biber.pm:3670> INFO - Processing section 2
+[450] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 2
+[498] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
+[525] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
+[598] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[599] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[599] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[599] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[650] Biber.pm:3670> INFO - Processing section 3
+[650] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 3
+[697] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
+[723] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
+[797] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[797] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[798] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[798] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[848] Biber.pm:3670> INFO - Processing section 4
+[849] Biber.pm:3840> INFO - Looking for bibtex format file 'Sparks_bibliography.bib' for section 4
+[896] Utils.pm:164> WARN - month field 'junio' in entry 'Jimenz2013' is not an integer - this will probably not sort properly.
+[922] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
+[997] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[997] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[997] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[997] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1047] bbl.pm:608> INFO - Writing 'AHSparks_CV.bbl' with encoding 'UTF-8'
+[1082] bbl.pm:712> INFO - Output to AHSparks_CV.bbl
+[1082] Biber.pm:109> INFO - WARNINGS: 8

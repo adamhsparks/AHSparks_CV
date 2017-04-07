@@ -143,7 +143,39 @@
       \verb http://dx.doi.org/10.1007/s12571-017-0659-1
       \endverb
     \endentry
-    \entry{HSparks2017}{article}{}
+    \entry{AHSparks2017a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=412277d56b6623809d68a3a31b3a7312}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Open Journal}%
+      }
+      \strng{namehash}{412277d56b6623809d68a3a31b3a7312}
+      \strng{fullhash}{412277d56b6623809d68a3a31b3a7312}
+      \strng{authornamehash}{412277d56b6623809d68a3a31b3a7312}
+      \strng{authorfullhash}{412277d56b6623809d68a3a31b3a7312}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Open Source Software}
+      \field{month}{4}
+      \field{number}{12}
+      \field{title}{{getCRUCLdata}: Use and Explore {CRU} {CL} v. 2.0 Climatology Elements in R}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.21105/joss.00230
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105%2Fjoss.00230
+      \endverb
+    \endentry
+    \entry{AHSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
            family={Sparks},
@@ -664,7 +696,39 @@
       \verb http://dx.doi.org/10.1007/s12571-017-0659-1
       \endverb
     \endentry
-    \entry{HSparks2017}{article}{}
+    \entry{AHSparks2017a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=412277d56b6623809d68a3a31b3a7312}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Open Journal}%
+      }
+      \strng{namehash}{412277d56b6623809d68a3a31b3a7312}
+      \strng{fullhash}{412277d56b6623809d68a3a31b3a7312}
+      \strng{authornamehash}{412277d56b6623809d68a3a31b3a7312}
+      \strng{authorfullhash}{412277d56b6623809d68a3a31b3a7312}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Open Source Software}
+      \field{month}{4}
+      \field{number}{12}
+      \field{title}{{getCRUCLdata}: Use and Explore {CRU} {CL} v. 2.0 Climatology Elements in R}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.21105/joss.00230
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105%2Fjoss.00230
+      \endverb
+    \endentry
+    \entry{AHSparks2017}{article}{}
       \name{author}{3}{}{%
         {{hash=412277d56b6623809d68a3a31b3a7312}{%
            family={Sparks},
