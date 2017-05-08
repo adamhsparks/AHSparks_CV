@@ -35,7 +35,7 @@
   publisher  = {Springer Nature},
 }
 
-@Article{Sparks2017,
+@Article{H_Sparks_2017,
   author     = {Adam H Sparks and Tomislav Hengl and Andrew Nelson},
   title      = {{GSODR}: Global Summary Daily Weather Data in R},
   journal    = {The Journal of Open Source Software},
