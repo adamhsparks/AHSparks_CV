@@ -539,8 +539,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -634,8 +634,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -921,7 +921,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -956,7 +956,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Acta Phytopathologica Sinica}
+      \field{journaltitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -1034,7 +1034,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -1116,7 +1116,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -1147,7 +1147,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -1179,7 +1179,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -1317,7 +1317,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -1406,7 +1406,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
       \field{journaltitle}{Plant Disease}
       \field{month}{10}
       \field{number}{10}
@@ -1509,7 +1508,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -1545,7 +1544,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -1683,8 +1682,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
+      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -1746,7 +1745,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -1780,7 +1779,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
+      \field{journaltitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -2029,7 +2028,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
@@ -2766,8 +2765,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -2861,8 +2860,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -3148,7 +3147,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -3183,7 +3182,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Acta Phytopathologica Sinica}
+      \field{journaltitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -3261,7 +3260,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -3343,7 +3342,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -3374,7 +3373,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -3406,7 +3405,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -3544,7 +3543,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -3633,7 +3632,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
       \field{journaltitle}{Plant Disease}
       \field{month}{10}
       \field{number}{10}
@@ -3736,7 +3734,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -3772,7 +3770,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -3910,8 +3908,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
+      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -3973,7 +3971,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -4007,7 +4005,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
+      \field{journaltitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -4256,7 +4254,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
@@ -4993,8 +4991,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -5088,8 +5086,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -5375,7 +5373,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -5410,7 +5408,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Acta Phytopathologica Sinica}
+      \field{journaltitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -5488,7 +5486,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -5570,7 +5568,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -5601,7 +5599,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -5633,7 +5631,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -5771,7 +5769,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -5860,7 +5858,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
       \field{journaltitle}{Plant Disease}
       \field{month}{10}
       \field{number}{10}
@@ -5963,7 +5960,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -5999,7 +5996,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -6137,8 +6134,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
+      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -6200,7 +6197,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -6234,7 +6231,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
+      \field{journaltitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -6483,7 +6480,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
@@ -7220,8 +7217,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data}
       \field{year}{2015}
     \endentry
@@ -7315,8 +7312,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{isbn}{978-0-646-94402-9}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}
       \field{title}{Mapping Rice Diseases for Targeted Deployment of Resistant Varieties in India}
       \field{year}{2015}
     \endentry
@@ -7602,7 +7599,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
+      \field{journaltitle}{Proceedings of the Australasian Plant Pathology Society 2013 Meeting}
       \field{title}{Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia}
       \field{year}{2013}
     \endentry
@@ -7637,7 +7634,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Acta Phytopathologica Sinica}
+      \field{journaltitle}{Acta Phytopathologica Sinica}
       \field{number}{Supplement}
       \field{title}{Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate}
       \field{volume}{43}
@@ -7715,7 +7712,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Predisposition factors affecting brown spot disease development in rice}
       \field{volume}{102:S4.74}
@@ -7797,7 +7794,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Putting information to use: Decisions at different scales}
       \field{volume}{102:S4.162}
       \field{year}{2012}
@@ -7828,7 +7825,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{number}{7}
       \field{title}{Preventing what ails rice with a strategic, statistical, prescriptive model system}
       \field{volume}{102:S4.113}
@@ -7860,7 +7857,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{Income inequality and economic growth in the Philippines}
       \field{year}{2011}
     \endentry
@@ -7998,7 +7995,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
+      \field{journaltitle}{The Conference Secretariat, 2011 PAEDA Biennial Convention}
       \field{title}{{An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines}}
       \field{year}{2011}
     \endentry
@@ -8087,7 +8084,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1094/PDIS-04-11-0316}
-      \field{booktitle}{Plant Disease}
       \field{journaltitle}{Plant Disease}
       \field{month}{10}
       \field{number}{10}
@@ -8190,7 +8186,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Crop losses in highly populated areas: A global perspective}
       \field{volume}{101:S223}
       \field{year}{2011}
@@ -8226,7 +8222,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Metamodels for scaling potato late blight risk analysis in climate change scenarios}
       \field{volume}{100:S121}
       \field{year}{2010}
@@ -8364,8 +8360,8 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{IOP Conference Series: Earth and Environmental Science}
       \field{issn}{1755-1315}
+      \field{journaltitle}{IOP Conference Series: Earth and Environmental Science}
       \field{number}{37}
       \field{title}{Anticipating and responding to biological complexity in the effects of climate change on agriculture}
       \field{volume}{6}
@@ -8427,7 +8423,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Adapting disease forecasting models to coarser scales: Global potato late blight prediction}
       \field{volume}{99:S122}
       \field{year}{2009}
@@ -8461,7 +8457,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 10th International Epidemiology Workshop}
+      \field{journaltitle}{Proceedings of the 10th International Epidemiology Workshop}
       \field{title}{Adapting global disease forecasting models for readily available weather data sets in GIS}
       \field{year}{2009}
       \field{pages}{153\bibrangedash 155}
@@ -8710,7 +8706,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Phytopathology}
+      \field{journaltitle}{Phytopathology}
       \field{title}{Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods}
       \field{volume}{98:S149}
       \field{year}{2008}
