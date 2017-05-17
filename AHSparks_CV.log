@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  17 MAY 2017 12:02
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.6.8)  17 MAY 2017 12:30
  restricted system commands enabled.
  file:line:error style messages enabled.
 **AHSparks_CV.tex
@@ -179,7 +179,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.332 seconds)
+luaotfload | main : initialization completed in 0.228 seconds)
 Lua module: fontspec 2017/03/31 2.6a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2016basic/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count129
@@ -1831,12 +1831,12 @@ Here is how much of LuaTeX's memory you used:
  100000,1144653 words of node,token memory allocated
  3029 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 306 glue, 119 attribute, 54 glue_spec, 119 attribute_list, 1 write, 5 pdf_action nodes
-   avail lists: 1:2,2:1386,3:227,4:94,5:186,6:3005,7:919,8:57,9:208,10:8,11:224
+   avail lists: 1:2,2:1440,3:227,4:94,5:186,6:3005,7:946,8:57,9:208,10:8,11:240
  31633 multiletter control sequences out of 65536+600000
- 64 fonts using 17035879 bytes
+ 64 fonts using 17035947 bytes
  55i,12n,91p,1572b,1174s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2016basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></Users/U8004755/Library/Fonts/fontawesome-webfont.ttf></System/Library/Fonts/Avenir Next Condensed.ttc></System/Library/Fonts/Avenir.ttc></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on AHSparks_CV.pdf (7 pages, 76149 bytes).
+Output written on AHSparks_CV.pdf (7 pages, 76546 bytes).
 
 PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
  147 compressed objects within 2 object streams
