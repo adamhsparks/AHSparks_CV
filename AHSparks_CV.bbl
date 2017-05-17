@@ -342,6 +342,52 @@
       \verb https://doi.org/10.21105%2Fjoss.00177
       \endverb
     \endentry
+    \entry{Duku_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+           family={Duku},
+           familyi={D\bibinitperiod},
+           given={Confidence},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+           family={Zwart},
+           familyi={Z\bibinitperiod},
+           given={Sander\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
+      \field{issn}{1573-1480}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{1}
+      \field{number}{3-4}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
+      \field{volume}{135}
+      \field{year}{2016}
+      \field{pages}{569\bibrangedash 583}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10584-015-1580-2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
+      \endverb
+    \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
@@ -450,52 +496,6 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
-      \endverb
-    \endentry
-    \entry{Duku_2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
-           family={Duku},
-           familyi={D\bibinitperiod},
-           given={Confidence},
-           giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
-           family={Zwart},
-           familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Nature}%
-      }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
-      \field{issn}{1573-1480}
-      \field{journaltitle}{Climatic Change}
-      \field{month}{12}
-      \field{number}{3-4}
-      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
-      \field{volume}{135}
-      \field{year}{2015}
-      \field{pages}{569\bibrangedash 583}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1007/s10584-015-1580-2
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
       \endverb
     \endentry
     \entry{Jaisong2015}{inproceedings}{}
@@ -611,6 +611,68 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
+      \endverb
+    \endentry
+    \entry{Raitzer_2015}{report}{}
+      \name{author}{8}{}{%
+        {{hash=60ad08edc648b17858bda1f9d10b0cd5}{%
+           family={Raitzer},
+           familyi={R\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b32ced97e4bf156e3d56d2dffa32a6e}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A.H.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=604d28c699c35814695eba12e5f3cbdc}{%
+           family={Huelgas},
+           familyi={H\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3b67c0cdadbd7f68849ca304351544de}{%
+           family={Maligalig},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb39b8baa7b3e63c01882e4a4fa205f2}{%
+           family={Balangue},
+           familyi={B\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=77bf0a2171523fcff4ec25db2f1c0447}{%
+           family={Launio},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=73f4ac4866a3201d4e548b121ffe6bd2}{%
+           family={Daradjat},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fadb83b3d3813c30f52f4903272d384d}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={H.U.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Standing Panel on Impact Assessment (SPIA), CGIAR Independent Science}%
+        {Partnership Council (ISPC)}%
+      }
+      \strng{namehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{fullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authornamehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authorfullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Rice Improvement Still Making a Difference? Assessing the Economic, Poverty and Food Security Impacts of Rice Varieties Released from 1989 to 2009 in Bangladesh, Indonesia and the Philippines.}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://impact.cgiar.org/rice-improvement-still-making-difference
       \endverb
     \endentry
     \entry{Sparks2015}{inproceedings}{}
@@ -2569,6 +2631,52 @@
       \verb https://doi.org/10.21105%2Fjoss.00177
       \endverb
     \endentry
+    \entry{Duku_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+           family={Duku},
+           familyi={D\bibinitperiod},
+           given={Confidence},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+           family={Zwart},
+           familyi={Z\bibinitperiod},
+           given={Sander\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
+      \field{issn}{1573-1480}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{1}
+      \field{number}{3-4}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
+      \field{volume}{135}
+      \field{year}{2016}
+      \field{pages}{569\bibrangedash 583}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10584-015-1580-2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
+      \endverb
+    \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
@@ -2677,52 +2785,6 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
-      \endverb
-    \endentry
-    \entry{Duku_2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
-           family={Duku},
-           familyi={D\bibinitperiod},
-           given={Confidence},
-           giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
-           family={Zwart},
-           familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Nature}%
-      }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
-      \field{issn}{1573-1480}
-      \field{journaltitle}{Climatic Change}
-      \field{month}{12}
-      \field{number}{3-4}
-      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
-      \field{volume}{135}
-      \field{year}{2015}
-      \field{pages}{569\bibrangedash 583}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1007/s10584-015-1580-2
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
       \endverb
     \endentry
     \entry{Jaisong2015}{inproceedings}{}
@@ -2838,6 +2900,68 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
+      \endverb
+    \endentry
+    \entry{Raitzer_2015}{report}{}
+      \name{author}{8}{}{%
+        {{hash=60ad08edc648b17858bda1f9d10b0cd5}{%
+           family={Raitzer},
+           familyi={R\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b32ced97e4bf156e3d56d2dffa32a6e}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A.H.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=604d28c699c35814695eba12e5f3cbdc}{%
+           family={Huelgas},
+           familyi={H\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3b67c0cdadbd7f68849ca304351544de}{%
+           family={Maligalig},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb39b8baa7b3e63c01882e4a4fa205f2}{%
+           family={Balangue},
+           familyi={B\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=77bf0a2171523fcff4ec25db2f1c0447}{%
+           family={Launio},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=73f4ac4866a3201d4e548b121ffe6bd2}{%
+           family={Daradjat},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fadb83b3d3813c30f52f4903272d384d}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={H.U.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Standing Panel on Impact Assessment (SPIA), CGIAR Independent Science}%
+        {Partnership Council (ISPC)}%
+      }
+      \strng{namehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{fullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authornamehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authorfullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Rice Improvement Still Making a Difference? Assessing the Economic, Poverty and Food Security Impacts of Rice Varieties Released from 1989 to 2009 in Bangladesh, Indonesia and the Philippines.}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://impact.cgiar.org/rice-improvement-still-making-difference
       \endverb
     \endentry
     \entry{Sparks2015}{inproceedings}{}
@@ -4796,6 +4920,52 @@
       \verb https://doi.org/10.21105%2Fjoss.00177
       \endverb
     \endentry
+    \entry{Duku_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+           family={Duku},
+           familyi={D\bibinitperiod},
+           given={Confidence},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+           family={Zwart},
+           familyi={Z\bibinitperiod},
+           given={Sander\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
+      \field{issn}{1573-1480}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{1}
+      \field{number}{3-4}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
+      \field{volume}{135}
+      \field{year}{2016}
+      \field{pages}{569\bibrangedash 583}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10584-015-1580-2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
+      \endverb
+    \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
@@ -4904,52 +5074,6 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
-      \endverb
-    \endentry
-    \entry{Duku_2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
-           family={Duku},
-           familyi={D\bibinitperiod},
-           given={Confidence},
-           giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
-           family={Zwart},
-           familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Nature}%
-      }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
-      \field{issn}{1573-1480}
-      \field{journaltitle}{Climatic Change}
-      \field{month}{12}
-      \field{number}{3-4}
-      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
-      \field{volume}{135}
-      \field{year}{2015}
-      \field{pages}{569\bibrangedash 583}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1007/s10584-015-1580-2
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
       \endverb
     \endentry
     \entry{Jaisong2015}{inproceedings}{}
@@ -5065,6 +5189,68 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
+      \endverb
+    \endentry
+    \entry{Raitzer_2015}{report}{}
+      \name{author}{8}{}{%
+        {{hash=60ad08edc648b17858bda1f9d10b0cd5}{%
+           family={Raitzer},
+           familyi={R\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b32ced97e4bf156e3d56d2dffa32a6e}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A.H.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=604d28c699c35814695eba12e5f3cbdc}{%
+           family={Huelgas},
+           familyi={H\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3b67c0cdadbd7f68849ca304351544de}{%
+           family={Maligalig},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb39b8baa7b3e63c01882e4a4fa205f2}{%
+           family={Balangue},
+           familyi={B\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=77bf0a2171523fcff4ec25db2f1c0447}{%
+           family={Launio},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=73f4ac4866a3201d4e548b121ffe6bd2}{%
+           family={Daradjat},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fadb83b3d3813c30f52f4903272d384d}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={H.U.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Standing Panel on Impact Assessment (SPIA), CGIAR Independent Science}%
+        {Partnership Council (ISPC)}%
+      }
+      \strng{namehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{fullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authornamehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authorfullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Rice Improvement Still Making a Difference? Assessing the Economic, Poverty and Food Security Impacts of Rice Varieties Released from 1989 to 2009 in Bangladesh, Indonesia and the Philippines.}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://impact.cgiar.org/rice-improvement-still-making-difference
       \endverb
     \endentry
     \entry{Sparks2015}{inproceedings}{}
@@ -7023,6 +7209,52 @@
       \verb https://doi.org/10.21105%2Fjoss.00177
       \endverb
     \endentry
+    \entry{Duku_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
+           family={Duku},
+           familyi={D\bibinitperiod},
+           given={Confidence},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
+           family={Zwart},
+           familyi={Z\bibinitperiod},
+           given={Sander\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
+      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
+      \field{issn}{1573-1480}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{1}
+      \field{number}{3-4}
+      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
+      \field{volume}{135}
+      \field{year}{2016}
+      \field{pages}{569\bibrangedash 583}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10584-015-1580-2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
+      \endverb
+    \endentry
     \entry{Garrett2015}{inbook}{}
       \name{author}{6}{}{%
         {{hash=2cfecf9610903b6a1debfb79c1553893}{%
@@ -7131,52 +7363,6 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/plant-microbe_interaction/10.3389/fpls.2015.00305/abstract
-      \endverb
-    \endentry
-    \entry{Duku_2015}{article}{}
-      \name{author}{3}{}{%
-        {{hash=237e69480ecbb092d51cf2880cb6122f}{%
-           family={Duku},
-           familyi={D\bibinitperiod},
-           given={Confidence},
-           giveni={C\bibinitperiod}}}%
-        {{hash=b410f8df054294d6fc9c44884a310e87}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={Adam\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=c57f6f760dc05647090ef3970fe6869a}{%
-           family={Zwart},
-           familyi={Z\bibinitperiod},
-           given={Sander\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Nature}%
-      }
-      \strng{namehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{fullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authornamehash}{975c940b184721df4f10e1ff8a2d1666}
-      \strng{authorfullhash}{975c940b184721df4f10e1ff8a2d1666}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Rice is the most rapidly growing staple food in Africa and although rice production is steadily increasing, the consumption is still out-pacing the production. In Tanzania, two important diseases in rice production are leaf blast caused by Magnaporthe oryzae and bacterial leaf blight caused by Xanthomonas oryzae pv. oryzae. The objective of this study was to quantify rice yield losses due to these two important diseases under a changing climate. We found that bacterial leaf blight is predicted to increase causing greater losses than leaf blast in the future, with losses due to leaf blast declining. The results of this study indicate that the effects of climate change on plant disease can not only be expected to be uneven across diseases but also across geographies, as in some geographic areas losses increase but decrease in others for the same disease.}
-      \field{issn}{1573-1480}
-      \field{journaltitle}{Climatic Change}
-      \field{month}{12}
-      \field{number}{3-4}
-      \field{title}{Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate}
-      \field{volume}{135}
-      \field{year}{2015}
-      \field{pages}{569\bibrangedash 583}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1007/s10584-015-1580-2
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s10584-015-1580-2
       \endverb
     \endentry
     \entry{Jaisong2015}{inproceedings}{}
@@ -7292,6 +7478,68 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
+      \endverb
+    \endentry
+    \entry{Raitzer_2015}{report}{}
+      \name{author}{8}{}{%
+        {{hash=60ad08edc648b17858bda1f9d10b0cd5}{%
+           family={Raitzer},
+           familyi={R\bibinitperiod},
+           given={D.A.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b32ced97e4bf156e3d56d2dffa32a6e}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A.H.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=604d28c699c35814695eba12e5f3cbdc}{%
+           family={Huelgas},
+           familyi={H\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3b67c0cdadbd7f68849ca304351544de}{%
+           family={Maligalig},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb39b8baa7b3e63c01882e4a4fa205f2}{%
+           family={Balangue},
+           familyi={B\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=77bf0a2171523fcff4ec25db2f1c0447}{%
+           family={Launio},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=73f4ac4866a3201d4e548b121ffe6bd2}{%
+           family={Daradjat},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fadb83b3d3813c30f52f4903272d384d}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={H.U.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Standing Panel on Impact Assessment (SPIA), CGIAR Independent Science}%
+        {Partnership Council (ISPC)}%
+      }
+      \strng{namehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{fullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authornamehash}{a116ad060d8b5b4105b3be91afeca14c}
+      \strng{authorfullhash}{a116ad060d8b5b4105b3be91afeca14c}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Rice Improvement Still Making a Difference? Assessing the Economic, Poverty and Food Security Impacts of Rice Varieties Released from 1989 to 2009 in Bangladesh, Indonesia and the Philippines.}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://impact.cgiar.org/rice-improvement-still-making-difference
       \endverb
     \endentry
     \entry{Sparks2015}{inproceedings}{}
