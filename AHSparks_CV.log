@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.6.5)  20 JUL 2017 10:49
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.6.5)  20 JUL 2017 10:55
  restricted system commands enabled.
  file:line:error style messages enabled.
 **AHSparks_CV.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.905 seconds
+luaotfload | main : initialization completed in 0.283 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (./friggeri-cv.cls
 Document Class: friggeri-cv 2013/07/19 CV class
@@ -1849,7 +1849,7 @@ Here is how much of LuaTeX's memory you used:
    3 hlist, 1 vlist, 1 rule, 2 glue, 9 attribute, 60 glue_spec, 9 attribute_list, 1 write, 5 pdf_action nodes
    avail lists: 1:3,2:1552,3:227,4:96,5:228,6:3005,7:972,8:57,9:206,10:8,11:259
  32301 multiletter control sequences out of 65536+600000
- 70 fonts using 21596271 bytes
+ 70 fonts using 21596203 bytes
  54i,12n,91p,1572b,1173s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Avenir Next Condensed.ttc></System/Library/Fonts/Avenir.ttc>
 Output written on AHSparks_CV.pdf (7 pages, 67265 bytes).
