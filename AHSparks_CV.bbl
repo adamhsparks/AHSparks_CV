@@ -139,6 +139,80 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
+    \entry{Kelly_2017}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=ac30226a0f234f00d9d58eadf5b889e1}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5ce2313eda2c84d51ee694223ecc6553}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b9cbc3c5fc2d93f4b0224f4e24e52a3b}{%
+           family={Sharman},
+           familyi={S\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=268d545ed83c01dabb3cc8293c8ad2ed}{%
+           family={Brier},
+           familyi={B\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5d7e3c81003e80cf23b52c82c9c180c6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Liz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3235ce23e1b00e49fbd1542627478a7c}{%
+           family={Grams},
+           familyi={G\bibinitperiod},
+           given={Raechelle},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a47cf32bcab6c8abdf6d50dd6a8ffd41}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f5814d6cded1c79389a7f688928f3f1c}{%
+           family={Mckay},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jondaryan, Queensland, Australia}%
+      }
+      \list{organization}{1}{%
+        {GRDC}%
+      }
+      \strng{namehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{fullhash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authornamehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authorfullhash}{df1ee5f306473f6775e221240723f7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{eventday}{19}
+      \field{eventmonth}{7}
+      \field{eventyear}{2017}
+      \field{journaltitle}{GRDC Updates (Jondaryan)}
+      \field{month}{7}
+      \field{title}{Mungbean and Sorghum Disease Update}
+      \field{venue}{Jondaryan Woolshed}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{eventdateera}{ce}
+    \endentry
     \entry{Savary2017}{article}{}
       \name{author}{20}{}{%
         {{hash=677f4fd1f1fb888b1296756582f44457}{%
@@ -2426,6 +2500,80 @@
       \verb{url}
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
+    \endentry
+    \entry{Kelly_2017}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=ac30226a0f234f00d9d58eadf5b889e1}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5ce2313eda2c84d51ee694223ecc6553}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b9cbc3c5fc2d93f4b0224f4e24e52a3b}{%
+           family={Sharman},
+           familyi={S\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=268d545ed83c01dabb3cc8293c8ad2ed}{%
+           family={Brier},
+           familyi={B\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5d7e3c81003e80cf23b52c82c9c180c6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Liz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3235ce23e1b00e49fbd1542627478a7c}{%
+           family={Grams},
+           familyi={G\bibinitperiod},
+           given={Raechelle},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a47cf32bcab6c8abdf6d50dd6a8ffd41}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f5814d6cded1c79389a7f688928f3f1c}{%
+           family={Mckay},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jondaryan, Queensland, Australia}%
+      }
+      \list{organization}{1}{%
+        {GRDC}%
+      }
+      \strng{namehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{fullhash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authornamehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authorfullhash}{df1ee5f306473f6775e221240723f7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{eventday}{19}
+      \field{eventmonth}{7}
+      \field{eventyear}{2017}
+      \field{journaltitle}{GRDC Updates (Jondaryan)}
+      \field{month}{7}
+      \field{title}{Mungbean and Sorghum Disease Update}
+      \field{venue}{Jondaryan Woolshed}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{eventdateera}{ce}
     \endentry
     \entry{Savary2017}{article}{}
       \name{author}{20}{}{%
@@ -4715,6 +4863,80 @@
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
     \endentry
+    \entry{Kelly_2017}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=ac30226a0f234f00d9d58eadf5b889e1}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5ce2313eda2c84d51ee694223ecc6553}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b9cbc3c5fc2d93f4b0224f4e24e52a3b}{%
+           family={Sharman},
+           familyi={S\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=268d545ed83c01dabb3cc8293c8ad2ed}{%
+           family={Brier},
+           familyi={B\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5d7e3c81003e80cf23b52c82c9c180c6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Liz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3235ce23e1b00e49fbd1542627478a7c}{%
+           family={Grams},
+           familyi={G\bibinitperiod},
+           given={Raechelle},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a47cf32bcab6c8abdf6d50dd6a8ffd41}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f5814d6cded1c79389a7f688928f3f1c}{%
+           family={Mckay},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jondaryan, Queensland, Australia}%
+      }
+      \list{organization}{1}{%
+        {GRDC}%
+      }
+      \strng{namehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{fullhash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authornamehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authorfullhash}{df1ee5f306473f6775e221240723f7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{eventday}{19}
+      \field{eventmonth}{7}
+      \field{eventyear}{2017}
+      \field{journaltitle}{GRDC Updates (Jondaryan)}
+      \field{month}{7}
+      \field{title}{Mungbean and Sorghum Disease Update}
+      \field{venue}{Jondaryan Woolshed}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{eventdateera}{ce}
+    \endentry
     \entry{Savary2017}{article}{}
       \name{author}{20}{}{%
         {{hash=677f4fd1f1fb888b1296756582f44457}{%
@@ -7002,6 +7224,80 @@
       \verb{url}
       \verb http://www.ksre.ksu.edu/bookstore/pubs/EP149.pdf
       \endverb
+    \endentry
+    \entry{Kelly_2017}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=ac30226a0f234f00d9d58eadf5b889e1}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5ce2313eda2c84d51ee694223ecc6553}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b9cbc3c5fc2d93f4b0224f4e24e52a3b}{%
+           family={Sharman},
+           familyi={S\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=268d545ed83c01dabb3cc8293c8ad2ed}{%
+           family={Brier},
+           familyi={B\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5d7e3c81003e80cf23b52c82c9c180c6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Liz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3235ce23e1b00e49fbd1542627478a7c}{%
+           family={Grams},
+           familyi={G\bibinitperiod},
+           given={Raechelle},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a47cf32bcab6c8abdf6d50dd6a8ffd41}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f5814d6cded1c79389a7f688928f3f1c}{%
+           family={Mckay},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b410f8df054294d6fc9c44884a310e87}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jondaryan, Queensland, Australia}%
+      }
+      \list{organization}{1}{%
+        {GRDC}%
+      }
+      \strng{namehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{fullhash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authornamehash}{df1ee5f306473f6775e221240723f7a2}
+      \strng{authorfullhash}{df1ee5f306473f6775e221240723f7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{eventday}{19}
+      \field{eventmonth}{7}
+      \field{eventyear}{2017}
+      \field{journaltitle}{GRDC Updates (Jondaryan)}
+      \field{month}{7}
+      \field{title}{Mungbean and Sorghum Disease Update}
+      \field{venue}{Jondaryan Woolshed}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{eventdateera}{ce}
     \endentry
     \entry{Savary2017}{article}{}
       \name{author}{20}{}{%

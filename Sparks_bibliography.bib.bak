@@ -547,17 +547,13 @@
 	Type = {Fungicide and Nematicide Tests},
 	Year = {2004}}
 
-@inproceedings{Kelly_2017,
-  title        = {Mungbean and Sorghum Disease Update},
-  year         = {2017},
-  date         = {2017-07-19},
-  eventdate    = {2017-07-19},
-  venue        = {Jondaryan Woolshed},
-  organization = {GRDC},
-  location     = {Jondaryan, Queensland, Australia},
+@Article{Kelly_2017,
   author       = {Kelly, Lisa and White, Jo, and Sharman, Murray and Brier, Hugh and Williams, Liz and Grams, Raechelle and Weir, Duncan and Mckay, Alan and Sparks, Adam H.},
+  title        = {Mungbean and Sorghum Disease Update},
   journal      = {GRDC Updates},
   journaltitle = {GRDC Updates (Jondaryan)},
+  year         = {2017},
+  date         = {2017-07-19},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
