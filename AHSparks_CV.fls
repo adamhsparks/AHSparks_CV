@@ -245,10 +245,10 @@ INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT ./Invited_Talks.tex
 INPUT ./Invited_Talks.tex
-INPUT ./Extramural_Support.tex
-INPUT ./Extramural_Support.tex
 INPUT ./Mentorships.tex
 INPUT ./Mentorships.tex
+INPUT ./Extramural_Support.tex
+INPUT ./Extramural_Support.tex
 INPUT ./Certs_Affiliations.tex
 INPUT ./Certs_Affiliations.tex
 INPUT ./AHSparks_CV.aux

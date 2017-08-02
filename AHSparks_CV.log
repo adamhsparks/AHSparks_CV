@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.6.5)  2 AUG 2017 13:04
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.6.5)  2 AUG 2017 13:16
  restricted system commands enabled.
  file:line:error style messages enabled.
 **AHSparks_CV.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.151 seconds
+luaotfload | main : initialization completed in 0.188 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (./friggeri-cv.cls
 Document Class: friggeri-cv 2013/07/19 CV class
@@ -1774,7 +1774,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--46
 
  []
 
-(./Extramural_Support.tex
+(./Mentorships.tex
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 54
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
@@ -1789,12 +1789,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--20
 
 [5]
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 54
+luaotfload | aux : font no 54 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 54)
 Underfull \hbox (badness 10000) in paragraph at lines 22--48
 
  []
 
-(./Mentorships.tex
+(./Extramural_Support.tex
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 54
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
@@ -1807,8 +1809,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--20
 
  []
 
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 54)
 Underfull \hbox (badness 10000) in paragraph at lines 22--50
@@ -1856,12 +1856,12 @@ Here is how much of LuaTeX's memory you used:
  125171,1373583 words of node,token memory allocated
  491 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 9 attribute, 60 glue_spec, 9 attribute_list, 1 write, 5 pdf_action nodes
-   avail lists: 1:2,2:1552,3:227,4:96,5:228,6:3005,7:972,8:57,9:208,10:10,11:259
+   avail lists: 1:2,2:1552,3:227,4:96,5:228,6:3059,7:972,8:57,9:208,10:10,11:290
  32330 multiletter control sequences out of 65536+600000
- 70 fonts using 21598899 bytes
+ 70 fonts using 21598831 bytes
  54i,12n,91p,1572b,1173s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Avenir Next Condensed.ttc></System/Library/Fonts/Avenir.ttc>
-Output written on AHSparks_CV.pdf (7 pages, 68192 bytes).
+Output written on AHSparks_CV.pdf (7 pages, 68198 bytes).
 
 PDF statistics: 169 PDF objects out of 1000 (max. 8388607)
  146 compressed objects within 2 object streams
