@@ -1,7 +1,7 @@
 PWD /Users/U8004755/Development/AHSparks_CV
 INPUT /usr/local/texlive/2017basic/texmf-var/web2c/luatex/lualatex.fmt
-INPUT ./Aside_Work_Experience.tex
-OUTPUT Aside_Work_Experience.log
+INPUT ./Mentorships.tex
+OUTPUT Mentorships.log
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/lualibs/lualibs-basic.lua
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/lualibs/lualibs-lua.lua
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/lualibs/lualibs-package.lua
@@ -36,9 +36,8 @@ INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/lualibs/lualibs-util-de
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/lualibs/lualibs-util-tpl.lua
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/lualibs/lualibs-util-sta.lua
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/luatex/luaotfload/luaotfload-characters.lua
+INPUT /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
-INPUT /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
