@@ -1,37 +1,19 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.6.5)  2 AUG 2017 13:16
- restricted system commands enabled.
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.20)  6 AUG 2017 21:32
+entering extended mode
+ restricted \write18 enabled.
  file:line:error style messages enabled.
+ %&-line parsing enabled.
 **AHSparks_CV.tex
 (./AHSparks_CV.tex
 LaTeX2e <2017-04-15>
-Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
-Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended collection.(using cache: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/names.
-luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse-resolved path “/usr/local/texlive/2017basic/texmf-dist/tex/luatex/luaotfload/fontloader-2017-02-11.lua”.
-Lua-only attribute luaotfload@state = 1
-Lua-only attribute luaotfload@noligature = 2
-Lua-only attribute luaotfload@syllabe = 3
-luaotfload | init : Context OpenType loader version “3.027”
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/names.
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.188 seconds
-Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+Babel <3.12> and hyphenation patterns for 22 language(s) loaded.
 (./friggeri-cv.cls
 Document Class: friggeri-cv 2013/07/19 CV class
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+)
 \c@part=\count79
 \c@section=\count80
 \c@subsection=\count81
@@ -48,12 +30,11 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2017/06/24 v1.0f Graphics/color driver for luatex
+Package xcolor Info: Driver file: xetex.def on input line 225.
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -65,7 +46,6 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 Package: expl3 2017/07/19 L3 programming layer (loader) 
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/07/19 L3 programming layer (code)
-\ucharcat@table=\catcodetable5
 \c_max_int=\count87
 \l_tmpa_int=\count88
 \l_tmpb_int=\count89
@@ -106,65 +86,62 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 \c__fp_Bigg_leading_shift_int=\count106
 \c__fp_Bigg_middle_shift_int=\count107
 \c__fp_Bigg_trailing_shift_int=\count108
-\c__fp_rand_size_int=\count109
-\c__fp_rand_four_int=\count110
-\c__fp_rand_eight_int=\count111
-\l__sort_length_int=\count112
-\l__sort_min_int=\count113
-\l__sort_top_int=\count114
-\l__sort_max_int=\count115
-\l__sort_true_max_int=\count116
-\l__sort_block_int=\count117
-\l__sort_begin_int=\count118
-\l__sort_end_int=\count119
-\l__sort_A_int=\count120
-\l__sort_B_int=\count121
-\l__sort_C_int=\count122
-\l__tl_build_start_index_int=\count123
-\l__tl_build_index_int=\count124
-\l__tl_analysis_normal_int=\count125
-\l__tl_analysis_index_int=\count126
-\l__tl_analysis_nesting_int=\count127
-\l__tl_analysis_type_int=\count128
-\l__regex_internal_a_int=\count129
-\l__regex_internal_b_int=\count130
-\l__regex_internal_c_int=\count131
-\l__regex_balance_int=\count132
-\l__regex_group_level_int=\count133
-\l__regex_mode_int=\count134
-\c__regex_cs_in_class_mode_int=\count135
-\c__regex_cs_mode_int=\count136
-\l__regex_catcodes_int=\count137
-\l__regex_default_catcodes_int=\count138
-\c__regex_catcode_L_int=\count139
-\c__regex_catcode_O_int=\count140
-\c__regex_catcode_A_int=\count141
-\c__regex_all_catcodes_int=\count142
-\l__regex_show_lines_int=\count143
-\l__regex_min_state_int=\count144
-\l__regex_max_state_int=\count145
-\l__regex_left_state_int=\count146
-\l__regex_right_state_int=\count147
-\l__regex_capturing_group_int=\count148
-\l__regex_min_pos_int=\count149
-\l__regex_max_pos_int=\count150
-\l__regex_curr_pos_int=\count151
-\l__regex_start_pos_int=\count152
-\l__regex_success_pos_int=\count153
-\l__regex_curr_char_int=\count154
-\l__regex_curr_catcode_int=\count155
-\l__regex_last_char_int=\count156
-\l__regex_case_changed_char_int=\count157
-\l__regex_curr_state_int=\count158
-\l__regex_step_int=\count159
-\l__regex_min_active_int=\count160
-\l__regex_max_active_int=\count161
-\l__regex_replacement_csnames_int=\count162
-\l__regex_match_count_int=\count163
-\l__regex_min_submatch_int=\count164
-\l__regex_submatch_int=\count165
-\l__regex_zeroth_submatch_int=\count166
-\g__debug_trace_regex_int=\count167
+\l__sort_length_int=\count109
+\l__sort_min_int=\count110
+\l__sort_top_int=\count111
+\l__sort_max_int=\count112
+\l__sort_true_max_int=\count113
+\l__sort_block_int=\count114
+\l__sort_begin_int=\count115
+\l__sort_end_int=\count116
+\l__sort_A_int=\count117
+\l__sort_B_int=\count118
+\l__sort_C_int=\count119
+\l__tl_build_start_index_int=\count120
+\l__tl_build_index_int=\count121
+\l__tl_analysis_normal_int=\count122
+\l__tl_analysis_index_int=\count123
+\l__tl_analysis_nesting_int=\count124
+\l__tl_analysis_type_int=\count125
+\l__regex_internal_a_int=\count126
+\l__regex_internal_b_int=\count127
+\l__regex_internal_c_int=\count128
+\l__regex_balance_int=\count129
+\l__regex_group_level_int=\count130
+\l__regex_mode_int=\count131
+\c__regex_cs_in_class_mode_int=\count132
+\c__regex_cs_mode_int=\count133
+\l__regex_catcodes_int=\count134
+\l__regex_default_catcodes_int=\count135
+\c__regex_catcode_L_int=\count136
+\c__regex_catcode_O_int=\count137
+\c__regex_catcode_A_int=\count138
+\c__regex_all_catcodes_int=\count139
+\l__regex_show_lines_int=\count140
+\l__regex_min_state_int=\count141
+\l__regex_max_state_int=\count142
+\l__regex_left_state_int=\count143
+\l__regex_right_state_int=\count144
+\l__regex_capturing_group_int=\count145
+\l__regex_min_pos_int=\count146
+\l__regex_max_pos_int=\count147
+\l__regex_curr_pos_int=\count148
+\l__regex_start_pos_int=\count149
+\l__regex_success_pos_int=\count150
+\l__regex_curr_char_int=\count151
+\l__regex_curr_catcode_int=\count152
+\l__regex_last_char_int=\count153
+\l__regex_case_changed_char_int=\count154
+\l__regex_curr_state_int=\count155
+\l__regex_step_int=\count156
+\l__regex_min_active_int=\count157
+\l__regex_max_active_int=\count158
+\l__regex_replacement_csnames_int=\count159
+\l__regex_match_count_int=\count160
+\l__regex_min_submatch_int=\count161
+\l__regex_submatch_int=\count162
+\l__regex_zeroth_submatch_int=\count163
+\g__debug_trace_regex_int=\count164
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -205,29 +182,29 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen131
 \l__coffin_scaled_total_height_dim=\dimen132
 \l__coffin_scaled_width_dim=\dimen133
-) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count168
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count165
 \l__driver_tmp_box=\box41
 )) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/07/19 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count169
-\g__xparse_grabber_int=\count170
-\l__xparse_m_args_int=\count171
-\l__xparse_mandatory_args_int=\count172
-\l__xparse_v_nesting_int=\count173
+\l__xparse_current_arg_int=\count166
+\g__xparse_grabber_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_mandatory_args_int=\count169
+\l__xparse_v_nesting_int=\count170
 )
 Package: fontspec 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2017/07/23 2.6c Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count174
-\l__fontspec_language_int=\count175
-\l__fontspec_strnum_int=\count176
-\l__fontspec_tmp_int=\count177
-\l__fontspec_em_int=\count178
-\l__fontspec_emdef_int=\count179
-\l__fontspec_strong_int=\count180
-\l__fontspec_strongdef_int=\count181
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count171
+\l__fontspec_language_int=\count172
+\l__fontspec_strnum_int=\count173
+\l__fontspec_tmp_int=\count174
+\l__fontspec_em_int=\count175
+\l__fontspec_emdef_int=\count176
+\l__fontspec_strong_int=\count177
+\l__fontspec_strongdef_int=\count178
 \l__fontspec_tmpa_dim=\dimen134
 \l__fontspec_tmpb_dim=\dimen135
 \l__fontspec_tmpc_dim=\dimen136
@@ -241,188 +218,186 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 477.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 474.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 488.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 485.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 508.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 505.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 528.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 525.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 548.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 545.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 552.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 549.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 560.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 557.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 568.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 565.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 576.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 591.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 588.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 608.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 605.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 619.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 616.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 650.
+. Defining command \addfontfeatures with sig. 'm' on line 647.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 677.
+. Defining command \newfontfeature with sig. 'mm' on line 674.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 691.
+. Defining command \newAATfeature with sig. 'mmmm' on line 688.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 705.
+. Defining command \newopentypefeature with sig. 'mmm' on line 702.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 725.
+. Defining command \newICUfeature with sig. 'mmm' on line 722.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 729.
+. Defining command \aliasfontfeature with sig. 'mm' on line 726.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 750.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 747.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 783.
+. Defining command \newfontscript with sig. 'mm' on line 780.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 787.
+. Defining command \newfontlanguage with sig. 'mm' on line 784.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 791.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 788.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 802.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 799.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3186.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3462.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3192.
+. Defining command \EncodingAccent with sig. 'mm' on line 3468.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3198.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3474.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3204.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3480.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3210.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3486.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3235.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3511.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3241.
+. Defining command \UndeclareSymbol with sig. 'm' on line 3517.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3249.
+. Defining command \UndeclareComposite with sig. 'mm' on line 3525.
 .................................................
-
-(/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3434.
-LaTeX Info: Redefining \slshape on input line 3439.
-LaTeX Info: Redefining \scshape on input line 3444.
-LaTeX Info: Redefining \upshape on input line 3449.
-LaTeX Info: Redefining \em on input line 3479.
-LaTeX Info: Redefining \emph on input line 3504.
-(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)
-LaTeX Info: Redefining \- on input line 3555.
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3710.
+LaTeX Info: Redefining \slshape on input line 3715.
+LaTeX Info: Redefining \scshape on input line 3720.
+LaTeX Info: Redefining \upshape on input line 3725.
+LaTeX Info: Redefining \em on input line 3755.
+LaTeX Info: Redefining \emph on input line 3780.
+LaTeX Info: Redefining \- on input line 3831.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3650.
+. Redefining command \oldstylenums with sig. 'm' on line 3926.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3654.
+. Defining command \liningnums with sig. 'm' on line 3930.
 .................................................
-)) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/unicode-math/unicode-math.sty
-Package: unicode-math 2017/01/27 v0.8d Unicode maths in XeLaTeX and LuaLaTeX
+))
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2017/08/02 v0.8f Unicode maths in XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2017basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX detected.
+Package ifluatex Info: LuaTeX not detected.
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/ucharcat/ucharcat.sty
 Package: ucharcat 2015/11/19 v0.03 ucharcat for luaLaTeX (DPC)
-\ucharcat@table=\catcodetable6
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/07/19 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/fix-cm.sty
@@ -432,22 +407,15 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )
-\g__um_fam_int=\count182
+\g__um_fam_int=\count179
 \g__um_primekern_muskip=\muskip16
-\l__um_primecount_int=\count183
+\l__um_primecount_int=\count180
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \unimathsetup with sig. 'm' on line 166.
 .................................................
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
-(/usr/local/texlive/2017basic/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
-Package: lualatex-math 2017/06/15 v1.7 Patches for mathematics typesetting with LuaLaTeX
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count184
-)
-Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting with LuaLaTeX)
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -466,36 +434,88 @@ Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addnolimits with sig. 'm' on line 523.
+. Defining command \addnolimits with sig. 'm' on line 522.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \removenolimits with sig. 'm' on line 527.
+. Defining command \removenolimits with sig. 'm' on line 526.
 .................................................
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
-luaotfload | cache : Lookup cache loaded from /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/avenir-1.luc)
-luaotfload | aux : font no 26 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 26
-\g__fontspec_family_AvenirBook_int=\count185
-luaotfload | aux : font no 26 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 26(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/avenir-next-11.luc)
-\g__fontspec_family_AvenirNextUltraLight_int=\count186
-(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/avenir-next-condensed-3.luc)
-\g__fontspec_family_AvenirNextCondensedDemiBold_int=\count187
-luaotfload | aux : font no 26 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 26
-luaotfload | aux : font no 26 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 26
+\g__fontspec_family_HelveticaNeue_int=\count181
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+./friggeri-cv.cls:45: fontspec error: "font-not-found"
+! 
+! The font "Helvetica Neue Ultra Light" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.45 ...ily\thinfont[]{Helvetica Neue Ultra Light}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+|  Check the spelling, where the font is installed etc. etc.
+| 
+|  When in doubt, ask someone for help!
+|...............................................
+
+\g__fontspec_family_HelveticaNeueUltraLight_int=\count182
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+./friggeri-cv.cls:45: fontspec error: "font-not-found"
+! 
+! The font "Helvetica Neue Ultra Light" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.45 ...ily\thinfont[]{Helvetica Neue Ultra Light}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+|  Check the spelling, where the font is installed etc. etc.
+| 
+|  When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+./friggeri-cv.cls:45: fontspec error: "font-not-found"
+! 
+! The font "Helvetica Neue Ultra Light" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.45 ...ily\thinfont[]{Helvetica Neue Ultra Light}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+|  Check the spelling, where the font is installed etc. etc.
+| 
+|  When in doubt, ask someone for help!
+|...............................................
+
+\g__fontspec_family_HelveticaNeueBold_int=\count183
+\g__fontspec_family_AvenirBook_int=\count184
 LaTeX Info: Redefining \rmfamily on input line 49.
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc)
-luaotfload | aux : font no 30 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 30
-\g__fontspec_family_FontAwesome_int=\count188
-luaotfload | aux : font no 30 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 30 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/inputenc.sty
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+\g__fontspec_family_FontAwesome_int=\count185
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -538,19 +558,27 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks18
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count186
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
  (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
  (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 ))) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count189
+\lrq@indent=\count187
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/ifthen.sty
@@ -558,52 +586,52 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/local/texlive/2017basic/texmf-dist/tex/generic/xstring/xstring.tex
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2017basic/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
-\integerpart=\count190
-\decimalpart=\count191
+\integerpart=\count188
+\decimalpart=\count189
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count192
-\c@listtotal=\count193
-\c@listcount=\count194
-\c@liststart=\count195
-\c@liststop=\count196
-\c@citecount=\count197
-\c@citetotal=\count198
-\c@multicitecount=\count199
-\c@multicitetotal=\count266
-\c@instcount=\count267
-\c@maxnames=\count268
-\c@minnames=\count269
-\c@maxitems=\count270
-\c@minitems=\count271
-\c@citecounter=\count272
-\c@savedcitecounter=\count273
-\c@uniquelist=\count274
-\c@uniquename=\count275
-\c@refsection=\count276
-\c@refsegment=\count277
-\c@maxextratitle=\count278
-\c@maxextratitleyear=\count279
-\c@maxextrayear=\count280
-\c@maxextraalpha=\count281
-\c@abbrvpenalty=\count282
-\c@highnamepenalty=\count283
-\c@lownamepenalty=\count284
-\c@maxparens=\count285
-\c@parenlevel=\count286
-\blx@tempcnta=\count287
-\blx@tempcntb=\count288
-\blx@tempcntc=\count289
-\blx@maxsection=\count290
-\blx@maxsegment@0=\count291
-\blx@notetype=\count292
-\blx@parenlevel@text=\count293
-\blx@parenlevel@foot=\count294
-\blx@sectionciteorder@0=\count295
+\c@tabx@nest=\count190
+\c@listtotal=\count191
+\c@listcount=\count192
+\c@liststart=\count193
+\c@liststop=\count194
+\c@citecount=\count195
+\c@citetotal=\count196
+\c@multicitecount=\count197
+\c@multicitetotal=\count198
+\c@instcount=\count199
+\c@maxnames=\count266
+\c@minnames=\count267
+\c@maxitems=\count268
+\c@minitems=\count269
+\c@citecounter=\count270
+\c@savedcitecounter=\count271
+\c@uniquelist=\count272
+\c@uniquename=\count273
+\c@refsection=\count274
+\c@refsegment=\count275
+\c@maxextratitle=\count276
+\c@maxextratitleyear=\count277
+\c@maxextrayear=\count278
+\c@maxextraalpha=\count279
+\c@abbrvpenalty=\count280
+\c@highnamepenalty=\count281
+\c@lownamepenalty=\count282
+\c@maxparens=\count283
+\c@parenlevel=\count284
+\blx@tempcnta=\count285
+\blx@tempcntb=\count286
+\blx@tempcntc=\count287
+\blx@maxsection=\count288
+\blx@maxsegment@0=\count289
+\blx@notetype=\count290
+\blx@parenlevel@text=\count291
+\blx@parenlevel@foot=\count292
+\blx@sectionciteorder@0=\count293
 \labelnumberwidth=\skip49
 \labelalphawidth=\skip50
 \biblabelsep=\skip51
@@ -614,9 +642,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip56
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count296
-\c@maxcomprange=\count297
-\c@mincompwidth=\count298
+\c@mincomprange=\count294
+\c@maxcomprange=\count295
+\c@mincompwidth=\count296
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/biblatex/blx-dm.def)
@@ -624,72 +652,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count299
-\c@savedafterword=\count300
-\c@annotator=\count301
-\c@savedannotator=\count302
-\c@author=\count303
-\c@savedauthor=\count304
-\c@bookauthor=\count305
-\c@savedbookauthor=\count306
-\c@commentator=\count307
-\c@savedcommentator=\count308
-\c@editor=\count309
-\c@savededitor=\count310
-\c@editora=\count311
-\c@savededitora=\count312
-\c@editorb=\count313
-\c@savededitorb=\count314
-\c@editorc=\count315
-\c@savededitorc=\count316
-\c@foreword=\count317
-\c@savedforeword=\count318
-\c@holder=\count319
-\c@savedholder=\count320
-\c@introduction=\count321
-\c@savedintroduction=\count322
-\c@namea=\count323
-\c@savednamea=\count324
-\c@nameb=\count325
-\c@savednameb=\count326
-\c@namec=\count327
-\c@savednamec=\count328
-\c@translator=\count329
-\c@savedtranslator=\count330
-\c@shortauthor=\count331
-\c@savedshortauthor=\count332
-\c@shorteditor=\count333
-\c@savedshorteditor=\count334
-\c@labelname=\count335
-\c@savedlabelname=\count336
-\c@institution=\count337
-\c@savedinstitution=\count338
-\c@lista=\count339
-\c@savedlista=\count340
-\c@listb=\count341
-\c@savedlistb=\count342
-\c@listc=\count343
-\c@savedlistc=\count344
-\c@listd=\count345
-\c@savedlistd=\count346
-\c@liste=\count347
-\c@savedliste=\count348
-\c@listf=\count349
-\c@savedlistf=\count350
-\c@location=\count351
-\c@savedlocation=\count352
-\c@organization=\count353
-\c@savedorganization=\count354
-\c@origlocation=\count355
-\c@savedoriglocation=\count356
-\c@origpublisher=\count357
-\c@savedorigpublisher=\count358
-\c@publisher=\count359
-\c@savedpublisher=\count360
-\c@language=\count361
-\c@savedlanguage=\count362
-\c@pageref=\count363
-\c@savedpageref=\count364
+\c@afterword=\count297
+\c@savedafterword=\count298
+\c@annotator=\count299
+\c@savedannotator=\count300
+\c@author=\count301
+\c@savedauthor=\count302
+\c@bookauthor=\count303
+\c@savedbookauthor=\count304
+\c@commentator=\count305
+\c@savedcommentator=\count306
+\c@editor=\count307
+\c@savededitor=\count308
+\c@editora=\count309
+\c@savededitora=\count310
+\c@editorb=\count311
+\c@savededitorb=\count312
+\c@editorc=\count313
+\c@savededitorc=\count314
+\c@foreword=\count315
+\c@savedforeword=\count316
+\c@holder=\count317
+\c@savedholder=\count318
+\c@introduction=\count319
+\c@savedintroduction=\count320
+\c@namea=\count321
+\c@savednamea=\count322
+\c@nameb=\count323
+\c@savednameb=\count324
+\c@namec=\count325
+\c@savednamec=\count326
+\c@translator=\count327
+\c@savedtranslator=\count328
+\c@shortauthor=\count329
+\c@savedshortauthor=\count330
+\c@shorteditor=\count331
+\c@savedshorteditor=\count332
+\c@labelname=\count333
+\c@savedlabelname=\count334
+\c@institution=\count335
+\c@savedinstitution=\count336
+\c@lista=\count337
+\c@savedlista=\count338
+\c@listb=\count339
+\c@savedlistb=\count340
+\c@listc=\count341
+\c@savedlistc=\count342
+\c@listd=\count343
+\c@savedlistd=\count344
+\c@liste=\count345
+\c@savedliste=\count346
+\c@listf=\count347
+\c@savedlistf=\count348
+\c@location=\count349
+\c@savedlocation=\count350
+\c@organization=\count351
+\c@savedorganization=\count352
+\c@origlocation=\count353
+\c@savedoriglocation=\count354
+\c@origpublisher=\count355
+\c@savedorigpublisher=\count356
+\c@publisher=\count357
+\c@savedpublisher=\count358
+\c@language=\count359
+\c@savedlanguage=\count360
+\c@pageref=\count361
+\c@savedpageref=\count362
 \shorthandwidth=\skip57
 \shortjournalwidth=\skip58
 \shortserieswidth=\skip59
@@ -705,13 +733,13 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count365
-\c@textcitetotal=\count366
-\c@textcitemaxnames=\count367
-\c@biburlnumpenalty=\count368
-\c@biburlucpenalty=\count369
-\c@biburllcpenalty=\count370
-\c@smartand=\count371
+\c@textcitecount=\count363
+\c@textcitetotal=\count364
+\c@textcitemaxnames=\count365
+\c@biburlnumpenalty=\count366
+\c@biburlucpenalty=\count367
+\c@biburllcpenalty=\count368
+\c@smartand=\count369
 )
 Package biblatex Info: Trying to load bibliography style 'verbose'...
 Package biblatex Info: ... file 'verbose.bbx' found.
@@ -725,8 +753,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count372
-\c@bbx:relatedtotal=\count373
+\c@bbx:relatedcount=\count370
+\c@bbx:relatedtotal=\count371
 )))
 Package biblatex Info: Trying to load citation style 'verbose'...
 Package biblatex Info: ... file 'verbose.cbx' found.
@@ -750,9 +778,9 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count374
-\Gm@cntv=\count375
-\c@Gm@tempcnt=\count376
+\Gm@cnth=\count372
+\Gm@cntv=\count373
+\c@Gm@tempcnt=\count374
 \Gm@bindingoffset=\dimen145
 \Gm@wd@mp=\dimen146
 \Gm@odd@mp=\dimen147
@@ -761,13 +789,13 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutheight=\dimen150
 \Gm@layouthoffset=\dimen151
 \Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks19
+\Gm@dimlist=\toks18
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
- (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
-(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -779,9 +807,6 @@ Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package hobsub Info: Skipping package `etexcmds' (already loaded).
 Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
-
-(/usr/local/texlive/2017basic/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
 Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
@@ -800,12 +825,12 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen153
-\Hy@linkcounter=\count377
-\Hy@pagecounter=\count378
+\Hy@linkcounter=\count375
+\Hy@pagecounter=\count376
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count379
+\Hy@SavedSpaceFactor=\count377
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -816,10 +841,10 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count380
+\c@Hy@tempcnt=\count378
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen154
-\Fld@menulength=\count381
+\Fld@menulength=\count379
 \Field@Width=\dimen155
 \Fld@charsize=\dimen156
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -831,20 +856,31 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count382
-\c@Item=\count383
-\c@Hfootnote=\count384
+\Hy@abspage=\count380
+\c@Item=\count381
+\c@Hfootnote=\count382
 )
 
-Package hyperref Message: Driver (autodetected): hluatex.
+Package hyperref Message: Driver (autodetected): hxetex.
 
-(/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2017/03/14 v6.85a Hyperref driver for luaTeX
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2017/03/14 v6.85a Hyperref driver for XeTeX
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box44
+\c@Hy@AnnotLevel=\count383
+\HyField@AnnotCount=\count384
 \Fld@listcount=\count385
 \c@bookmark@seq@number=\count386
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+(rerunfilecheck)             Therefore file contents cannot be checked efficiently
+(rerunfilecheck)             and the loading of the package is aborted.
 )
 \Hy@SectionHShift=\skip63
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/pifont.sty
@@ -865,7 +901,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 99.
+Package graphics Info: Driver file: xetex.def on input line 99.
 )
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
@@ -881,11 +917,6 @@ Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 \f@nch@O@olf=\skip71
 \f@nch@O@orf=\skip72
 )
-.................................................
-. lualatex-math info: "patch-macro"
-. 
-. I'm going to patch macro \frac.
-.................................................
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -894,7 +925,7 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotelevel=\count387
 \@quotereset=\count388
  (./AHSparks_CV.aux)
-\openout1 = AHSparks_CV.aux
+\openout1 = `AHSparks_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -914,36 +945,9 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
- (/usr/local/texlive/2017basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count389
-\scratchdimen=\dimen159
-\scratchbox=\box44
-\nofMPsegments=\count390
-\nofMParguments=\count391
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count392
-\MPscratchDim=\dimen160
-\MPnumerator=\count393
-\makeMPintoPDFobject=\count394
-\everyMPtoPDFconversion=\toks21
-) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2 ,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc)
-\g__fontspec_family_latinmodern-math.otf_int=\count395
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script math with language dflt
-luaotfload | aux : no font with id 33
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script math with language dflt
-luaotfload | aux : no font with id 33
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+\g__fontspec_family_latinmodern-math.otf_int=\count389
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -952,10 +956,6 @@ LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on input line 21.
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script math with language dflt
-luaotfload | aux : no font with id 33
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script math with language dflt
-luaotfload | aux : no font with id 33
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
@@ -964,10 +964,6 @@ LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on input line 21.
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script math with language dflt
-luaotfload | aux : no font with id 33
-luaotfload | aux : font no 33 (nil) does not define feature smcp for script math with language dflt
-luaotfload | aux : no font with id 33
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -976,13 +972,14 @@ LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on input line 21.
- ABD: EveryShipout initializing macros
-Package biblatex Info: LuaTeX detected.
+
+ABD: EveryShipout initializing macros
+Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `AHSparks_CV.bcf'.
 
-\openout4 = AHSparks_CV.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'AHSparks_CV.bbl' found.
  (./AHSparks_CV.bbl)
@@ -990,9 +987,9 @@ Package biblatex Info: Reference section=0 on input line 21.
 Package biblatex Info: Reference segment=0 on input line 21.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1030,796 +1027,120 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count396
+\c@section@level=\count390
 )
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
  (./AHSparks_CV.out) (./AHSparks_CV.out)
 \@outlinefile=\write5
+\openout5 = `AHSparks_CV.out'.
 
-\openout5 = AHSparks_CV.out
  (./Aside_Work_Experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 36.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 36.
+(Font)              scaled to size 7.01247pt on input line 36.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 36.
+(Font)              scaled to size 4.9808pt on input line 36.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 9.99985pt on input line 36.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 36.
+(Font)              scaled to size 7.01224pt on input line 36.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 36.
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 54
-Inserting `luaotfload.color_handler' at position 1 in `post_linebreak_filter'.
-Inserting `luaotfload.color_handler' at position 2 in `hpack_filter'.
-Inserting `luaotfload.color_handler' at position 1 in `mlist_to_hlist'.
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
+(Font)              scaled to size 4.98067pt on input line 36.
+
 Underfull \hbox (badness 10000) in paragraph at lines 36--70
 
  []
 
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-
-LaTeX Font Warning: Font shape `TU/AvenirBook(1)/m/it' undefined
-(Font)              using `TU/AvenirBook(1)/m/n' instead on input line 79.
-
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54)
+)
 Underfull \hbox (badness 10000) in paragraph at lines 71--24
 
  []
 
-[1
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+) [1
 
-{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-\blx@maxsegment@1=\count397
-\blx@sectionciteorder@1=\count398
+]
+\blx@maxsegment@1=\count391
+\blx@sectionciteorder@1=\count392
 Package biblatex Info: Reference section=1 on input line 28.
 Package biblatex Info: Setting label 'refsection:1' on input line 28.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) does not define feature smcp for script  with language 
-luaotfload | aux : no font with id 54
-
-LaTeX Font Warning: Font shape `TU/AvenirBook(22)/m/it' undefined
-(Font)              using `TU/AvenirBook(22)/m/n' instead on input line 30.
-
-(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc)
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.00012pt on input line 30.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.00009pt on input line 30.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 30.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.99988pt on input line 30.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 30.
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54 [2]
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 30.
+[2]
 Package biblatex Info: Reference section=0 on input line 31.
-\blx@maxsegment@2=\count399
-\blx@sectionciteorder@2=\count400
+\blx@maxsegment@2=\count393
+\blx@sectionciteorder@2=\count394
 Package biblatex Info: Reference section=2 on input line 32.
 Package biblatex Info: Setting label 'refsection:2' on input line 32.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54 [3]
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
+[3]
 Package biblatex Info: Reference section=0 on input line 35.
-\blx@maxsegment@3=\count401
-\blx@sectionciteorder@3=\count402
+\blx@maxsegment@3=\count395
+\blx@sectionciteorder@3=\count396
 Package biblatex Info: Reference section=3 on input line 36.
 Package biblatex Info: Setting label 'refsection:3' on input line 36.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54 [4]
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
+[4]
 Package biblatex Info: Reference section=0 on input line 39.
-\blx@maxsegment@4=\count403
-\blx@sectionciteorder@4=\count404
+\blx@maxsegment@4=\count397
+\blx@sectionciteorder@4=\count398
 Package biblatex Info: Reference section=4 on input line 40.
 Package biblatex Info: Setting label 'refsection:4' on input line 40.
 
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 58
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
 Package biblatex Info: Reference section=0 on input line 43.
-(./Invited_Talks.tex
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54)
+(./Invited_Talks.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 2--46
 
  []
 
-(./Mentorships.tex
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
+(./Mentorships.tex [5]
 Underfull \hbox (badness 10000) in paragraph at lines 2--20
 
  []
 
-[5]
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54)
+)
 Underfull \hbox (badness 10000) in paragraph at lines 22--48
 
  []
 
 (./Extramural_Support.tex
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
 Underfull \hbox (badness 10000) in paragraph at lines 2--20
 
  []
 
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54)
+)
 Underfull \hbox (badness 10000) in paragraph at lines 22--50
 
  []
 
 (./Certs_Affiliations.tex
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
-luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 54
 Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
@@ -1838,33 +1159,19 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 [7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
  (./AHSparks_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
-Package rerunfilecheck Info: File `AHSparks_CV.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 53.
 Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
+\openout1 = `AHSparks_CV.run.xml'.
 
-\openout1 = AHSparks_CV.run.xml
-)
+ ) 
+Here is how much of TeX's memory you used:
+ 31475 strings out of 494504
+ 583100 string characters out of 6166215
+ 1156033 words of memory out of 5000000
+ 35057 multiletter control sequences out of 15000+600000
+ 534383 words of font info for 91 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 51i,12n,79p,10397b,4856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Here is how much of LuaTeX's memory you used:
- 30820 strings out of 494481
- 125171,1373583 words of node,token memory allocated
- 491 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 9 attribute, 60 glue_spec, 9 attribute_list, 1 write, 5 pdf_action nodes
-   avail lists: 1:2,2:1552,3:227,4:96,5:228,6:3059,7:972,8:57,9:208,10:10,11:290
- 32330 multiletter control sequences out of 65536+600000
- 70 fonts using 21598831 bytes
- 54i,12n,91p,1572b,1173s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Avenir Next Condensed.ttc></System/Library/Fonts/Avenir.ttc>
-Output written on AHSparks_CV.pdf (7 pages, 68198 bytes).
-
-PDF statistics: 169 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
- 67 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+Output written on AHSparks_CV.xdv (7 pages, 177464 bytes).
