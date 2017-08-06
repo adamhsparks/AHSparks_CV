@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber AHSparks_CV"] 1502019548 "AHSparks_CV.bcf" "AHSparks_CV.bbl" "AHSparks_CV" 1502019554
-  "AHSparks_CV.bcf" 1502019554 100210 5925824f29945193416411df4046cd48 ""
-  "Sparks_bibliography.bib" 1502019540 29901 386aab381defef8ef7c02ec0115e7607 ""
+["biber AHSparks_CV"] 1502019654 "AHSparks_CV.bcf" "AHSparks_CV.bbl" "AHSparks_CV" 1502019661
+  "AHSparks_CV.bcf" 1502019661 100210 5925824f29945193416411df4046cd48 ""
+  "Sparks_bibliography.bib" 1502019646 29905 dc9a8a2453032eae12265d1c414fa87d ""
   (generated)
   "AHSparks_CV.bbl"
   "AHSparks_CV.blg"
-["xdvipdfmx"] 1502019554 "AHSparks_CV.xdv" "AHSparks_CV.pdf" "AHSparks_CV" 1502019554
-  "AHSparks_CV.xdv" 1502019554 177476 35ce14a01d5f946bf789dd48cefb3c35 "xelatex"
+["xdvipdfmx"] 1502019661 "AHSparks_CV.xdv" "AHSparks_CV.pdf" "AHSparks_CV" 1502019661
+  "AHSparks_CV.xdv" 1502019661 177476 a7db96efec39997fc46ec4f4159ce66e "xelatex"
   (generated)
   "AHSparks_CV.pdf"
-["xelatex"] 1502019549 "AHSparks_CV.tex" "AHSparks_CV.xdv" "AHSparks_CV" 1502019554
+["xelatex"] 1502019656 "AHSparks_CV.tex" "AHSparks_CV.xdv" "AHSparks_CV" 1502019661
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1480098701 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
@@ -101,10 +101,10 @@
   "/usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017basic/texmf-var/web2c/xetex/xelatex.fmt" 1500497808 3257107 90940217c782e8b6aa27a054675a9f78 ""
   "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
-  "AHSparks_CV.aux" 1502019554 4777 f3ff463868c7f44cc61430ed5d1bca89 ""
-  "AHSparks_CV.bbl" 1502019549 402782 6f8a451dcb384add0a0f2d4627de2c38 "biber AHSparks_CV"
-  "AHSparks_CV.out" 1502019552 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "AHSparks_CV.run.xml" 1502019554 2398 d9cce2df8f10e86fca80f0b572299744 ""
+  "AHSparks_CV.aux" 1502019661 4777 f3ff463868c7f44cc61430ed5d1bca89 ""
+  "AHSparks_CV.bbl" 1502019656 402454 c6a0d9e0d44f53c612f659e7f6ac3d26 "biber AHSparks_CV"
+  "AHSparks_CV.out" 1502019658 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "AHSparks_CV.run.xml" 1502019661 2398 d9cce2df8f10e86fca80f0b572299744 ""
   "AHSparks_CV.tex" 1501667069 1258 16a74d0917a129b7f738d06f12353fb1 ""
   "Aside_Work_Experience.tex" 1502019377 3463 94a6a24377ed70a9deb26241b747e0df ""
   "Certs_Affiliations.tex" 1490169274 872 4e51045af5ed085ee533c2e62407ae75 ""
@@ -113,9 +113,9 @@
   "Mentorships.tex" 1501667069 1633 32188c67754df5994bdaaf8a6f1448bd ""
   "friggeri-cv.cls" 1502018650 6036 cc32e3bd219b1816d2a428d87dcd6954 ""
   (generated)
-  "AHSparks_CV.xdv"
-  "AHSparks_CV.bcf"
-  "AHSparks_CV.run.xml"
-  "AHSparks_CV.log"
-  "AHSparks_CV.out"
   "AHSparks_CV.aux"
+  "AHSparks_CV.log"
+  "AHSparks_CV.run.xml"
+  "AHSparks_CV.xdv"
+  "AHSparks_CV.out"
+  "AHSparks_CV.bcf"

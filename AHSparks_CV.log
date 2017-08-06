@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.20)  6 AUG 2017 21:39
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.20)  6 AUG 2017 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1168,7 +1168,7 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 Here is how much of TeX's memory you used:
  31475 strings out of 494504
  583100 string characters out of 6166215
- 1156029 words of memory out of 5000000
+ 1156021 words of memory out of 5000000
  35057 multiletter control sequences out of 15000+600000
  534383 words of font info for 91 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
