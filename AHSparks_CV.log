@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.20)  9 AUG 2017 19:19
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  11 AUG 2017 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **AHSparks_CV.tex
 (./AHSparks_CV.tex
 LaTeX2e <2017-04-15>
-Babel <3.12> and hyphenation patterns for 22 language(s) loaded.
+Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
 (./friggeri-cv.cls
 Document Class: friggeri-cv 2013/07/19 CV class
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/article.cls
@@ -1166,12 +1166,12 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31475 strings out of 494504
- 583100 string characters out of 6166215
- 1156021 words of memory out of 5000000
- 35057 multiletter control sequences out of 15000+600000
+ 31475 strings out of 494511
+ 583100 string characters out of 6166321
+ 1155992 words of memory out of 5000000
+ 35050 multiletter control sequences out of 15000+600000
  534383 words of font info for 91 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  51i,12n,79p,10397b,4856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AHSparks_CV.xdv (7 pages, 180684 bytes).
+Output written on AHSparks_CV.xdv (7 pages, 180700 bytes).
