@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  11 AUG 2017 11:53
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  19 AUG 2017 12:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -194,9 +194,9 @@ Package: xparse 2017/07/19 L3 Experimental document command parser
 \l__xparse_mandatory_args_int=\count169
 \l__xparse_v_nesting_int=\count170
 )
-Package: fontspec 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2017/08/14 v2.6d Font selection for XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec-xetex 2017/08/14 v2.6d Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count171
 \l__fontspec_language_int=\count172
 \l__fontspec_strnum_int=\count173
@@ -333,60 +333,60 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3462.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3538.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3468.
+. Defining command \EncodingAccent with sig. 'mm' on line 3544.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3474.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3550.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3480.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3556.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3486.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3562.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3511.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3587.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3517.
+. Defining command \UndeclareSymbol with sig. 'm' on line 3593.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3525.
+. Defining command \UndeclareComposite with sig. 'mm' on line 3601.
 .................................................
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3710.
-LaTeX Info: Redefining \slshape on input line 3715.
-LaTeX Info: Redefining \scshape on input line 3720.
-LaTeX Info: Redefining \upshape on input line 3725.
-LaTeX Info: Redefining \em on input line 3755.
-LaTeX Info: Redefining \emph on input line 3780.
-LaTeX Info: Redefining \- on input line 3831.
+LaTeX Info: Redefining \itshape on input line 3786.
+LaTeX Info: Redefining \slshape on input line 3791.
+LaTeX Info: Redefining \scshape on input line 3796.
+LaTeX Info: Redefining \upshape on input line 3801.
+LaTeX Info: Redefining \em on input line 3831.
+LaTeX Info: Redefining \emph on input line 3856.
+LaTeX Info: Redefining \- on input line 3907.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3926.
+. Redefining command \oldstylenums with sig. 'm' on line 4002.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3930.
+. Defining command \liningnums with sig. 'm' on line 4006.
 .................................................
 ))
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/unicode-math/unicode-math.sty
@@ -1166,12 +1166,12 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31475 strings out of 494511
- 583100 string characters out of 6166321
- 1155992 words of memory out of 5000000
- 35050 multiletter control sequences out of 15000+600000
+ 31547 strings out of 494511
+ 586312 string characters out of 6166321
+ 1170195 words of memory out of 5000000
+ 35122 multiletter control sequences out of 15000+600000
  534383 words of font info for 91 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  51i,12n,79p,10397b,4856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AHSparks_CV.xdv (7 pages, 180700 bytes).
+Output written on AHSparks_CV.xdv (7 pages, 180684 bytes).

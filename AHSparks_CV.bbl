@@ -474,11 +474,11 @@
            familyi={N\bibinitperiod},
            given={M.},
            giveni={M\bibinitperiod}}}%
-        {{hash=106e2a14357b332f5181e6f729710a36}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi D.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d3606f2994a0114faf1e887ad012aacf}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=a1ebf517767519b5bf04015932601783}{%
            family={Esker},
            familyi={E\bibinitperiod},
@@ -505,10 +505,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{fullhash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authornamehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authorfullhash}{73464dd4ffd220b7415763a8e7d3332f}
+      \strng{namehash}{07776fbad056269f026e4205fd848afd}
+      \strng{fullhash}{07776fbad056269f026e4205fd848afd}
+      \strng{authornamehash}{07776fbad056269f026e4205fd848afd}
+      \strng{authorfullhash}{07776fbad056269f026e4205fd848afd}
       \strng{editornamehash}{22c604147d6a1c1c0803659594016ead}
       \strng{editorfullhash}{22c604147d6a1c1c0803659594016ead}
       \field{sortinit}{2}
@@ -1620,11 +1620,11 @@
            familyi={S\bibinitperiod},
            given={D.},
            giveni={D\bibinitperiod}}}%
-        {{hash=75a3786854df8e338de416667b761462}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9eee880d5579f0efef74f67ab39c30d8}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
         {{hash=b0eeb541b614df21fde3d892cb74dc3d}{%
            family={Madden},
            familyi={M\bibinitperiod},
@@ -1641,10 +1641,10 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{fullhash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authornamehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authorfullhash}{b8aeb8735d118a22900fccff2aedf857}
+      \strng{namehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{fullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authornamehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authorfullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -2882,11 +2882,11 @@
            familyi={N\bibinitperiod},
            given={M.},
            giveni={M\bibinitperiod}}}%
-        {{hash=106e2a14357b332f5181e6f729710a36}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi D.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d3606f2994a0114faf1e887ad012aacf}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=a1ebf517767519b5bf04015932601783}{%
            family={Esker},
            familyi={E\bibinitperiod},
@@ -2913,10 +2913,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{fullhash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authornamehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authorfullhash}{73464dd4ffd220b7415763a8e7d3332f}
+      \strng{namehash}{07776fbad056269f026e4205fd848afd}
+      \strng{fullhash}{07776fbad056269f026e4205fd848afd}
+      \strng{authornamehash}{07776fbad056269f026e4205fd848afd}
+      \strng{authorfullhash}{07776fbad056269f026e4205fd848afd}
       \strng{editornamehash}{22c604147d6a1c1c0803659594016ead}
       \strng{editorfullhash}{22c604147d6a1c1c0803659594016ead}
       \field{sortinit}{2}
@@ -4028,11 +4028,11 @@
            familyi={S\bibinitperiod},
            given={D.},
            giveni={D\bibinitperiod}}}%
-        {{hash=75a3786854df8e338de416667b761462}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9eee880d5579f0efef74f67ab39c30d8}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
         {{hash=b0eeb541b614df21fde3d892cb74dc3d}{%
            family={Madden},
            familyi={M\bibinitperiod},
@@ -4049,10 +4049,10 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{fullhash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authornamehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authorfullhash}{b8aeb8735d118a22900fccff2aedf857}
+      \strng{namehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{fullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authornamehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authorfullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -5290,11 +5290,11 @@
            familyi={N\bibinitperiod},
            given={M.},
            giveni={M\bibinitperiod}}}%
-        {{hash=106e2a14357b332f5181e6f729710a36}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi D.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d3606f2994a0114faf1e887ad012aacf}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=a1ebf517767519b5bf04015932601783}{%
            family={Esker},
            familyi={E\bibinitperiod},
@@ -5321,10 +5321,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{fullhash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authornamehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authorfullhash}{73464dd4ffd220b7415763a8e7d3332f}
+      \strng{namehash}{07776fbad056269f026e4205fd848afd}
+      \strng{fullhash}{07776fbad056269f026e4205fd848afd}
+      \strng{authornamehash}{07776fbad056269f026e4205fd848afd}
+      \strng{authorfullhash}{07776fbad056269f026e4205fd848afd}
       \strng{editornamehash}{22c604147d6a1c1c0803659594016ead}
       \strng{editorfullhash}{22c604147d6a1c1c0803659594016ead}
       \field{sortinit}{2}
@@ -6436,11 +6436,11 @@
            familyi={S\bibinitperiod},
            given={D.},
            giveni={D\bibinitperiod}}}%
-        {{hash=75a3786854df8e338de416667b761462}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9eee880d5579f0efef74f67ab39c30d8}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
         {{hash=b0eeb541b614df21fde3d892cb74dc3d}{%
            family={Madden},
            familyi={M\bibinitperiod},
@@ -6457,10 +6457,10 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{fullhash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authornamehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authorfullhash}{b8aeb8735d118a22900fccff2aedf857}
+      \strng{namehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{fullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authornamehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authorfullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -7698,11 +7698,11 @@
            familyi={N\bibinitperiod},
            given={M.},
            giveni={M\bibinitperiod}}}%
-        {{hash=106e2a14357b332f5181e6f729710a36}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi D.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d3606f2994a0114faf1e887ad012aacf}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=a1ebf517767519b5bf04015932601783}{%
            family={Esker},
            familyi={E\bibinitperiod},
@@ -7729,10 +7729,10 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{fullhash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authornamehash}{73464dd4ffd220b7415763a8e7d3332f}
-      \strng{authorfullhash}{73464dd4ffd220b7415763a8e7d3332f}
+      \strng{namehash}{07776fbad056269f026e4205fd848afd}
+      \strng{fullhash}{07776fbad056269f026e4205fd848afd}
+      \strng{authornamehash}{07776fbad056269f026e4205fd848afd}
+      \strng{authorfullhash}{07776fbad056269f026e4205fd848afd}
       \strng{editornamehash}{22c604147d6a1c1c0803659594016ead}
       \strng{editorfullhash}{22c604147d6a1c1c0803659594016ead}
       \field{sortinit}{2}
@@ -8844,11 +8844,11 @@
            familyi={S\bibinitperiod},
            given={D.},
            giveni={D\bibinitperiod}}}%
-        {{hash=75a3786854df8e338de416667b761462}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={E.\bibnamedelimi De},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9eee880d5579f0efef74f67ab39c30d8}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
         {{hash=b0eeb541b614df21fde3d892cb74dc3d}{%
            family={Madden},
            familyi={M\bibinitperiod},
@@ -8865,10 +8865,10 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{fullhash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authornamehash}{b8aeb8735d118a22900fccff2aedf857}
-      \strng{authorfullhash}{b8aeb8735d118a22900fccff2aedf857}
+      \strng{namehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{fullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authornamehash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
+      \strng{authorfullhash}{6e5a18beaa03a0cf4496b6c4fa6303ce}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
