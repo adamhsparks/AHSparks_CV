@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  19 AUG 2017 13:03
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  19 AUG 2017 15:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1120,7 +1120,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--46
 
  []
 
-(./Mentorships.tex [5]
+[5] (./Mentorships.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--20
 
  []
@@ -1130,7 +1130,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--48
 
  []
 
-(./Extramural_Support.tex
+[6] (./Extramural_Support.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--24
 
  []
@@ -1140,7 +1140,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--50
 
  []
 
-[6] (./Certs_Affiliations.tex
+(./Certs_Affiliations.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--14
 
  []
@@ -1150,13 +1150,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--21
 
  []
 
-)
+[7])
 Underfull \hbox (badness 10000) in paragraph at lines 23--52
 
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
-[7]
+[8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
  (./AHSparks_CV.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 53.
@@ -1166,12 +1166,12 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31547 strings out of 494511
- 586312 string characters out of 6166321
- 1170195 words of memory out of 5000000
- 35122 multiletter control sequences out of 15000+600000
+ 31696 strings out of 494511
+ 595259 string characters out of 6166321
+ 1199318 words of memory out of 5000000
+ 35271 multiletter control sequences out of 15000+600000
  534383 words of font info for 91 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  51i,12n,79p,10397b,4856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AHSparks_CV.xdv (7 pages, 180684 bytes).
+Output written on AHSparks_CV.xdv (8 pages, 186432 bytes).

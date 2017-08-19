@@ -376,10 +376,10 @@
     \endentry
     \entry{Sparks2017}{article}{}
       \name{author}{3}{}{%
-        {{hash=64d8b62eabbcd8143bb9d68183c40692}{%
+        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H},
+           given={A.\bibnamedelimi H.},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=1a106f66550cfda034f752ffdc326db0}{%
            family={Hengl},
@@ -395,10 +395,10 @@
       \list{publisher}{1}{%
         {The Open Journal}%
       }
-      \strng{namehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{fullhash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authornamehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authorfullhash}{38f37b919440a3b7a4e3f0da58710a58}
+      \strng{namehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{fullhash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authornamehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authorfullhash}{e8eda7484de7723ed7f3d88ebf71919a}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -686,6 +686,182 @@
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{maloon2015philippine}{article}{}
+      \name{author}{31}{}{%
+        {{hash=1646d0d41922e290b7c85da69ddda010}{%
+           family={Maloon},
+           familyi={M\bibinitperiod},
+           given={JM},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7a4981ad1d83ecaeb6f8f78c8becfdda}{%
+           family={Quilang},
+           familyi={Q\bibinitperiod},
+           given={EJP},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f12589816bcc51c13026f0e2b3f780ea}{%
+           family={Mabalay},
+           familyi={M\bibinitperiod},
+           given={MRO},
+           giveni={M\bibinitperiod}}}%
+        {{hash=be32971ea1ae38e99189de1cc936baa4}{%
+           family={Dios},
+           familyi={D\bibinitperiod},
+           given={JL},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=28a6806f7cd16d5cbb6acbd8e1bca3fa}{%
+           family={Arocena\bibnamedelima Jr},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={AC},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7fdda4761f6a102218e5983558395261}{%
+           family={Mirandilla},
+           familyi={M\bibinitperiod},
+           given={JRF},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2756d929ae9e3913925ce667054687c2}{%
+           family={Mabalot},
+           familyi={M\bibinitperiod},
+           given={PA},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fb46e768222d1f0d09649a80b480de24}{%
+           family={Barroga},
+           familyi={B\bibinitperiod},
+           given={MI},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4fc5ef42ee40850623e78ac754e89b81}{%
+           family={Dollontas},
+           familyi={D\bibinitperiod},
+           given={RT},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4e30075482aea0e7d69f836dda3ba821}{%
+           family={Peralta},
+           familyi={P\bibinitperiod},
+           given={GC},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=796f732cd29f3a7fdef41acf613df699}{%
+           family={Mesa},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=65f18991158ec5c52efc1a07ae18badb}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={BT},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2b3aa4d96e328b131333b81aa468ba2d}{%
+           family={Balleras},
+           familyi={B\bibinitperiod},
+           given={GD},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cbd4478a6e12af5d6bdec2948f71bb5f}{%
+           family={Detoito},
+           familyi={D\bibinitperiod},
+           given={NB},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d79982c1774bf1e831f547b98a950a0d}{%
+           family={Arida},
+           familyi={A\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8e8161b57983a8af28ddfaf82834c1c2}{%
+           family={Donayre},
+           familyi={D\bibinitperiod},
+           given={DKM},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4c3b2f6194255ad3ca6039101984d56a}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={EC},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d2e44294c562e81c195fa7496abfc5a5}{%
+           family={Estoy},
+           familyi={E\bibinitperiod},
+           given={GF},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0c64e80aa86e279d68c17c5e67f6422c}{%
+           family={Raviz},
+           familyi={R\bibinitperiod},
+           given={JV},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dbd7c2964d7e17ce4cdca5cc4f6f970a}{%
+           family={Laborte},
+           familyi={L\bibinitperiod},
+           given={AG},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b83db6ece4c53cec941349bf964de640}{%
+           family={Setiyono},
+           familyi={S\bibinitperiod},
+           given={TO},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f66ccf4c6d5689d5d08b8919ccf9c3e2}{%
+           family={Maunahan},
+           familyi={M\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34efc466f4bbaa8ae83d80936183fc96}{%
+           family={Rala},
+           familyi={R\bibinitperiod},
+           given={AB},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a2ad1b0a7a78288e4354791ce54324c}{%
+           family={Villa},
+           familyi={V\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6654ef1f19816d4d6c22bb25c0d3e874}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={NP},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f371689a775cfb996c0bd51344d1a8b4}{%
+           family={Bhatti},
+           familyi={B\bibinitperiod},
+           given={ZM},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4f4ac9eae83633adb7d0fac3b788f211}{%
+           family={Maco},
+           familyi={M\bibinitperiod},
+           given={DD},
+           giveni={D\bibinitperiod}}}%
+        {{hash=329e5e500d8107ead3b5f8a59681546f}{%
+           family={Bayot},
+           familyi={B\bibinitperiod},
+           given={RS},
+           giveni={R\bibinitperiod}}}%
+        {{hash=04162dbf4d6e866e40736652d035fcdc}{%
+           family={Barbierri},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{fullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authornamehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authorfullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Crop Science (Philippines)}
+      \field{title}{Philippine Rice Information System (PRISM): innovating the rice field data capture and monitoring using smartphone}
+      \field{year}{2015}
     \endentry
     \entry{Raitzer_2015}{report}{}
       \name{author}{8}{}{%
@@ -2784,10 +2960,10 @@
     \endentry
     \entry{Sparks2017}{article}{}
       \name{author}{3}{}{%
-        {{hash=64d8b62eabbcd8143bb9d68183c40692}{%
+        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H},
+           given={A.\bibnamedelimi H.},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=1a106f66550cfda034f752ffdc326db0}{%
            family={Hengl},
@@ -2803,10 +2979,10 @@
       \list{publisher}{1}{%
         {The Open Journal}%
       }
-      \strng{namehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{fullhash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authornamehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authorfullhash}{38f37b919440a3b7a4e3f0da58710a58}
+      \strng{namehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{fullhash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authornamehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authorfullhash}{e8eda7484de7723ed7f3d88ebf71919a}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -3094,6 +3270,182 @@
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{maloon2015philippine}{article}{}
+      \name{author}{31}{}{%
+        {{hash=1646d0d41922e290b7c85da69ddda010}{%
+           family={Maloon},
+           familyi={M\bibinitperiod},
+           given={JM},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7a4981ad1d83ecaeb6f8f78c8becfdda}{%
+           family={Quilang},
+           familyi={Q\bibinitperiod},
+           given={EJP},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f12589816bcc51c13026f0e2b3f780ea}{%
+           family={Mabalay},
+           familyi={M\bibinitperiod},
+           given={MRO},
+           giveni={M\bibinitperiod}}}%
+        {{hash=be32971ea1ae38e99189de1cc936baa4}{%
+           family={Dios},
+           familyi={D\bibinitperiod},
+           given={JL},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=28a6806f7cd16d5cbb6acbd8e1bca3fa}{%
+           family={Arocena\bibnamedelima Jr},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={AC},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7fdda4761f6a102218e5983558395261}{%
+           family={Mirandilla},
+           familyi={M\bibinitperiod},
+           given={JRF},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2756d929ae9e3913925ce667054687c2}{%
+           family={Mabalot},
+           familyi={M\bibinitperiod},
+           given={PA},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fb46e768222d1f0d09649a80b480de24}{%
+           family={Barroga},
+           familyi={B\bibinitperiod},
+           given={MI},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4fc5ef42ee40850623e78ac754e89b81}{%
+           family={Dollontas},
+           familyi={D\bibinitperiod},
+           given={RT},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4e30075482aea0e7d69f836dda3ba821}{%
+           family={Peralta},
+           familyi={P\bibinitperiod},
+           given={GC},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=796f732cd29f3a7fdef41acf613df699}{%
+           family={Mesa},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=65f18991158ec5c52efc1a07ae18badb}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={BT},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2b3aa4d96e328b131333b81aa468ba2d}{%
+           family={Balleras},
+           familyi={B\bibinitperiod},
+           given={GD},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cbd4478a6e12af5d6bdec2948f71bb5f}{%
+           family={Detoito},
+           familyi={D\bibinitperiod},
+           given={NB},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d79982c1774bf1e831f547b98a950a0d}{%
+           family={Arida},
+           familyi={A\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8e8161b57983a8af28ddfaf82834c1c2}{%
+           family={Donayre},
+           familyi={D\bibinitperiod},
+           given={DKM},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4c3b2f6194255ad3ca6039101984d56a}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={EC},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d2e44294c562e81c195fa7496abfc5a5}{%
+           family={Estoy},
+           familyi={E\bibinitperiod},
+           given={GF},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0c64e80aa86e279d68c17c5e67f6422c}{%
+           family={Raviz},
+           familyi={R\bibinitperiod},
+           given={JV},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dbd7c2964d7e17ce4cdca5cc4f6f970a}{%
+           family={Laborte},
+           familyi={L\bibinitperiod},
+           given={AG},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b83db6ece4c53cec941349bf964de640}{%
+           family={Setiyono},
+           familyi={S\bibinitperiod},
+           given={TO},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f66ccf4c6d5689d5d08b8919ccf9c3e2}{%
+           family={Maunahan},
+           familyi={M\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34efc466f4bbaa8ae83d80936183fc96}{%
+           family={Rala},
+           familyi={R\bibinitperiod},
+           given={AB},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a2ad1b0a7a78288e4354791ce54324c}{%
+           family={Villa},
+           familyi={V\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6654ef1f19816d4d6c22bb25c0d3e874}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={NP},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f371689a775cfb996c0bd51344d1a8b4}{%
+           family={Bhatti},
+           familyi={B\bibinitperiod},
+           given={ZM},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4f4ac9eae83633adb7d0fac3b788f211}{%
+           family={Maco},
+           familyi={M\bibinitperiod},
+           given={DD},
+           giveni={D\bibinitperiod}}}%
+        {{hash=329e5e500d8107ead3b5f8a59681546f}{%
+           family={Bayot},
+           familyi={B\bibinitperiod},
+           given={RS},
+           giveni={R\bibinitperiod}}}%
+        {{hash=04162dbf4d6e866e40736652d035fcdc}{%
+           family={Barbierri},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{fullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authornamehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authorfullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Crop Science (Philippines)}
+      \field{title}{Philippine Rice Information System (PRISM): innovating the rice field data capture and monitoring using smartphone}
+      \field{year}{2015}
     \endentry
     \entry{Raitzer_2015}{report}{}
       \name{author}{8}{}{%
@@ -5192,10 +5544,10 @@
     \endentry
     \entry{Sparks2017}{article}{}
       \name{author}{3}{}{%
-        {{hash=64d8b62eabbcd8143bb9d68183c40692}{%
+        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H},
+           given={A.\bibnamedelimi H.},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=1a106f66550cfda034f752ffdc326db0}{%
            family={Hengl},
@@ -5211,10 +5563,10 @@
       \list{publisher}{1}{%
         {The Open Journal}%
       }
-      \strng{namehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{fullhash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authornamehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authorfullhash}{38f37b919440a3b7a4e3f0da58710a58}
+      \strng{namehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{fullhash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authornamehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authorfullhash}{e8eda7484de7723ed7f3d88ebf71919a}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -5502,6 +5854,182 @@
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{maloon2015philippine}{article}{}
+      \name{author}{31}{}{%
+        {{hash=1646d0d41922e290b7c85da69ddda010}{%
+           family={Maloon},
+           familyi={M\bibinitperiod},
+           given={JM},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7a4981ad1d83ecaeb6f8f78c8becfdda}{%
+           family={Quilang},
+           familyi={Q\bibinitperiod},
+           given={EJP},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f12589816bcc51c13026f0e2b3f780ea}{%
+           family={Mabalay},
+           familyi={M\bibinitperiod},
+           given={MRO},
+           giveni={M\bibinitperiod}}}%
+        {{hash=be32971ea1ae38e99189de1cc936baa4}{%
+           family={Dios},
+           familyi={D\bibinitperiod},
+           given={JL},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=28a6806f7cd16d5cbb6acbd8e1bca3fa}{%
+           family={Arocena\bibnamedelima Jr},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={AC},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7fdda4761f6a102218e5983558395261}{%
+           family={Mirandilla},
+           familyi={M\bibinitperiod},
+           given={JRF},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2756d929ae9e3913925ce667054687c2}{%
+           family={Mabalot},
+           familyi={M\bibinitperiod},
+           given={PA},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fb46e768222d1f0d09649a80b480de24}{%
+           family={Barroga},
+           familyi={B\bibinitperiod},
+           given={MI},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4fc5ef42ee40850623e78ac754e89b81}{%
+           family={Dollontas},
+           familyi={D\bibinitperiod},
+           given={RT},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4e30075482aea0e7d69f836dda3ba821}{%
+           family={Peralta},
+           familyi={P\bibinitperiod},
+           given={GC},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=796f732cd29f3a7fdef41acf613df699}{%
+           family={Mesa},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=65f18991158ec5c52efc1a07ae18badb}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={BT},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2b3aa4d96e328b131333b81aa468ba2d}{%
+           family={Balleras},
+           familyi={B\bibinitperiod},
+           given={GD},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cbd4478a6e12af5d6bdec2948f71bb5f}{%
+           family={Detoito},
+           familyi={D\bibinitperiod},
+           given={NB},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d79982c1774bf1e831f547b98a950a0d}{%
+           family={Arida},
+           familyi={A\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8e8161b57983a8af28ddfaf82834c1c2}{%
+           family={Donayre},
+           familyi={D\bibinitperiod},
+           given={DKM},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4c3b2f6194255ad3ca6039101984d56a}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={EC},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d2e44294c562e81c195fa7496abfc5a5}{%
+           family={Estoy},
+           familyi={E\bibinitperiod},
+           given={GF},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0c64e80aa86e279d68c17c5e67f6422c}{%
+           family={Raviz},
+           familyi={R\bibinitperiod},
+           given={JV},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dbd7c2964d7e17ce4cdca5cc4f6f970a}{%
+           family={Laborte},
+           familyi={L\bibinitperiod},
+           given={AG},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b83db6ece4c53cec941349bf964de640}{%
+           family={Setiyono},
+           familyi={S\bibinitperiod},
+           given={TO},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f66ccf4c6d5689d5d08b8919ccf9c3e2}{%
+           family={Maunahan},
+           familyi={M\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34efc466f4bbaa8ae83d80936183fc96}{%
+           family={Rala},
+           familyi={R\bibinitperiod},
+           given={AB},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a2ad1b0a7a78288e4354791ce54324c}{%
+           family={Villa},
+           familyi={V\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6654ef1f19816d4d6c22bb25c0d3e874}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={NP},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f371689a775cfb996c0bd51344d1a8b4}{%
+           family={Bhatti},
+           familyi={B\bibinitperiod},
+           given={ZM},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4f4ac9eae83633adb7d0fac3b788f211}{%
+           family={Maco},
+           familyi={M\bibinitperiod},
+           given={DD},
+           giveni={D\bibinitperiod}}}%
+        {{hash=329e5e500d8107ead3b5f8a59681546f}{%
+           family={Bayot},
+           familyi={B\bibinitperiod},
+           given={RS},
+           giveni={R\bibinitperiod}}}%
+        {{hash=04162dbf4d6e866e40736652d035fcdc}{%
+           family={Barbierri},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{fullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authornamehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authorfullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Crop Science (Philippines)}
+      \field{title}{Philippine Rice Information System (PRISM): innovating the rice field data capture and monitoring using smartphone}
+      \field{year}{2015}
     \endentry
     \entry{Raitzer_2015}{report}{}
       \name{author}{8}{}{%
@@ -7600,10 +8128,10 @@
     \endentry
     \entry{Sparks2017}{article}{}
       \name{author}{3}{}{%
-        {{hash=64d8b62eabbcd8143bb9d68183c40692}{%
+        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
            family={Sparks},
            familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H},
+           given={A.\bibnamedelimi H.},
            giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=1a106f66550cfda034f752ffdc326db0}{%
            family={Hengl},
@@ -7619,10 +8147,10 @@
       \list{publisher}{1}{%
         {The Open Journal}%
       }
-      \strng{namehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{fullhash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authornamehash}{38f37b919440a3b7a4e3f0da58710a58}
-      \strng{authorfullhash}{38f37b919440a3b7a4e3f0da58710a58}
+      \strng{namehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{fullhash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authornamehash}{e8eda7484de7723ed7f3d88ebf71919a}
+      \strng{authorfullhash}{e8eda7484de7723ed7f3d88ebf71919a}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -7910,6 +8438,182 @@
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pone.0136562
       \endverb
+    \endentry
+    \entry{maloon2015philippine}{article}{}
+      \name{author}{31}{}{%
+        {{hash=1646d0d41922e290b7c85da69ddda010}{%
+           family={Maloon},
+           familyi={M\bibinitperiod},
+           given={JM},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7a4981ad1d83ecaeb6f8f78c8becfdda}{%
+           family={Quilang},
+           familyi={Q\bibinitperiod},
+           given={EJP},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f12589816bcc51c13026f0e2b3f780ea}{%
+           family={Mabalay},
+           familyi={M\bibinitperiod},
+           given={MRO},
+           giveni={M\bibinitperiod}}}%
+        {{hash=be32971ea1ae38e99189de1cc936baa4}{%
+           family={Dios},
+           familyi={D\bibinitperiod},
+           given={JL},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=28a6806f7cd16d5cbb6acbd8e1bca3fa}{%
+           family={Arocena\bibnamedelima Jr},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={AC},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7fdda4761f6a102218e5983558395261}{%
+           family={Mirandilla},
+           familyi={M\bibinitperiod},
+           given={JRF},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2756d929ae9e3913925ce667054687c2}{%
+           family={Mabalot},
+           familyi={M\bibinitperiod},
+           given={PA},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fb46e768222d1f0d09649a80b480de24}{%
+           family={Barroga},
+           familyi={B\bibinitperiod},
+           given={MI},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4fc5ef42ee40850623e78ac754e89b81}{%
+           family={Dollontas},
+           familyi={D\bibinitperiod},
+           given={RT},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4e30075482aea0e7d69f836dda3ba821}{%
+           family={Peralta},
+           familyi={P\bibinitperiod},
+           given={GC},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=796f732cd29f3a7fdef41acf613df699}{%
+           family={Mesa},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=65f18991158ec5c52efc1a07ae18badb}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={BT},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2b3aa4d96e328b131333b81aa468ba2d}{%
+           family={Balleras},
+           familyi={B\bibinitperiod},
+           given={GD},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cbd4478a6e12af5d6bdec2948f71bb5f}{%
+           family={Detoito},
+           familyi={D\bibinitperiod},
+           given={NB},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d79982c1774bf1e831f547b98a950a0d}{%
+           family={Arida},
+           familyi={A\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8e8161b57983a8af28ddfaf82834c1c2}{%
+           family={Donayre},
+           familyi={D\bibinitperiod},
+           given={DKM},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4c3b2f6194255ad3ca6039101984d56a}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={EC},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d2e44294c562e81c195fa7496abfc5a5}{%
+           family={Estoy},
+           familyi={E\bibinitperiod},
+           given={GF},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9eef7d7800534ba66f0d332cb98c011c}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fdf969493c1eb310bd9dd0410b6c670c}{%
+           family={Sparks},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0c64e80aa86e279d68c17c5e67f6422c}{%
+           family={Raviz},
+           familyi={R\bibinitperiod},
+           given={JV},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dbd7c2964d7e17ce4cdca5cc4f6f970a}{%
+           family={Laborte},
+           familyi={L\bibinitperiod},
+           given={AG},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b83db6ece4c53cec941349bf964de640}{%
+           family={Setiyono},
+           familyi={S\bibinitperiod},
+           given={TO},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f66ccf4c6d5689d5d08b8919ccf9c3e2}{%
+           family={Maunahan},
+           familyi={M\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34efc466f4bbaa8ae83d80936183fc96}{%
+           family={Rala},
+           familyi={R\bibinitperiod},
+           given={AB},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a2ad1b0a7a78288e4354791ce54324c}{%
+           family={Villa},
+           familyi={V\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6654ef1f19816d4d6c22bb25c0d3e874}{%
+           family={Castilla},
+           familyi={C\bibinitperiod},
+           given={NP},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f371689a775cfb996c0bd51344d1a8b4}{%
+           family={Bhatti},
+           familyi={B\bibinitperiod},
+           given={ZM},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4f4ac9eae83633adb7d0fac3b788f211}{%
+           family={Maco},
+           familyi={M\bibinitperiod},
+           given={DD},
+           giveni={D\bibinitperiod}}}%
+        {{hash=329e5e500d8107ead3b5f8a59681546f}{%
+           family={Bayot},
+           familyi={B\bibinitperiod},
+           given={RS},
+           giveni={R\bibinitperiod}}}%
+        {{hash=04162dbf4d6e866e40736652d035fcdc}{%
+           family={Barbierri},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{fullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authornamehash}{2cd400955f2a10441616c8fdf432a9b8}
+      \strng{authorfullhash}{2cd400955f2a10441616c8fdf432a9b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philippine Journal of Crop Science (Philippines)}
+      \field{title}{Philippine Rice Information System (PRISM): innovating the rice field data capture and monitoring using smartphone}
+      \field{year}{2015}
     \endentry
     \entry{Raitzer_2015}{report}{}
       \name{author}{8}{}{%
