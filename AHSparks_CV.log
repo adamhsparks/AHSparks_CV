@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  19 AUG 2017 20:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.6.5)  21 AUG 2017 12:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1094,7 +1094,7 @@ Package biblatex Info: Setting label 'refsection:2' on input line 32.
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-[3]
+[3] [4]
 Package biblatex Info: Reference section=0 on input line 35.
 \blx@maxsegment@3=\count395
 \blx@sectionciteorder@3=\count396
@@ -1104,13 +1104,11 @@ Package biblatex Info: Setting label 'refsection:3' on input line 36.
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
-[4]
 Package biblatex Info: Reference section=0 on input line 39.
 \blx@maxsegment@4=\count397
 \blx@sectionciteorder@4=\count398
 Package biblatex Info: Reference section=4 on input line 40.
 Package biblatex Info: Setting label 'refsection:4' on input line 40.
-
 
 Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
 
@@ -1166,12 +1164,12 @@ Package logreq Info: Writing requests to 'AHSparks_CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31696 strings out of 494511
- 595259 string characters out of 6166321
- 1199623 words of memory out of 5000000
- 35271 multiletter control sequences out of 15000+600000
+ 31702 strings out of 494511
+ 595454 string characters out of 6166321
+ 1203792 words of memory out of 5000000
+ 35277 multiletter control sequences out of 15000+600000
  534383 words of font info for 91 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  51i,12n,79p,10397b,4856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AHSparks_CV.xdv (8 pages, 186928 bytes).
+Output written on AHSparks_CV.xdv (8 pages, 189060 bytes).
