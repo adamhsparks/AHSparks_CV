@@ -1,28 +1,44 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'AHSparks_2_Page_CV.blg'
-[40] biber-darwin:303> INFO - === Sun Aug  6, 2017, 21:54:38
-[60] Biber.pm:359> INFO - Reading 'AHSparks_2_Page_CV.bcf'
-[148] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[148] Biber.pm:832> INFO - Using all citekeys in bib section 1
-[149] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[149] Biber.pm:832> INFO - Using all citekeys in bib section 2
-[149] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[175] Biber.pm:3670> INFO - Processing section 1
-[189] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
-[192] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[197] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
-[219] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
-[245] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[245] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[245] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[246] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[260] Biber.pm:3670> INFO - Processing section 2
-[260] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 2
-[277] Utils.pm:164> WARN - month field 'apr' in entry 'AHSparks2017a' is not an integer - this will probably not sort properly.
-[301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[301] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[301] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[315] bbl.pm:608> INFO - Writing 'AHSparks_2_Page_CV.bbl' with encoding 'UTF-8'
-[320] bbl.pm:712> INFO - Output to AHSparks_2_Page_CV.bbl
-[320] Biber.pm:109> INFO - WARNINGS: 2
+[42] biber-darwin:303> INFO - === Wed Aug 23, 2017, 09:36:21
+[85] Biber.pm:359> INFO - Reading 'AHSparks_2_Page_CV.bcf'
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[178] Biber.pm:832> INFO - Using all citekeys in bib section 1
+[178] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[178] Biber.pm:832> INFO - Using all citekeys in bib section 2
+[179] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[205] Biber.pm:3670> INFO - Processing section 1
+[224] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 1
+[437] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[445] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography_2_Page_CV.bib'
+[489] Utils.pm:164> WARN - month field 'dec' in entry 'Gaudin_2012' is not an integer - this will probably not sort properly.
+[546] Utils.pm:164> WARN - month field 'mar' in entry 'Savary2017' is not an integer - this will probably not sort properly.
+[549] Utils.pm:164> WARN - month field 'aug' in entry 'Laborte2015' is not an integer - this will probably not sort properly.
+[554] Utils.pm:164> WARN - month field 'mar' in entry 'Barnwal_2013' is not an integer - this will probably not sort properly.
+[561] Utils.pm:164> WARN - month field 'may' in entry 'Dossa2015' is not an integer - this will probably not sort properly.
+[562] Utils.pm:164> WARN - month field 'may' in entry 'Sparks2014' is not an integer - this will probably not sort properly.
+[595] Utils.pm:164> WARN - month field 'feb' in entry 'Sparks2017' is not an integer - this will probably not sort properly.
+[599] Utils.pm:164> WARN - month field 'apr' in entry 'H_Sparks_2017' is not an integer - this will probably not sort properly.
+[603] Utils.pm:164> WARN - month field 'jan' in entry 'Duku_2016' is not an integer - this will probably not sort properly.
+[665] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[665] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[665] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[666] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[699] Biber.pm:3670> INFO - Processing section 2
+[699] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography_2_Page_CV.bib' for section 2
+[715] Utils.pm:164> WARN - month field 'dec' in entry 'Gaudin_2012' is not an integer - this will probably not sort properly.
+[728] Utils.pm:164> WARN - month field 'mar' in entry 'Savary2017' is not an integer - this will probably not sort properly.
+[731] Utils.pm:164> WARN - month field 'aug' in entry 'Laborte2015' is not an integer - this will probably not sort properly.
+[739] Utils.pm:164> WARN - month field 'mar' in entry 'Barnwal_2013' is not an integer - this will probably not sort properly.
+[749] Utils.pm:164> WARN - month field 'may' in entry 'Dossa2015' is not an integer - this will probably not sort properly.
+[753] Utils.pm:164> WARN - month field 'may' in entry 'Sparks2014' is not an integer - this will probably not sort properly.
+[759] Utils.pm:164> WARN - month field 'feb' in entry 'Sparks2017' is not an integer - this will probably not sort properly.
+[761] Utils.pm:164> WARN - month field 'apr' in entry 'H_Sparks_2017' is not an integer - this will probably not sort properly.
+[763] Utils.pm:164> WARN - month field 'jan' in entry 'Duku_2016' is not an integer - this will probably not sort properly.
+[989] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[989] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[989] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[990] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1039] bbl.pm:608> INFO - Writing 'AHSparks_2_Page_CV.bbl' with encoding 'UTF-8'
+[1053] bbl.pm:712> INFO - Output to AHSparks_2_Page_CV.bbl
+[1053] Biber.pm:109> INFO - WARNINGS: 18
