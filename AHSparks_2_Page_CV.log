@@ -1217,4 +1217,812 @@ Package biblatex Info: Reference segment=0 on input line 21.
 * driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
-* layoutoffset:(h,v)=
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(173.56198pt, 398.0539pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 666.9326pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=398.0539pt
+* \textheight=666.9326pt
+* \oddsidemargin=101.29199pt
+* \evensidemargin=101.29199pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=9.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box45
+Package hyperref Info: Link coloring OFF on input line 21.
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count397
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (./AHSparks_2_Page_CV.out) (./AHSparks_2_Page_CV.out)
+\@outlinefile=\write5
+
+\openout5 = AHSparks_2_Page_CV.out
+ (./Aside_Work_Experience.tex
+luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
+./Aside_Work_Experience.tex:5: Font \TU/HelveticaNeueBold(0)/m/n/14.4=HelveticaNeueBold:mode=node; at 14.4pt not loadable: metric data not found or bad.
+<to be read again> 
+relax 
+l.5 \small{\section{contact}
+                          }
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.00015pt on input line 36.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0001pt on input line 36.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 36.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.99985pt on input line 36.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.9999pt on input line 36.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 36.
+luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
+./Aside_Work_Experience.tex:40: Font \TU/HelveticaNeueBold(0)/m/n/10=HelveticaNeueBold:mode=node; at 10pt not loadable: metric data not found or bad.
+<to be read again> 
+relax 
+l.40     {Toowoomba, Queensland, AUS}
+                                   
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 50
+Inserting `luaotfload.color_handler' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.color_handler' at position 2 in `hpack_filter'.
+Inserting `luaotfload.color_handler' at position 1 in `mlist_to_hlist'.
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+Underfull \hbox (badness 10000) in paragraph at lines 36--70
+
+ []
+
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+
+LaTeX Font Warning: Font shape `TU/AvenirBook(0)/m/it' undefined
+(Font)              using `TU/AvenirBook(0)/m/n' instead on input line 79.
+
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50)
+Underfull \hbox (badness 10000) in paragraph at lines 71--24
+
+ []
+
+[1
+
+{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no x (U+0078) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no U (U+0055) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no Q (U+0051) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no R (U+0052) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no R (U+0052) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no R (U+0052) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no R (U+0052) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no K (U+004B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no U (U+0055) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no U (U+0055) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no N (U+004E) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no - (U+002D) in font nullfont!
+Missing character: There is no L (U+004C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no U (U+0055) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no N (U+004E) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no - (U+002D) in font nullfont!
+Missing character: There is no L (U+004C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no U (U+0055) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no U (U+0055) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no D (U+0044) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no D (U+0044) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no : (U+003A) in font nullfont!
+Missing character: There is no P (U+0050) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no G (U+0047) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no B (U+0042) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+]
+\blx@maxsegment@1=\count398
+\blx@sectionciteorder@1=\count399
+Package biblatex Info: Reference section=1 on input line 29.
+Package biblatex Info: Setting label 'refsection:1' on input line 29.
+
+
+Package biblatex Warning: sorting option to \printbibliography is no longer supported, use 'sorting' option to \newrefcontext.
+
+luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
+./AHSparks_2_Page_CV.tex:29: Font \TU/HelveticaNeueBold(0)/m/n/12=HelveticaNeueBold:mode=node; at 12pt not loadable: metric data not found or bad.
+<to be read again> 
+relax 
+l.29 \printbibsection{article}{previous five years}
+                                                 
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 50 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 50
+
+LaTeX Font Warning: Font shape `TU/AvenirBook(21)/m/it' undefined
+(Font)              using `TU/AvenirBook(21)/m/n' instead on input line 29.
+
+(load luc: /usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.00012pt on input line 29.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 29.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.99988pt on input line 29.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 29.
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script  with language 
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 53 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 53
+luaotfload | aux : font no 50 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 50 [2
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no v (U+0076) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no y (U+0079) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+]
+Package biblatex Info: Reference section=0 on input line 29.
+\blx@maxsegment@2=\count400
+\blx@sectionciteorder@2=\count401
+Package biblatex Info: Reference section=2 on input line 30.
+Package biblatex Info: Setting label 'refsection:2' on input line 30.
+Package biblatex Info: Reference section=0 on input line 32.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+ (./AHSparks_2_Page_CV.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package rerunfilecheck Info: File `AHSparks_2_Page_CV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'AHSparks_2_Page_CV.run.xml'.
+
+\openout1 = AHSparks_2_Page_CV.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 29894 strings out of 494481
+ 125171,1144653 words of node,token memory allocated
+ 488 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 9 attribute, 60 glue_spec, 9 attribute_list, 2 write, 4 pdf_action nodes
+   avail lists: 1:2,2:1545,3:230,4:84,5:215,6:2969,7:971,8:46,9:208,10:7,11:164
+ 32068 multiletter control sequences out of 65536+600000
+ 65 fonts using 20551227 bytes
+ 55i,11n,91p,1579b,1173s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf></usr/local/texlive/2017basic/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Avenir.ttc>
+Output written on AHSparks_2_Page_CV.pdf (2 pages, 40432 bytes).
+
+PDF statistics: 78 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

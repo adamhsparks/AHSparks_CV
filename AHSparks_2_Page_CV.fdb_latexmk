@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber AHSparks_2_Page_CV"] 1503444972 "AHSparks_2_Page_CV.bcf" "AHSparks_2_Page_CV.bbl" "AHSparks_2_Page_CV" 1503445006
-  "AHSparks_2_Page_CV.bcf" 1503445005 96279 9aaf18ed9bb28758db82880eaaeaf621 ""
-  "bibliography_2_Page_CV.bib" 1503444945 13592 4a307778dd4d0e445c990248c912eddb ""
+["biber AHSparks_2_Page_CV"] 1503447131 "AHSparks_2_Page_CV.bcf" "AHSparks_2_Page_CV.bbl" "AHSparks_2_Page_CV" 1503447395
+  "AHSparks_2_Page_CV.bcf" 1503447166 96300 8f3621514bef15eecf8a25b43deab42c ""
+  "bibliography_2_Page_CV.bib" 0 -1 0 ""
   (generated)
   "AHSparks_2_Page_CV.blg"
   "AHSparks_2_Page_CV.bbl"
-["lualatex"] 1503444999 "AHSparks_2_Page_CV.tex" "AHSparks_2_Page_CV.pdf" "AHSparks_2_Page_CV" 1503445006
+["lualatex"] 1503447131 "AHSparks_2_Page_CV.tex" "AHSparks_2_Page_CV.pdf" "AHSparks_2_Page_CV" 1503447395
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -140,17 +140,17 @@
   "/usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1500509980 136753 98d9d3077ae36850305c898bc1e74e1b ""
   "/usr/local/texlive/2017basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1500509979 134935 9fcacec9a83bda737194b277dcc747b0 ""
   "/usr/local/texlive/2017basic/texmf-var/web2c/luatex/lualatex.fmt" 1496619386 1296882 24e61cb0ae9e34f885733bc687524830 ""
-  "AHSparks_2_Page_CV.aux" 1503445005 2095 7082ba7508033e66be998628e171ec4c ""
+  "AHSparks_2_Page_CV.aux" 1503447166 2095 7082ba7508033e66be998628e171ec4c ""
   "AHSparks_2_Page_CV.bbl" 1503444982 91790 d4f2f4a115b9a1f7bc2fe7acc0292645 "biber AHSparks_2_Page_CV"
-  "AHSparks_2_Page_CV.out" 1503445003 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "AHSparks_2_Page_CV.run.xml" 1503445005 2450 0c9278de52d4dff3b088980105ebeb2c ""
-  "AHSparks_2_Page_CV.tex" 1503444959 637 96817532ee5507fa413555f8f71bb217 ""
+  "AHSparks_2_Page_CV.out" 1503447160 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "AHSparks_2_Page_CV.run.xml" 1503447166 2457 6029d9549a81ea02ebe96908539c97b6 ""
+  "AHSparks_2_Page_CV.tex" 1503447001 644 3534c3b221ac18bc54713f85e54d69cd ""
   "Aside_Work_Experience.tex" 1503282081 3400 c18656150fb918baccedde794c67fe63 ""
   "friggeri-cv.cls" 1503282081 6036 cc32e3bd219b1816d2a428d87dcd6954 ""
   (generated)
-  "AHSparks_2_Page_CV.bcf"
-  "AHSparks_2_Page_CV.run.xml"
-  "AHSparks_2_Page_CV.aux"
   "AHSparks_2_Page_CV.pdf"
-  "AHSparks_2_Page_CV.log"
   "AHSparks_2_Page_CV.out"
+  "AHSparks_2_Page_CV.run.xml"
+  "AHSparks_2_Page_CV.bcf"
+  "AHSparks_2_Page_CV.log"
+  "AHSparks_2_Page_CV.aux"
