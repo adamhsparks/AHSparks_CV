@@ -80,7 +80,7 @@
       <file>AHSparks_2_Page_CV.bcf</file>
     </requires>
     <requires type="editable">
-      <file>bibliography_2_Page_CV.bib</file>
+      <file>Sparks_bibliography_2_Page_CV.bib</file>
     </requires>
   </external>
 </requests>
