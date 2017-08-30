@@ -66,10 +66,10 @@
            familyi={A\bibinitperiod},
            given={C.},
            giveni={C\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=083a36fa15f0c67163ee374dc71ffc57}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M.},
            giveni={M\bibinitperiod}}}%
         {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
            family={Rossi},
@@ -96,10 +96,10 @@
            familyi={E\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+        {{hash=2496d475f01a6d4e071715257272294c}{%
            family={McRoberts},
            familyi={M\bibinitperiod},
-           given={Neil},
+           given={N.},
            giveni={N\bibinitperiod}}}%
         {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
            family={Avelino},
@@ -125,10 +125,10 @@
       \list{publisher}{1}{%
         {Springer Nature}%
       }
-      \strng{namehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{fullhash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authornamehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authorfullhash}{24820b2602753ff213d5a242a0c7c3e5}
+      \strng{namehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{fullhash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authornamehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authorfullhash}{22b2d5da2189987727ce290d90035ddb}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -1111,10 +1111,10 @@
            familyi={A\bibinitperiod},
            given={C.},
            giveni={C\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=083a36fa15f0c67163ee374dc71ffc57}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M.},
            giveni={M\bibinitperiod}}}%
         {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
            family={Rossi},
@@ -1141,10 +1141,10 @@
            familyi={E\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+        {{hash=2496d475f01a6d4e071715257272294c}{%
            family={McRoberts},
            familyi={M\bibinitperiod},
-           given={Neil},
+           given={N.},
            giveni={N\bibinitperiod}}}%
         {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
            family={Avelino},
@@ -1170,10 +1170,10 @@
       \list{publisher}{1}{%
         {Springer Nature}%
       }
-      \strng{namehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{fullhash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authornamehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authorfullhash}{24820b2602753ff213d5a242a0c7c3e5}
+      \strng{namehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{fullhash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authornamehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authorfullhash}{22b2d5da2189987727ce290d90035ddb}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}

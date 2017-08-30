@@ -260,10 +260,10 @@
            familyi={A\bibinitperiod},
            given={C.},
            giveni={C\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=083a36fa15f0c67163ee374dc71ffc57}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M.},
            giveni={M\bibinitperiod}}}%
         {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
            family={Rossi},
@@ -290,10 +290,10 @@
            familyi={E\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+        {{hash=2496d475f01a6d4e071715257272294c}{%
            family={McRoberts},
            familyi={M\bibinitperiod},
-           given={Neil},
+           given={N.},
            giveni={N\bibinitperiod}}}%
         {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
            family={Avelino},
@@ -319,10 +319,10 @@
       \list{publisher}{1}{%
         {Springer Nature}%
       }
-      \strng{namehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{fullhash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authornamehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authorfullhash}{24820b2602753ff213d5a242a0c7c3e5}
+      \strng{namehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{fullhash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authornamehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authorfullhash}{22b2d5da2189987727ce290d90035ddb}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -414,42 +414,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.21105%2Fjoss.00177
-      \endverb
-    \endentry
-    \entry{bomrang_2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=e1626f8e6cdf55adbd54d765267eae6c}{%
-           family={Parsonage},
-           familyi={P\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=fe7397f57d89d8a7883bc435a87b62b5}{%
-           family={Pembleton},
-           familyi={P\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{fullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authornamehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authorfullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{R package version 0.0.5}
-      \field{title}{{bomrang}: Fetch Australian Government Bureau of Meteorology Weather Data}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.5281/zenodo.598301
-      \endverb
-      \verb{url}
-      \verb https://github.com/ToowoombaTrio/bomrang
       \endverb
     \endentry
     \entry{Duku_2016}{article}{}
@@ -2880,10 +2844,10 @@
            familyi={A\bibinitperiod},
            given={C.},
            giveni={C\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=083a36fa15f0c67163ee374dc71ffc57}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M.},
            giveni={M\bibinitperiod}}}%
         {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
            family={Rossi},
@@ -2910,10 +2874,10 @@
            familyi={E\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+        {{hash=2496d475f01a6d4e071715257272294c}{%
            family={McRoberts},
            familyi={M\bibinitperiod},
-           given={Neil},
+           given={N.},
            giveni={N\bibinitperiod}}}%
         {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
            family={Avelino},
@@ -2939,10 +2903,10 @@
       \list{publisher}{1}{%
         {Springer Nature}%
       }
-      \strng{namehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{fullhash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authornamehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authorfullhash}{24820b2602753ff213d5a242a0c7c3e5}
+      \strng{namehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{fullhash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authornamehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authorfullhash}{22b2d5da2189987727ce290d90035ddb}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -3034,42 +2998,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.21105%2Fjoss.00177
-      \endverb
-    \endentry
-    \entry{bomrang_2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=e1626f8e6cdf55adbd54d765267eae6c}{%
-           family={Parsonage},
-           familyi={P\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=fe7397f57d89d8a7883bc435a87b62b5}{%
-           family={Pembleton},
-           familyi={P\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{fullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authornamehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authorfullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{R package version 0.0.5}
-      \field{title}{{bomrang}: Fetch Australian Government Bureau of Meteorology Weather Data}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.5281/zenodo.598301
-      \endverb
-      \verb{url}
-      \verb https://github.com/ToowoombaTrio/bomrang
       \endverb
     \endentry
     \entry{Duku_2016}{article}{}
@@ -5500,10 +5428,10 @@
            familyi={A\bibinitperiod},
            given={C.},
            giveni={C\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=083a36fa15f0c67163ee374dc71ffc57}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M.},
            giveni={M\bibinitperiod}}}%
         {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
            family={Rossi},
@@ -5530,10 +5458,10 @@
            familyi={E\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+        {{hash=2496d475f01a6d4e071715257272294c}{%
            family={McRoberts},
            familyi={M\bibinitperiod},
-           given={Neil},
+           given={N.},
            giveni={N\bibinitperiod}}}%
         {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
            family={Avelino},
@@ -5559,10 +5487,10 @@
       \list{publisher}{1}{%
         {Springer Nature}%
       }
-      \strng{namehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{fullhash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authornamehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authorfullhash}{24820b2602753ff213d5a242a0c7c3e5}
+      \strng{namehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{fullhash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authornamehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authorfullhash}{22b2d5da2189987727ce290d90035ddb}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -5654,42 +5582,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.21105%2Fjoss.00177
-      \endverb
-    \endentry
-    \entry{bomrang_2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=e1626f8e6cdf55adbd54d765267eae6c}{%
-           family={Parsonage},
-           familyi={P\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=fe7397f57d89d8a7883bc435a87b62b5}{%
-           family={Pembleton},
-           familyi={P\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{fullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authornamehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authorfullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{R package version 0.0.5}
-      \field{title}{{bomrang}: Fetch Australian Government Bureau of Meteorology Weather Data}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.5281/zenodo.598301
-      \endverb
-      \verb{url}
-      \verb https://github.com/ToowoombaTrio/bomrang
       \endverb
     \endentry
     \entry{Duku_2016}{article}{}
@@ -8120,10 +8012,10 @@
            familyi={A\bibinitperiod},
            given={C.},
            giveni={C\bibinitperiod}}}%
-        {{hash=3bf726b2f6f6d3a4869c3a75c3387dda}{%
+        {{hash=083a36fa15f0c67163ee374dc71ffc57}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={Mamta},
+           given={M.},
            giveni={M\bibinitperiod}}}%
         {{hash=b67b3bb64f2b596ab88174d609ea97cf}{%
            family={Rossi},
@@ -8150,10 +8042,10 @@
            familyi={E\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=d24fbdba1239108bb6a300b764fdcc6e}{%
+        {{hash=2496d475f01a6d4e071715257272294c}{%
            family={McRoberts},
            familyi={M\bibinitperiod},
-           given={Neil},
+           given={N.},
            giveni={N\bibinitperiod}}}%
         {{hash=b56784dde65a5d1801c5a8d924bdc0cb}{%
            family={Avelino},
@@ -8179,10 +8071,10 @@
       \list{publisher}{1}{%
         {Springer Nature}%
       }
-      \strng{namehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{fullhash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authornamehash}{24820b2602753ff213d5a242a0c7c3e5}
-      \strng{authorfullhash}{24820b2602753ff213d5a242a0c7c3e5}
+      \strng{namehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{fullhash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authornamehash}{22b2d5da2189987727ce290d90035ddb}
+      \strng{authorfullhash}{22b2d5da2189987727ce290d90035ddb}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
@@ -8274,42 +8166,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.21105%2Fjoss.00177
-      \endverb
-    \endentry
-    \entry{bomrang_2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=afdf7a1f02edde8473693b9cd2eb2cd0}{%
-           family={Sparks},
-           familyi={S\bibinitperiod},
-           given={A.\bibnamedelimi H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=e1626f8e6cdf55adbd54d765267eae6c}{%
-           family={Parsonage},
-           familyi={P\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=fe7397f57d89d8a7883bc435a87b62b5}{%
-           family={Pembleton},
-           familyi={P\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{fullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authornamehash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \strng{authorfullhash}{6deae94903fdd070c79ebae5dd8e76dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{R package version 0.0.5}
-      \field{title}{{bomrang}: Fetch Australian Government Bureau of Meteorology Weather Data}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.5281/zenodo.598301
-      \endverb
-      \verb{url}
-      \verb https://github.com/ToowoombaTrio/bomrang
       \endverb
     \endentry
     \entry{Duku_2016}{article}{}

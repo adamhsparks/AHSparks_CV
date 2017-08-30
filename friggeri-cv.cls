@@ -42,7 +42,7 @@
 \RequirePackage[math-style=TeX]{unicode-math}
 
 \newfontfamily\bodyfont[]{Helvetica Neue}
-\newfontfamily\thinfont[]{Helvetica Neue Ultra Light}
+\newfontfamily\thinfont[]{Helvetica Neue UltraLight}
 \newfontfamily\headingfont[]{Helvetica Neue Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
