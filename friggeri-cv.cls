@@ -41,12 +41,12 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX]{unicode-math}
 
-\newfontfamily\bodyfont[]{Helvetica Neue}
-\newfontfamily\thinfont[]{Helvetica Neue UltraLight}
-\newfontfamily\headingfont[]{Helvetica Neue Bold}
+\newfontfamily\bodyfont[]{Avenir Next}
+\newfontfamily\thinfont[]{Avenir Next Ultra Light}
+\newfontfamily\headingfont[]{Avenir Next Condensed Demi Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{Avenir Book}
+\setmainfont[Mapping=tex-text, Color=textcolor]{Avenir Next}
 
 %\setmathfont{XITS Math}
 
