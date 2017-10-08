@@ -1,6 +1,8 @@
  [![PDF](https://img.shields.io/badge/Download%20Full%20CV-PDF-brightgreen.svg)](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf)
  [![PDF](https://img.shields.io/badge/Download%202--Page%20CV-PDF-yellowgreen.svg)](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_2_Page_CV.pdf)
 
+This repository holds my CV which is based on a modified [Frigerri CV](http://www.latextemplates.com/template/friggeri-resume-cv). I have removed the coloured headings, removed the background panel block at the top, added [Fontawesome](http://fontawesome.io) and [Academicons](http://jpswalsh.github.io/academicons/) to my version and changed the font to Avenir.
+
 # Adam H Sparks
 ## contact
 

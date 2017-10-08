@@ -22,6 +22,7 @@
 
 \definecolor{google.plus}{HTML}{CF3E2C}
 \definecolor{twitter.blue}{rgb}{0,172,237}
+\definecolor{orcid.green}{HTML}{A6CE39}
 \definecolor{skype}{HTML}{12A5F4}
 \definecolor{linkedin}{HTML}{0077B5}
 
@@ -51,7 +52,10 @@
 %\setmathfont{XITS Math}
 
 \RequirePackage{fontawesome}
+\RequirePackage{academicons}
 \RequirePackage[utf8]{inputenc}
+
+
 
 %%%%%%%%%%
 % Header %
