@@ -231,3 +231,4 @@ TSWLatexianTemp*
 *-tags.tex
 
 # End of https://www.gitignore.io/api/latex
+.Rproj.user

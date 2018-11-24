@@ -50,7 +50,7 @@
 \setmainfont[Mapping=tex-text, Color=textcolor]{Avenir Next}
 
 %\setmathfont{XITS Math}
-
+\defaultfontfeatures{Extension = .otf}
 \RequirePackage{fontawesome}
 \RequirePackage{academicons}
 \RequirePackage[utf8]{inputenc}
