@@ -258,15 +258,8 @@
   }
 
 \newcommand{\printbibsection}[2]{
-  \begin{refcontext}[sorting=ynt]
     \nocite{*}
       \printbibliography[type={#1}, title={#2}, heading=subbibliography]
-  \end{refcontext}
-}
-
-\DeclareSortingScheme{chronological}{
-  \sort[direction=descending]{\field{year}}
-  \sort[direction=descending]{\field{month}}
 }
 
 %%%%%%%%%%%%%%%%
