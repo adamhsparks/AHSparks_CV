@@ -120,8 +120,7 @@
 % Bibliography %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
-
+\RequirePackage[style=verbose, maxnames=99]{biblatex}
 \DeclareFieldFormat[article]{title}{#1\par}
 \DeclareFieldFormat[book]{title}{#1\par}
 \DeclareFieldFormat[inproceedings]{title}{#1\par}
@@ -259,10 +258,10 @@
   }
 
 \newcommand{\printbibsection}[2]{
-  \begin{refsection}
+  \begin{refcontext}[sorting=ynt]
     \nocite{*}
-    \printbibliography[sorting=chronological, type={#1}, title={#2}, heading=subbibliography]
-  \end{refsection}
+      \printbibliography[type={#1}, title={#2}, heading=subbibliography]
+  \end{refcontext}
 }
 
 \DeclareSortingScheme{chronological}{
