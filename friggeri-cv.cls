@@ -42,12 +42,12 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX]{unicode-math}
 
-\newfontfamily\bodyfont[]{Avenir Next}
-\newfontfamily\thinfont[]{Avenir Next Ultra Light}
-\newfontfamily\headingfont[]{Avenir Next Condensed Demi Bold}
+\newfontfamily\bodyfont[]{Nunito}
+\newfontfamily\thinfont[]{Nunito Light}
+\newfontfamily\headingfont[]{Nunito Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{Avenir Next}
+\setmainfont[Mapping=tex-text, Color=textcolor]{Nunito}
 
 %\setmathfont{XITS Math}
 \defaultfontfeatures{Extension = .otf}
