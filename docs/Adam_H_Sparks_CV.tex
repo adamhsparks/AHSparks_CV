@@ -1,0 +1,435 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+%
+% Adapted to be an Rmarkdown template by Mitchell O'Hara-Wild
+% 23 November 2018
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+
+\definecolor{awesome}{HTML}{414141}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\def\endfirstpage{\newpage}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+
+\name{Adam H.}{Sparks}
+
+\position{Associate Professor}
+\address{University of Southern Queensland, Centre for Crop Health, West St., Toowoomba, Queensland 4350 AUS}
+
+\mobile{+61 (4) 15489422}
+\email{\href{mailto:adamhsparks@adamhsparks.com}{\nolinkurl{adamhsparks@adamhsparks.com}}}
+\homepage{adamhsparks.com}
+\orcid{0000-0002-0061-8359}
+\github{adamhsparks}
+\twitter{adamhsparks}
+
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \skype{skype-id}
+% \reddit{reddit-id}
+
+\quote{I have demonstrated consistent success both in non-profit international NGO and academic settings and have an extensive background of experiences in working with diverse partners.}
+
+\usepackage{booktabs}
+
+% Templates for detailed entries
+% Arguments: what when with where why
+\usepackage{etoolbox}
+\def\detaileditem#1#2#3#4#5{%
+\cventry{#1}{#3}{#4}{#2}{\ifx#5\empty\else{\begin{cvitems}#5\end{cvitems}}\fi}\ifx#5\empty{\vspace{-4.0mm}}\else\fi}
+\def\detailedsection#1{\begin{cventries}#1\end{cventries}}
+
+% Templates for brief entries
+% Arguments: what when with
+\def\briefitem#1#2#3{\cvhonor{}{#1}{#3}{#2}}
+\def\briefsection#1{\begin{cvhonors}#1\end{cvhonors}}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%------------------------------------------------------------------------------
+
+
+
+
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+% 2019-02-14 Chris Umphlett - add flexibility to the document name in footer, rather than have it be static Curriculum Vitae
+\makecvfooter
+  {January 24, 2020}
+    {Adam H. Sparks~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%------------------------------------------------------------------------------
+
+
+
+\hypertarget{employment-history}{%
+\section{Employment History}\label{employment-history}}
+
+\detailedsection{\detaileditem{Associate Professor of Field Crops Pathology}{2016 – Current}{University of Southern Queensland}{Toowoomba, Queensland, AUS}{\item{Lead research team investigating diseases of summer crops in Australia and developing plant disease models}}\detaileditem{Scientist I}{2012 – 2015}{International Rice Research Institute (IRRI)}{Los Baños, Laguna, PHL}{\item{Conducted cross-disciplinary research and led a team of researchers to develop new methods for managing diseases of rice in Asia and Africa}}\detaileditem{Post-Doctoral Fellow}{2011 – 2012}{International Rice Research Institute (IRRI)}{Los Baños, Laguna, PHL}{\item{Conducted research on linking plant disease models to GIS frameworks}}\detaileditem{Post-Doctoral Research Associate}{2010 – 2010}{Kansas State University}{Manhattan, Kansas, USA}{\item{Conducted research on modelling Fusarium head blight in wheat and barley}}\detaileditem{Research Technologist}{2002 – 2004}{University of Nebraska – Lincoln}{Lincoln, Nebraska, USA}{\empty}\detaileditem{Research Technician}{2000 – 2003}{University of Nebraska – Lincoln}{Clay Center, Nebraska, USA}{\empty}\detaileditem{Assistant Director}{1999 – 2000}{Purdue University}{West Lafayette, Indiana, USA}{\empty}\detaileditem{Research Technician}{1997 – 1999}{Purdue University}{West Lafayette, Indiana, USA}{\empty}}
+
+\hypertarget{education-and-qualifications}{%
+\section{Education and Qualifications}\label{education-and-qualifications}}
+
+\detailedsection{\detaileditem{Ph.D. in Plant Pathology}{Dec. 2009}{Kansas State University}{Manhattan, KS, USA}{\item{Dissertation Title: ``Disease risk mapping with metamodels for coarse resolution predictors: global potato late blight risk now and under future climate conditions.''}\item{Committee members: Drs. Karen A. Garrett (adviser), James P. Stack, Erick DeWolf and J. M. Shawn Hutchinson.}}\detaileditem{Graduate Certificate in Geographic Information Sciences}{Dec. 2007}{Kansas State University}{Manhattan, KS, USA}{\empty}\detaileditem{B.S. in Agronomy}{May 2000}{Purdue University}{West Lafayette, IN, USA}{\empty}}
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\hypertarget{selected-publications}{%
+\subsection{Selected Publications}\label{selected-publications}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+\hypertarget{refs_articles}{}
+\leavevmode\hypertarget{ref-cucak2019evaluation}{}%
+Čučak, M., \textbf{Sparks, A.}, M., d. R., Kildea, S., Lambkin, K., \& Fealy, R. (2019). Evaluation of the 'Irish Rules': The potato late blight forecasting model and its operational use in the Republic of Ireland. \emph{Agronomy}, \emph{9}(9), 515. \url{https://doi.org/10.3390/agronomy9090515}
+
+\leavevmode\hypertarget{ref-doi:10.1080ux2f13547860.2018.1503765}{}%
+Pede, V. O., Barboza, G., \textbf{Sparks, A.}, \& McKinley, J. (2018). The inequality-growth link revisited with spatial considerations: The case of provinces in the Philippines. \emph{Journal of the Asia Pacific Economy}, \emph{23}(3), 411--427. \url{https://doi.org/10.1080/13547860.2018.1503765}
+
+\leavevmode\hypertarget{ref-Savary2018}{}%
+Savary, S., Nelson, A. D., Djurle, A., Esker, P. D., \textbf{Sparks, A.}, Amorim, L., \ldots{} Willocquet, L. (2018). Concepts, approaches, and avenues for modelling crop health and crop losses. \emph{European Journal of Agronomy}, \emph{100}, 4--18. \url{https://doi.org/10.1016/j.eja.2018.04.003}
+
+\leavevmode\hypertarget{ref-Savary2017}{}%
+Savary, S., Bregaglio, S., Willocquet, L., Gustafson, D., D'Croz, D. M., \textbf{Sparks, A.}, \ldots{} Garrett, K. (2017). Crop health and its global impacts on the components of food security. \emph{Food Security}, \emph{9}(2), 311--327. \url{https://doi.org/10.1007/s12571-017-0659-1}
+
+\leavevmode\hypertarget{ref-Duku2016}{}%
+Duku, C., \textbf{Sparks, A.}, \& Zwart, S. J. (2016). Spatial modelling of rice yield losses in Tanzania due to bacterial leaf blight and leaf blast in a changing climate. \emph{Climatic Change}, \emph{135}(3-4), 569--583. \url{https://doi.org/10.1007/s10584-015-1580-2}
+
+\leavevmode\hypertarget{ref-Dossa2015}{}%
+Dossa, G. S., \textbf{Sparks, A.}, Cruz, C. V., \& Oliva, R. (2015). Decision tools for bacterial blight resistance gene deployment in rice-based agricultural ecosystems. \emph{Frontiers in Plant Science}, \emph{6}(305). \url{https://doi.org/10.3389/fpls.2015.00305}
+
+\leavevmode\hypertarget{ref-Laborte2015}{}%
+Laborte, A. G., Paguirigan, N. C., Moya, P. F., Nelson, A., \textbf{Sparks, A.}, \& Gregorio, G. B. (2015). Farmers' preference for rice traits: Insights from farm surveys in central Luzon, Philippines, 1966-2012. \emph{PLOS ONE}, \emph{10}(8), e0136562. \url{https://doi.org/10.1371/journal.pone.0136562}
+
+\leavevmode\hypertarget{ref-Maloon2015}{}%
+Maloon, J. M., Quilang, E. J. P., Mabalay, M. R. O., Dios, J. L. de, Jr., A. C. A., Mirandilla, J. R. R., \ldots{} Barbierri, M. (2015). Philippine Rice Information System (PRISM): Innovating the rice field data capture and monitoring using smartphone. \emph{Philippine Journal of Crop Science}.
+
+\leavevmode\hypertarget{ref-Sparks2014}{}%
+\textbf{Sparks, A.}, Forbes, G. A., Hijmans, R. J., \& Garrett, K. A. (2014). Climate change may have limited effect on global risk of potato late blight. \emph{Global Change Biology}, \emph{20}(12), 3621--3631. \url{https://doi.org/10.1111/gcb.12587}
+
+\leavevmode\hypertarget{ref-Barnwal2013}{}%
+Barnwal, M. K., Kotasthane, A., Magculia, N., Mukherjee, P. K., Savary, S., Sharma, A. K., \ldots{} Zaidi, N. (2013). A review on crop losses, epidemiology and disease management of rice brown spot to identify research priorities and knowledge gaps. \emph{European Journal of Plant Pathology}, \emph{136}(3), 443--457. \url{https://doi.org/10.1007/s10658-013-0195-6}
+
+\leavevmode\hypertarget{ref-Gaudin2012}{}%
+Gaudin, A. C. M., \textbf{Sparks, A.}, \& Slamet-Loedin, I. H. (2012). Taking transgenic rice drought screening to the field. \emph{Journal of Experimental Botany}, \emph{64}(1), 109--117. \url{https://doi.org/10.1093/jxb/ers313}
+
+\leavevmode\hypertarget{ref-Mckinley2012}{}%
+Mckinley, J. D., \textbf{Sparks, A.}, Pede, V. O., \& Duff, B. (2012). An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines. \emph{The Philippine Agricultural Scientist}, \emph{95}(3), 286--292.
+
+\leavevmode\hypertarget{ref-Garrett2011}{}%
+Garrett, K. A., Forbes, G. A., Savary, S., Skelsey, P., \textbf{Sparks, A.}, Valdivia, C., \ldots{} Yuen, J. (2011). Complexity in climate-change impacts: An analytical framework for effects mediated by plant disease. \emph{Plant Pathology}, \emph{60}(1), 15--30. \url{https://doi.org/10.1111/j.1365-3059.2010.02409.x}
+
+\leavevmode\hypertarget{ref-Savary2011}{}%
+Savary, S., Nelson, A., \textbf{Sparks, A.}, Willocquet, L., Duveiller, E., Mahuku, G., \ldots{} Djurle, A. (2011). International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world. \emph{Plant Disease}, \emph{95}(10), 1204--1216. \url{https://doi.org/10.1094/pdis-04-11-0316}\\
+doi: 10.1094/PDIS-04-11-0316
+
+\leavevmode\hypertarget{ref-Sparks2011}{}%
+\textbf{Sparks, A.}, Forbes, G. A., Hijmans, R. J., \& Garrett, K. A. (2011). A metamodeling framework for extending the application domain of process-based ecological models. \emph{Ecosphere}, \emph{2}(8), art90. \url{https://doi.org/10.1890/es11-00128.1}
+
+\leavevmode\hypertarget{ref-Cheatham2009}{}%
+Cheatham, M. R., Rouse, M. N., Esker, P. D., Ignacio, S., Pradel, W., Raymundo, R., \ldots{} Garrett, K. A. (2009). Beyond yield: Plant disease in the context of ecosystem services. \emph{Phytopathology}, \emph{99}(11), 1228--1236. \url{https://doi.org/10.1094/phyto-99-11-1228}
+
+\leavevmode\hypertarget{ref-Esker2008}{}%
+Esker, P. D., \textbf{Sparks, A.}, Campbell, L., Guo, Z., Rouse, M., Silwal, S. D., \ldots{} Garrett, K. A. (2008). Ecology and epidemiology in R: Disease forecasting. \emph{The Plant Health Instructor}. \url{https://doi.org/10.1094/phi-a-2008-0129-01}
+
+\leavevmode\hypertarget{ref-Sparks2008a}{}%
+\textbf{Sparks, A.}, Esker, P. D., Antony, G., Campbell, L., Frank, E. E., Huebel, L., \ldots{} Garrett, K. A. (2008). Ecology and epidemiology in R: Spatial analysis. \emph{The Plant Health Instructor}. \url{https://doi.org/10.1094/phi-a-2008-0129-03}
+
+\leavevmode\hypertarget{ref-Sparks2008}{}%
+\textbf{Sparks, A.}, Esker, P. D., Bates, M., Dall'Acqua, W., Guo, Z., Segovia, V., \ldots{} Garrett, K. A. (2008). Ecology and epidemiology in R: Disease progress over time. \emph{The Plant Health Instructor}. \url{https://doi.org/10.1094/phi-a-2008-0129-02}
+
+\leavevmode\hypertarget{ref-Esker2007}{}%
+Esker, P. D., \textbf{Sparks, A.}, Antony, G., Bates, M., Dall'Acqua, W., Frank, E. E., \ldots{} Garrett, K. A. (2007). Ecology and epidemiology in R: Modeling dispersal gradients. \emph{The Plant Health Instructor}. \url{https://doi.org/10.1094/PHI-A-2007-1226-03}
+
+\leavevmode\hypertarget{ref-Garrett2007}{}%
+Garrett, K. A., Esker, P. D., \& \textbf{Sparks, A.} (2007). An introduction to the R programming environment. \emph{The Plant Health Instructor}. \url{https://doi.org/10.1094/phi-a-2007-1226-02}
+
+\leavevmode\hypertarget{ref-Garrett2007a}{}%
+Garrett, K. A., Esker, P. D., \textbf{Sparks, A.}, \& Scharmann, L. C. (2007). Writing teaching documents as a class project. \emph{The Plant Health Instructor}. \url{https://doi.org/10.1094/phi-t-2007-1226-01}
+
+\endgroup
+
+\hypertarget{book-chapters}{%
+\subsection{Book Chapters}\label{book-chapters}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+\hypertarget{refs_books}{}
+\leavevmode\hypertarget{ref-Kannan2017}{}%
+Kannan, E., Paliwal, A., \& \textbf{Sparks, A.} (2017). Spatial and temporal patterns of rice production and productivity. In S. Mohanty, P. G. Chengappa, M. Hedge, J. K. Ladha, S. Baruah, E. Kannan, \& A. V. Manjunatha (Eds.), \emph{The future rice strategy for india} (First, pp. 39--68). \url{https://doi.org/10.1016/B978-0-12-805374-4.00003-8}
+
+\leavevmode\hypertarget{ref-Garrett2016}{}%
+Garrett, K. A., Nita, M., DeWolf, E. D., Esker, P. D., Gomez-Montano, L., \& \textbf{Sparks, A.} H. (2016). Plant pathogens as indicators of climate change. In T. M. Letcher (Ed.), \emph{Climate change: Observed impacts on earth} (Second, pp. 325--328). Elsevier.
+
+\leavevmode\hypertarget{ref-Garrett2014}{}%
+Garrett, K. A., Esker, P. D., \& \textbf{Sparks, A.} H. (2014). An introduction to key distributions and models in epidemiology using r. In K. Stevenson \& M. Jeger (Eds.), \emph{Exercises in plant disease epidemiology} (2nd ed.). APS Press, Minneapolis, MN.
+
+\leavevmode\hypertarget{ref-Garrett2013}{}%
+Garrett, K. A., Forbes, G. A., Gómez, L., Gonzáles, M. A., Gray, M., Skelsey, P., \& \textbf{Sparks, A.} H. (2013). Cambio climático, enfermedades de las plantas e insectos plaga. In E. Jimenez (Ed.), \emph{Cambio climático y adaptación en el altiplano boliviano} (Primera edicion).
+
+\endgroup
+
+\hypertarget{reports}{%
+\subsection{Reports}\label{reports}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+\hypertarget{refs_reports}{}
+\leavevmode\hypertarget{ref-Raitzer2015}{}%
+Raitzer, D. A., \textbf{Sparks, A.}, Huelgas, Z., Maligalig, R., Balangue, Z., Launio, C., \ldots{} Ahmed, H. U. (2015). \emph{Is rice improvement still making a difference? Assessing the economic, poverty and food security impacts of rice varieties released from 1989 to 2009 in bangladesh, indonesia and the philippines.} {[}A report submitted to the Standing Panel on Impact Assessment (SPIA), CGIAR Independent Science and Partnership Council (ISPC). 128 pp.{]}. Retrieved from Standing Panel on Impact Assessment (SPIA), CGIAR Independent Science; Partnership Council (ISPC) website: \url{http://impact.cgiar.org/rice-improvement-still-making-difference}
+
+\leavevmode\hypertarget{ref-Geisler2004}{}%
+Geisler, L. J., \& \textbf{Sparks, A.} (2004a). \emph{Evaluation of seed treatment for controlling seedling diseases and compatibility with rhizobium inoculants, 2003.} (Fungicide and Nematicide Tests No. 59:ST025). The American Phytopathological Society, St. Paul, MN.
+
+\leavevmode\hypertarget{ref-Geisler2004a}{}%
+Geisler, L. J., \& \textbf{Sparks, A.} (2004b). \emph{Evaluation of seed treatment fungicides for controlling soybean seedling diseases, 2003} (Fungicide and Nematicide Tests No. 59:ST025). The American Phytopathological Society, St. Paul, MN.
+
+\endgroup
+
+\hypertarget{presentations-and-posters-in-proceedings}{%
+\section{Presentations and Posters in Proceedings}\label{presentations-and-posters-in-proceedings}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+\hypertarget{refs_proceedings}{}
+\leavevmode\hypertarget{ref-Adorada2019}{}%
+Adorada, D. L., Adorada, E. E., Gonzales, P., \& \textbf{Sparks, A.} (2019). Pathogenicity and aggressiveness of \emph{macrophomina phaseolina} isolates to sorghum in Australia's northern grains region. \emph{Proceedings of the 2019 Australian Summer Grains Conference}.
+
+\leavevmode\hypertarget{ref-Sparks2019ASGC}{}%
+\textbf{Sparks, A.}, Diggle, A., Galloway, J., Kelly, L., Melloy, P., \& Weir, D. (2019). A new tool to support mungbean growers and advisers in the fight against powdery mildew. \emph{Proceedings of the 2019 Australian Summer Grains Conference}.
+
+\leavevmode\hypertarget{ref-Vaghefi2019}{}%
+Vaghefi, N., Adorada, D. L., Adorada, E. E., Kelly, L., Young, A., \& \textbf{Sparks, A.} (2019). Characterising the genotypic diversity of \emph{Curtobacterium flaccumfaciens} pv. \emph{Flaccumfaciens}, the cause of tan spot on mungbean. \emph{Proceedings of the 2019 Australian Summer Grains Conference}.
+
+\leavevmode\hypertarget{ref-Adorada2018}{}%
+Adorada, D. L., Gonzales, P., McKay, A., Vaghefi, N., \& \textbf{Sparks, A.} (2018). A broad look at charcoal rot in the Northern Region broadacre crops through soil sampling and in-crop surveys. \emph{Proceedings of the 10th australasian soilborne diseases symposium}. Presented at the National Wine Centre.
+
+\leavevmode\hypertarget{ref-Adorada2017}{}%
+Adorada, D. L., Thompson, S. M., Grams, R. A., Adorada, E. E., \textbf{Sparks, A.}, Wright, G., \ldots{} Ash, G. J. (2017). Fungi and bacteria associated with the Peanut Kernel Shrivel (PKS) disease in the Bundaberg region. \emph{Proceedings of the australasian plant pathology society 2017 meeting}.
+
+\leavevmode\hypertarget{ref-Cucak2017}{}%
+Cucak, M., \textbf{Sparks, A.}, Fealy, R., Griffin, D., Lambkin, K., \& Kildea, S. (2017). Lowering thresholds of qualitative plant risk prediction algorithms: Sensitivity versus specificity of Irish Rules for potato late blight development. \emph{Euroblight Workshop}.
+
+\leavevmode\hypertarget{ref-Kelly2017}{}%
+Kelly, L., White, J., Sharman, M., Brier, H., Williams, L., Grams, R., \ldots{} \textbf{Sparks, A.} (2017). Mungbean and sorghum disease update. \emph{GRDC Updates (Jondaryan)}. Presented at the Jondaryan Woolshed. GRDC.
+
+\leavevmode\hypertarget{ref-Sparks2017b}{}%
+\textbf{Sparks, A.}, Castilla, N. P., \& Sander, B. O. (2017). Do alternate wetting and drying irrigation technologies and nitrogen rates affect rice sheath blight? \emph{Proceedings of the australasian plant pathology society 2017 meeting}.
+
+\leavevmode\hypertarget{ref-Jaisong2015}{}%
+Jaisong, S., Castilla, N. P., Magculia, C. T., Savary, S., Pangga, I. B., \& \textbf{Sparks, A.} (2015). Evaluation of correlation methods for co-occurrence network construction of rice crop health survey data. \emph{Proceedings of the Australasian Plant Pathology Society 2015 Meeting}.
+
+\leavevmode\hypertarget{ref-Sparks2015}{}%
+\textbf{Sparks, A.}, \& Noel, M. (2015). Mapping rice diseases for targeted deployment of resistant varieties in India. \emph{Proceedings of the australasian plant pathology society 2015 meeting}.
+
+\leavevmode\hypertarget{ref-Sparks2013}{}%
+\textbf{Sparks, A.}, Anaurio, J., Duku, C., Noel, M., \& Raitzer, D. (2013). Modeling the impact of disease resistance on rice yields in the Philippines and Indonesia. \emph{Proceedings of the 2013 australasian plant pathology society}. Technical report. CGIAR - SPIA.
+
+\leavevmode\hypertarget{ref-Sparks2013a}{}%
+\textbf{Sparks, A.}, Duku, C., Noel, M., \& Zwart, S. J. (2013). Spatial modelling of rice yield losses due to bacterial leaf blight and leaf blast in a changing climate. \emph{Acta phytopathologica sinica}, \emph{43}.
+
+\leavevmode\hypertarget{ref-Magculia2012}{}%
+Magculia, N. J., \& \textbf{Sparks, A.} (2012). Predisposition factors affecting brown spot disease development in rice. \emph{Phytopathology}, \emph{102:S4.74}.
+
+\leavevmode\hypertarget{ref-Savary2012}{}%
+Savary, S., \textbf{Sparks, A.}, Nelson, A., McRoberts, N., \& Esker, P. D. (2012). Putting information to use: Decisions at different scales. \emph{Phytopathology}, \emph{102:S4.162}.
+
+\leavevmode\hypertarget{ref-Sparks2012}{}%
+\textbf{Sparks, A.}, Savary, S., \& Nelson, A. (2012). Preventing what ails rice with a strategic, statistical, prescriptive model system. \emph{Phytopathology}, \emph{102:S4.113}.
+
+\leavevmode\hypertarget{ref-Ballesefin2011}{}%
+Ballesefin, G. B., Pede, V. O., \& \textbf{Sparks, A.} (2011). Income inequality and economic growth in the Philippines. \emph{The conference secretariat, 2011 paeda biennial convention}.
+
+\leavevmode\hypertarget{ref-McKinley2011}{}%
+McKinley, J., Pede, V. O., \textbf{Sparks, A.}, \& Duff, B. (2011). An economic assessment of the impact of mango pulp weevil on the agricultural sector of Palawan, Philippines. \emph{The conference secretariat, 2011 paeda biennial convention}.
+
+\leavevmode\hypertarget{ref-Sparks2011a}{}%
+\textbf{Sparks, A.}, Shah, D., DeWolf, E., Madden, L., Paul, P., \& Willyerd, K. (2011). Refined empirical models for predicting Fusarium head blight epidemics in the United States. \emph{Phytopathology}, \emph{101:S223}.
+
+\leavevmode\hypertarget{ref-Willocquet2011}{}%
+Willocquet, L., Nelson, A., \textbf{Sparks, A.}, Laborte, A., \& Savary, S. (2011). Crop losses in highly populated areas: A global perspective. \emph{Phytopathology}, \emph{101:S223}.
+
+\leavevmode\hypertarget{ref-Sparks2010}{}%
+\textbf{Sparks, A.}, Forbes, G., Hijmans, R., \& Garrett, K. (2010). Metamodels for scaling potato late blight risk analysis in climate change scenarios. \emph{Phytopathology}, \emph{100:S121}.
+
+\leavevmode\hypertarget{ref-Garrett2009}{}%
+Garrett, K., Forbes, G., Pande, S., Savary, S., \textbf{Sparks, A.}, Valdivia, C., \ldots{} Willocquet, L. (2009). Anticipating and responding to biological complexity in the effects of climate change on agriculture. \emph{IOP conference series: Earth and environmental science}, \emph{6}. \url{https://doi.org/10.1088/1755-1307/6/7/372007}
+
+\leavevmode\hypertarget{ref-Sparks2009}{}%
+\textbf{Sparks, A.}, Forbes, G., \& Garrett, K. A. (2009). Adapting disease forecasting models to coarser scales: Global potato late blight prediction. \emph{Phytopathology}, \emph{99:S122}.
+
+\leavevmode\hypertarget{ref-Sparks2008b}{}%
+\textbf{Sparks, A.}, Raymundo, R., Simon, R., Forbes, G., \& Garrett, K. A. (2008). Regional predictions of potato late blight risk in a GIS incorporating disease resistance profiles, climate change, and risk neighborhoods. \emph{Phytopathology}, \emph{98:S149}.
+
+\endgroup
+
+\hypertarget{r-packages}{%
+\section{R~Packages}\label{r-packages}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+\hypertarget{refs_Rpackages}{}
+\leavevmode\hypertarget{ref-mccoy2019hagis}{}%
+McCoy, A. G., Noel, Z. A., \textbf{Sparks, A.}, \& Chilvers, M. (2019). hagis, an R package resource for pathotype analysis of \emph{Phytophthora sojae} populations causing stem and root rot of soybean. \emph{Molecular Plant-Microbe Interactions}, \emph{32}(12). \url{https://doi.org/10.1094/MPMI-07-19-0180-A}
+
+\leavevmode\hypertarget{ref-Sparks2018}{}%
+\textbf{Sparks, A.} (2018). nasapower: A NASA POWER global meteorology, surface solar energy and climatology data client for R. \emph{Journal of Open Source Software}, \emph{3}, 1035. \url{https://doi.org/10.21105/joss.01035}
+
+\leavevmode\hypertarget{ref-Sparks2017c}{}%
+\textbf{Sparks, A.} (2017). getCRUCLdata: Use and explore CRU CL v. 2.0 climatology elements in R. \emph{The Journal of Open Source Software}, \emph{2}(12). \url{https://doi.org/10.21105/joss.00230}
+
+\leavevmode\hypertarget{ref-Sparks2017}{}%
+\textbf{Sparks, A.}, Hengl, T., \& Nelson, A. (2017). GSODR: Global summary daily weather data in R. \emph{The Journal of Open Source Software}, \emph{2}(10). \url{https://doi.org/10.21105/joss.00177}
+
+\leavevmode\hypertarget{ref-Sparks2017a}{}%
+\textbf{Sparks, A.}, Padgham, M., Parsonage, H., \& Pembleton, K. (2017). bomrang: Fetch Australian government Bureau of Meteorology weather data. \emph{The Journal of Open Source Software}, \emph{2}(17). \url{https://doi.org/10.21105/joss.00411}
+
+\endgroup
+
+\hypertarget{funding-attracted}{%
+\section{Funding Attracted}\label{funding-attracted}}
+
+\detailedsection{\detaileditem{United Nations Food and Agriculture Organisation (FAO): Consultancy}{2019 – 2020}{Country Technical Consultant}{Cambodia}{\item{Provided technical expertise and advice to country partners for building an agrometeorology bulletin in three provinces.}\item{Funding amount: \$80,000 AUD}}\detaileditem{Cotton Research and Development Corporation (CRDC): Suppresive Soils Project}{2019 – 2021}{Ph.D. Student Scholarship}{Toowoomba, Queensland, AUS}{\item{Funding amount: \$30,000 AUD}}\detaileditem{Grains Research and Development Corporation (GRDC): Post-doctoral Fellowship Project USQ1903}{2019 – 2021}{A model for predicting chickpea ascochyta blight risk, Parent Project: DAW1810}{AUS}{\item{Supervised post-doctoral research fellow in the development of spatial disease risk model development for chickpea ascochyta blight.}\item{Funding amount: \$510,800 AUD}}\detaileditem{Research and Development Corporation (GRDC)” Research Project DAW1810 Subcontract to USQ from the Government of Western Australia}{2018 – 2021}{Disease epidemiology and management tools for Australian grain growers}{AUS}{\item{Led epidemiological and modelling research activities to support Australian grain growers.}\item{Supervised post-doctoral research fellow in the development of spatial disease risk model development for black spot in field pea.}\item{Funding amount: \$650,429 AUD}}\detaileditem{Rural Industries Research and Development Corporation (RIRDC): Project PRJ-010814}{2018 – 2021}{Northern rice Australia - Developing rice growing packages for tropical climates}{Queensland, AUS}{\item{Led research into and developed control methods for common diseases of tropical rice.}\item{Co-PIs: G. Ash and K. Pembleton}\item{Funding amount: \$2 million AUD}}\detaileditem{Grains Research and Development Corporation (GRDC): Research Project DAQ00186}{2017}{1-Year Extension to Existing Project}{AUS}{\item{Led inter-organisational team in integrated disease management research and disease monitoring activities}\item{Funding amount: \$1.2 million AUD}}\detaileditem{University of Southern Queensland: Research Infrastructure Program 2017}{2017}{Laboratory Improvements}{Toowoomba, Queensland, AUS}{\item{Co-PIs: D. Adorada and A. Young}\item{Funding amount: \$25,000 AUD}}\detaileditem{Syngenta: Syngenta – IRRI Scientific Knowledge and Exchange Program (SKEP)}{2016 – 2019}{Phase III, Sub-Project 1 - Crop Health Management}{South and Southeast Asia}{\item{Led international and inter-organisational team in integrated disease management research and disease monitoring activities}\item{Co-PI: Kee-Fui Kon (Syngenta)}\item{Funding amount: \$484,274 USD}}\detaileditem{Bayer: Identifying resistant rice germplasm to false smut using combined screening approaches and understanding the mechanisms underlying rice resistance (Bayer)}{2015 – 2017}{Epidemiology and environmental characterisation of false smut}{PHL}{\item{Led research into development of a predictive model for false smut in rice.}\item{Co-PIs: B. Zhou and C. M. Vera Cruz}\item{Funding amount: \$653,91 USD}}\detaileditem{Philippine Department of Agriculture: Philippine Rice Information SysteM (PRISM)}{2013 – 2015}{Component B - Crop Health Monitoring}{PHL}{\item{Led inter-organisational team in integrated disease management research and disease monitoring activities}\item{Led efforts to standardise data collection methods and ensure data integrity through the use of mobile devices and cloud-hosted databases.}\item{Co-PIs: A. Nelson (IRRI), G. S. Arida (PhilRice), E. J. P. Quilang (PhilRice)}\item{Funding amount: \$2.8 million USD}}\detaileditem{Syngenta – IRRI Scientific Knowledge and Exchange Program (SKEP)}{2013 – 2015}{Phase II, Sub-Project 2 - Crop Health Management}{South and Southeast Asia}{\item{Led international and inter-organisational team in integrated disease management research and disease monitoring activities}\item{Co-PI: Kee-Fui Kon (Syngenta)}\item{Funding amount: \$454,640 USD}}}
+
+\hypertarget{awards-and-honours}{%
+\section{Awards and Honours}\label{awards-and-honours}}
+
+\detailedsection{\detaileditem{R. Panczak (Lead), P. Baker, F. Gacenga, R. King, L. Li, J. Lodge, C. Lim, N. Schnyder and A. Sparks}{2019}{Theo Murphy (Australia) Initiative for support for ‘Re:produce – kick-off meeting of reproducible research network’}{Brisbane, Queensland, AUS}{\item{Sponsored by The Australian Academy of Science}}\detaileditem{K. Pembleton, G. Grundy, A. Sparks}{2016}{First Place Award for Paddock to Plate Category, John Conner Hack}{Australia}{\item{GovHack 2016}}}
+
+\hypertarget{invited-guest-lectures}{%
+\section{Invited Guest Lectures}\label{invited-guest-lectures}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+\textbf{Sparks, A.} (2019). \emph{The Impact of Plant Pathology on the Global Economy.} Invited presentation delivered at the ``IX Symposium on Updates in Phytopathology'' held i Viçosa, Minas Gerais, Brazil.
+
+\textbf{Sparks, A.}, A.D. Nelson, K.A. Garrett, C. Gilligan and K. Pembleton. (2018) \emph{Upscaling models, downscaling data or the right model for the right scale of application?} Invited presentation delivered at the ``2018 International Congress of Plant Pathology'' held in Boston, Massachusetts, USA.
+
+\textbf{Sparks, A.} (2016) \emph{Using modelling and mapping for digital insights into diseases in the rice field.} Invited presentation delivered at the ``2016 Korean Society of Plant Pathology Fall Meeting and International Conference'' at Seoul National University, Pyeongchang, Gangwon-do, Korea.
+
+\textbf{Sparks, A.}, N. P. Castilla and G. S. Arida. (2014) \emph{Taking sustainable crop protection from the field to the cloud.} Invited presentation delivered at the ``4th International Rice Congress (IRC2014)'' in Bangkok, Thailand.
+
+\textbf{Sparks, A.} (2014) \emph{Impact of climate change on rice diseases.} Invited presentation delivered at the ``Workshop on the impact of climate change on crop pests and diseases, and adaptation strategies for the Greater Mekong Sub -- Region (GMS)'' at Hotel Continental Saigon, Ho Chi Minh City, Vietnam.
+
+\textbf{Sparks, A.} (2014) \emph{Epidemiology and Disease Management of rice brown spot: Research priorities and knowledge gaps.} Invited presentation delivered at the ``66th Annual Indian Phytopathological Society Meeting'' at Indira Gandhi Krishi Vishwavidyalaya University, Raipur, India.
+
+\textbf{Sparks, A.} (2013) \emph{Biosecurity risks in Southeast Asia impacting on human food supplies.} Invited presentation delivered at the ``Pacific Environmental Security Forum'' hosted by the Australian Department of Defence (ADoD) and U. S. Pacific Command (USPACOM) in Sydney, New South Wales, Australia.
+
+\textbf{Sparks, A.} (2010) \emph{Global potato late blight risk in response to climate change, possible futures for a historic disease.} Invited presentation presented at ``Emerging infectious diseases in response to climate change'' hosted by New York Academy of Sciences, in New York, New York, USA\}
+
+\endgroup
+
+\hypertarget{service}{%
+\section{Service}\label{service}}
+
+\detailedsection{\detaileditem{R Programming Helper}{2019 - Present}{University of Southern Queensland Hacky Hour}{Toowoomba, Queensland, AUS}{\empty}\detaileditem{Member}{2019 – Present}{Australia New Zealand Open Research Network (ANZORN)}{AUS And NZL}{\empty}\detaileditem{Epidemiology Section Editor}{2018 – Present}{Tropical Plant Pathology}{Global}{\empty}\detaileditem{Co-Founder and Co-Director}{2018 – Present}{Open Plant Pathology}{Global}{\empty}\detaileditem{Member}{2018 – Present}{University of Southern Queensland Athena SWAN (Scientific Women’s Academic Network) SAGE (Science in Australia Gender Equality) Submission Committee}{Toowoomba, Queensland, AUS}{\empty}\detaileditem{Member}{2018 – Present}{International Congress of Plant Pathology (ICPP) Crop Loss Committee}{Global}{\empty}\detaileditem{Member}{2016 – Present}{University of Southern Queensland Centre for Crop Health}{Toowoomba, Queensland, AUS}{\empty}\detaileditem{Member}{2016 – Present}{Australia National Plant Biosecurity Diagnostic Network}{Australia}{\empty}\detaileditem{Member}{2016 – Present}{GRDC Communities of Practice: Field Crop Diseases}{Australia}{\empty}\detaileditem{Member}{2013 – Present}{International Congress of Plant Pathology (ICPP) Epidemiology Committee}{Global}{\empty}\detaileditem{Founding Member}{2013 – 2015}{Manila R Users Group}{Manila, PHL}{\empty}\detaileditem{Coordinator}{2013 – 2015}{IRRI Crop and Environmental Sciences Division Seminar Series}{Los Baños, Laguna, PHL}{\empty}\detaileditem{Member}{2013 – 2015}{IRRI One Corporate System (OCS) Advisory Committee}{Los Baños, Laguna, PHL}{\empty}\detaileditem{Member}{2013 – 2015}{IRRI National Employee Recognition Program Committee}{Los Baños, Laguna, PHL}{\empty}\detaileditem{Member}{2005 – 2007}{K-State Plant Pathology Webpage Advisory Committee}{Manhattan, Kansas, USA}{\empty}\detaileditem{President}{2006 – 2007}{K-State Plant Pathology Graduate Student Club}{Manhattan, Kansas, USA}{\empty}\detaileditem{Member}{2004 – 2009}{K-State Plant Pathology Graduate Student Club}{Manhattan, Kansas, USA}{\empty}\detaileditem{Member}{2004 – 2009}{K-State Agronomy Graduate Student Club}{Manhattan, Kansas, USA}{\empty}}
+
+\hypertarget{certifications}{%
+\section{Certifications}\label{certifications}}
+
+\detailedsection{\detaileditem{Certified Instructor}{2019 - Present}{Software Carpentries}{Global}{\empty}\detaileditem{Candidate number: P2R/009385}{2014 – Present}{PRINCE2 Foundation, HiLogic Pty Ltd.}{Global}{\empty}}
+
+\hypertarget{memberships}{%
+\section{Memberships}\label{memberships}}
+
+\detailedsection{\detaileditem{Member}{2011 – Present}{International Society for Plant Pathology}{Global}{\empty}\detaileditem{Member}{2013 – Present}{Australasian Plant Pathology Society}{AUS And NZL}{\empty}\detaileditem{Member}{2004 – Present}{American Phytopathological Society (APS)}{USA}{\empty}\detaileditem{Member}{2019 – Present}{Australia New Zealand Open Research Network (ANZORN)}{AUS And NZL}{\empty}\detaileditem{Member}{2018 – Present}{University of Southern Queensland Athena SWAN (Scientific Women’s Academic Network) SAGE (Science in Australia Gender Equality) Submission Committee}{Toowoomba, Queensland, AUS}{\empty}\detaileditem{Member}{2018 – Present}{International Congress of Plant Pathology (ICPP) Crop Loss Committee}{Global}{\empty}\detaileditem{Member}{2016 – Present}{University of Southern Queensland Centre for Crop Health}{Toowoomba, Queensland, AUS}{\empty}\detaileditem{Member}{2016 – Present}{Australia National Plant Biosecurity Diagnostic Network}{Australia}{\empty}\detaileditem{Member}{2016 – Present}{GRDC Communities of Practice: Field Crop Diseases}{Australia}{\empty}\detaileditem{Member}{2013 – Present}{International Congress of Plant Pathology (ICPP) Epidemiology Committee}{Global}{\empty}\detaileditem{Founding Member}{2013 – 2015}{Manila R Users Group}{Manila, PHL}{\empty}\detaileditem{Member}{2013 – 2015}{IRRI One Corporate System (OCS) Advisory Committee}{Los Baños, Laguna, PHL}{\empty}\detaileditem{Member}{2013 – 2015}{IRRI National Employee Recognition Program Committee}{Los Baños, Laguna, PHL}{\empty}\detaileditem{Member}{2005 – 2007}{K-State Plant Pathology Webpage Advisory Committee}{Manhattan, Kansas, USA}{\empty}\detaileditem{Member}{2004 – 2009}{K-State Plant Pathology Graduate Student Club}{Manhattan, Kansas, USA}{\empty}\detaileditem{Member}{2004 – 2009}{K-State Agronomy Graduate Student Club}{Manhattan, Kansas, USA}{\empty}}
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\hypertarget{programming-abilities}{%
+\subsection{Programming Abilities}\label{programming-abilities}}
+
+\begin{itemize}
+\tightlist
+\item
+  Programming: R (author and maintain packages on CRAN)
+\item
+  Operating System: Unix/Linux (install and maintain Linux)
+\item
+  Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
+\end{itemize}
+
+\hypertarget{software}{%
+\subsection{Software}\label{software}}
+
+\begin{itemize}
+\tightlist
+\item
+  Statistical Software: R
+\item
+  Office Software Packages: Microsoft Office, LibreOffice and Google Suites
+\item
+  GIS Software: R, QGIS, ArcGIS
+\end{itemize}
+
+\end{document}

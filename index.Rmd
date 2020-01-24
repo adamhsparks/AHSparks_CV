@@ -1,0 +1,180 @@
+---
+#citeproc: yes
+graphics: yes
+name: Adam H.
+surname: Sparks
+headcolor: 414141
+#qualifications: 
+position: "Associate Professor"
+address: "University of Southern Queensland, Centre for Crop Health, West St., Toowoomba, Queensland 4350 AUS"
+phone: "+61 (4) 15489422"
+www: adamhsparks.com
+email: "adamhsparks@adamhsparks.com"
+twitter: adamhsparks
+github: adamhsparks
+#linkedin: adamhsparks
+orcid: 0000-0002-0061-8359
+aboutme: |
+  I have demonstrated consistent success both in non-profit international NGO and academic settings and have an extensive background of experiences in working with diverse partners.
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+csl: "csl/apa6-cv.csl"
+nocite: "@*"
+knit: bookdown::render_book
+bibliography_articles: "bib/articles.bib"
+bibliography_books: "bib/books.bib"
+bibliography_proceedings: "bib/proceedings.bib"
+bibliography_reports: "bib/reports.bib"
+bibliography_Rpackages: "bib/Rpackages.bib"
+---
+
+```{r setup, include=FALSE, cache = FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(RefManageR)
+RefManageR::BibOptions(check.entries = FALSE,
+           bib.style = "authoryear",
+           sorting = "ynt",
+           cite.style = "year",
+           style = "markdown",
+           hyperlink = TRUE,
+           dashed = FALSE)
+
+library(vitae)
+library(tidyverse)
+library(ezpickr)
+```
+
+# Employment History
+
+```{r employment}
+ezpickr::pick("data/working-experience.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Education and Qualifications
+
+```{r education}
+ezpickr::pick("data/education.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Publications
+
+## Selected Publications
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_articles}
+:::
+\endgroup
+
+## Book Chapters
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_books}
+:::
+\endgroup
+
+## Reports
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_reports}
+:::
+\endgroup
+
+# Presentations and Posters in Proceedings
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_proceedings}
+:::
+\endgroup
+
+# R&nbsp;Packages
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_Rpackages}
+:::
+\endgroup
+
+# Funding Attracted
+
+```{r grant}
+ezpickr::pick("data/grant.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(with, when, what, where, why)
+```
+
+# Awards and Honours
+
+```{r award}
+ezpickr::pick("data/award.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Invited Guest Lectures
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+`r knitr::knit_child("data/invited.txt")`
+
+\endgroup
+
+# Service
+
+```{r service, eval = TRUE}
+ezpickr::pick("data/service.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Certifications
+
+```{r certifications, eval = TRUE}
+ezpickr::pick("data/certification.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Memberships
+
+```{r memberships, eval = TRUE}
+ezpickr::pick("data/membership.xlsx") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Skills
+
+## Programming Abilities
+
+  * Programming: R (author and maintain packages on CRAN)
+  * Operating System: Unix/Linux (install and maintain Linux)
+  * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
+
+## Software
+
+  * Statistical Software: R
+  * Office Software Packages: Microsoft Office, LibreOffice and Google Suites
+  * GIS Software: R, QGIS, ArcGIS
+
+<!-- *`r Sys.Date()`* -->
