@@ -232,3 +232,4 @@ TSWLatexianTemp*
 
 # End of https://www.gitignore.io/api/latex
 .Rproj.user
+.Rhistory
