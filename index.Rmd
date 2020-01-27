@@ -28,27 +28,27 @@ bibliography_Rpackages: "bib/Rpackages.bib"
 ---
 
 ```{r setup, include=FALSE, cache = FALSE}
-library(knitr)
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(magrittr)
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
 
 library(RefManageR)
-RefManageR::BibOptions(check.entries = FALSE,
-           bib.style = "authoryear",
-           sorting = "ynt",
-           cite.style = "year",
-           style = "markdown",
-           hyperlink = TRUE,
-           dashed = FALSE)
-
-library(vitae)
-library(tidyverse)
-library(ezpickr)
+RefManageR::BibOptions(
+  check.entries = FALSE,
+  bib.style = "authoryear",
+  sorting = "ynt",
+  cite.style = "year",
+  style = "markdown",
+  hyperlink = TRUE,
+  dashed = FALSE
+)
 ```
 
 # Employment History
 
 ```{r employment}
-ezpickr::pick("data/working-experience.xlsx") %>%
+readr::read_csv("data/working-experience.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -56,7 +56,7 @@ ezpickr::pick("data/working-experience.xlsx") %>%
 # Education and Qualifications
 
 ```{r education}
-ezpickr::pick("data/education.xlsx") %>%
+readr::read_csv("data/education.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -116,7 +116,7 @@ ezpickr::pick("data/education.xlsx") %>%
 # Funding Attracted
 
 ```{r grant}
-ezpickr::pick("data/grant.xlsx") %>%
+readr::read_csv("data/grant.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(with, when, what, where, why)
 ```
@@ -124,7 +124,7 @@ ezpickr::pick("data/grant.xlsx") %>%
 # Mentoring
 
 ```{r mentorship}
-ezpickr::pick("data/mentorship.xlsx") %>%
+readr::read_csv("data/mentorship.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(with, when, what, where, why)
 ```
@@ -132,7 +132,7 @@ ezpickr::pick("data/mentorship.xlsx") %>%
 # Awards and Honours
 
 ```{r award}
-ezpickr::pick("data/award.xlsx") %>%
+readr::read_csv("data/award.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -150,7 +150,7 @@ ezpickr::pick("data/award.xlsx") %>%
 # Service
 
 ```{r service, eval = TRUE}
-ezpickr::pick("data/service.xlsx") %>%
+readr::read_csv("data/service.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -158,7 +158,7 @@ ezpickr::pick("data/service.xlsx") %>%
 # Certifications
 
 ```{r certifications, eval = TRUE}
-ezpickr::pick("data/certification.xlsx") %>%
+readr::read_csv("data/certification.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -166,7 +166,7 @@ ezpickr::pick("data/certification.xlsx") %>%
 # Memberships
 
 ```{r memberships, eval = TRUE}
-ezpickr::pick("data/membership.xlsx") %>%
+readr::read_csv("data/membership.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
