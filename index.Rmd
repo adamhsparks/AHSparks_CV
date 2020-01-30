@@ -114,14 +114,14 @@ readr::read_csv("data/education.csv") %>%
 \endgroup
 -->
 
-# R&nbsp;Packages
+# Invited Guest Lectures
 
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 
-::: {#refs_Rpackages}
-:::
+`r knitr::knit_child("data/invited.txt")`
+
 \endgroup
 
 # Funding Attracted
@@ -131,6 +131,16 @@ readr::read_csv("data/grant.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(with, when, what, where, why)
 ```
+
+# R&nbsp;Packages
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_Rpackages}
+:::
+\endgroup
 
 # Mentoring
 
@@ -155,16 +165,6 @@ readr::read_csv("data/workshop.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
-
-# Invited Guest Lectures
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-`r knitr::knit_child("data/invited.txt")`
-
-\endgroup
 
 # Service
 
