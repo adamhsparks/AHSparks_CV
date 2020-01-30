@@ -21,6 +21,7 @@ csl: "csl/apa6-cv.csl"
 nocite: "@*"
 knit: bookdown::render_book
 bibliography_articles: "bib/articles.bib"
+bibliography_accepted: "bib/accepted.bib"
 bibliography_books: "bib/books.bib"
 bibliography_proceedings: "bib/proceedings.bib"
 bibliography_reports: "bib/reports.bib"
@@ -70,6 +71,16 @@ readr::read_csv("data/education.csv") %>%
 \setlength{\leftskip}{0.5in}
 
 ::: {#refs_articles}
+:::
+\endgroup
+
+## Accepted Publications
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_accepted}
 :::
 \endgroup
 
