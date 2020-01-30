@@ -93,7 +93,7 @@ readr::read_csv("data/education.csv") %>%
 :::
 \endgroup
 
-# Presentations and Posters in Proceedings
+# Presentations and Posters in Conference Proceedings
 
 \begingroup
 \setlength{\parindent}{-0.5in}
@@ -102,6 +102,17 @@ readr::read_csv("data/education.csv") %>%
 ::: {#refs_proceedings}
 :::
 \endgroup
+
+<!-- # Web Based Writing and Extension Publications
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_proceedings}
+:::
+\endgroup
+-->
 
 # R&nbsp;Packages
 
@@ -133,6 +144,14 @@ readr::read_csv("data/mentorship.csv") %>%
 
 ```{r award}
 readr::read_csv("data/award.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Workshops
+
+```{r workshops}
+readr::read_csv("data/workshop.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
