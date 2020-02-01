@@ -90,7 +90,9 @@
   pdfsubject={},
   pdfkeywords={}
 }
-
+\RequirePackage{url}
+% Add breaks in long hyperlinks
+\def\UrlBreaks{\do\/\do-}
 
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations
