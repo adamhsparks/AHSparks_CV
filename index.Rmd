@@ -23,9 +23,9 @@ knit: bookdown::render_book
 bibliography_articles: "bib/articles.bib"
 bibliography_accepted: "bib/accepted.bib"
 bibliography_books: "bib/books.bib"
+bibliography_extension: "bib/extension_pubs.bib"
 bibliography_proceedings: "bib/proceedings.bib"
 bibliography_reports: "bib/reports.bib"
-bibliography_Rpackages: "bib/Rpackages.bib"
 ---
 
 ```{r setup, include=FALSE, cache = FALSE}
@@ -104,26 +104,6 @@ readr::read_csv("data/education.csv") %>%
 :::
 \endgroup
 
-# Presentations and Posters in Conference Proceedings
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-::: {#refs_proceedings}
-:::
-\endgroup
-
-<!-- # Web Based Writing and Extension Publications
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-::: {#refs_proceedings}
-:::
-\endgroup
--->
 
 # Invited Guest Lectures
 
@@ -143,13 +123,23 @@ readr::read_csv("data/grant.csv") %>%
   vitae::detailed_entries(with, when, what, where, why)
 ```
 
-# R&nbsp;Packages
+# Presentations and Posters in Conference Proceedings
 
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 
-::: {#refs_Rpackages}
+::: {#refs_proceedings}
+:::
+\endgroup
+
+# Extension Outputs
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_extension}
 :::
 \endgroup
 
