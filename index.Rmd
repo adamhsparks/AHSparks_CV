@@ -46,18 +46,18 @@ RefManageR::BibOptions(
 )
 ```
 
-# Employment History
-
-```{r employment}
-readr::read_csv("data/working-experience.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(what, when, with, where, why)
-```
-
 # Education and Qualifications
 
 ```{r education}
 readr::read_csv("data/education.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Professional Appointments
+
+```{r employment}
+readr::read_csv("data/working-experience.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -104,49 +104,10 @@ readr::read_csv("data/education.csv") %>%
 :::
 \endgroup
 
-
-# Invited Guest Lectures
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-`r knitr::knit_child("data/invited.txt")`
-
-\endgroup
-
-# Funding Attracted
+# Grants
 
 ```{r grant}
 readr::read_csv("data/grant.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(with, when, what, where, why)
-```
-
-# Presentations and Posters in Conference Proceedings
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-::: {#refs_proceedings}
-:::
-\endgroup
-
-# Extension Outputs
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-::: {#refs_extension}
-:::
-\endgroup
-
-# Mentoring
-
-```{r mentorship}
-readr::read_csv("data/mentorship.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(with, when, what, where, why)
 ```
@@ -159,18 +120,72 @@ readr::read_csv("data/award.csv") %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
 
-# Workshops
+# Invited Guest Lectures
 
-```{r workshops}
-readr::read_csv("data/workshop.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(what, when, with, where, why)
-```
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+`r knitr::knit_child("data/invited.txt")`
+
+\endgroup
+
+# Papers and Posters Presented
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_proceedings}
+:::
+\endgroup
+
+# Campus or Departmental Talks
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+`r knitr::knit_child("data/campus_talks.txt")`
+
+\endgroup
+
+# Community Outreach
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_extension}
+:::
+\endgroup
+
+# Related Professional Skills
+
+## Programming Abilities
+
+  * Programming: R (author and maintain packages on CRAN)
+  * Operating System: Unix/Linux (install and maintain Linux)
+  * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
+
+## Software
+
+  * Statistical Software: R
+  * Office Software Packages: Microsoft Office, LibreOffice and Google Suites
+  * GIS Software: R, QGIS, ArcGIS
 
 # Service
 
 ```{r service, eval = TRUE}
 readr::read_csv("data/service.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Workshops
+
+```{r workshops}
+readr::read_csv("data/workshop.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -190,19 +205,5 @@ readr::read_csv("data/membership.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
-
-# Skills
-
-## Programming Abilities
-
-  * Programming: R (author and maintain packages on CRAN)
-  * Operating System: Unix/Linux (install and maintain Linux)
-  * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
-
-## Software
-
-  * Statistical Software: R
-  * Office Software Packages: Microsoft Office, LibreOffice and Google Suites
-  * GIS Software: R, QGIS, ArcGIS
 
 <!-- *`r Sys.Date()`* -->
