@@ -1,10 +1,8 @@
-#vitae::moderncv:
-#  theme: classic
 vitae::awesomecv:
   fig_caption: yes
   keep_tex: yes
-#  keep_md: yes
-#  citation_package: "none"
+  keep_md: yes
+  #citation_package: "biblatex"
 #  includes:
 #    in_header: highlight.tex
   pandoc_args:
