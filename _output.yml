@@ -1,7 +1,7 @@
 vitae::awesomecv:
   fig_caption: yes
   keep_tex: yes
-  keep_md: yes
+  keep_md: no
   #citation_package: "biblatex"
 #  includes:
 #    in_header: highlight.tex
