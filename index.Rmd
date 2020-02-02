@@ -55,8 +55,8 @@ readr::read_csv("data/education.csv") %>%
 
 # Professional Appointments
 
-```{r academic-employment}
-readr::read_csv("data/academic-employment.csv") %>%
+```{r professional-employment}
+readr::read_csv("data/professional-employment.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -161,7 +161,7 @@ readr::read_csv("data/research-experience.csv") %>%
 
 ## Classroom
 
-```{r classroom}
+```{r teaching}
 readr::read_csv("data/teaching.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
@@ -169,7 +169,7 @@ readr::read_csv("data/teaching.csv") %>%
 
 ## Workshops
 
-```{r workshops}
+```{r workshop}
 readr::read_csv("data/workshop.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
@@ -199,7 +199,7 @@ readr::read_csv("data/service.csv") %>%
 
 # Certifications
 
-```{r certifications, eval = TRUE}
+```{r certification, eval = TRUE}
 readr::read_csv("data/certification.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
@@ -207,7 +207,7 @@ readr::read_csv("data/certification.csv") %>%
 
 # Memberships
 
-```{r memberships, eval = TRUE}
+```{r membership, eval = TRUE}
 readr::read_csv("data/membership.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
