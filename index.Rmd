@@ -55,8 +55,8 @@ readr::read_csv("data/education.csv") %>%
 
 # Professional Appointments
 
-```{r employment}
-readr::read_csv("data/working-experience.csv") %>%
+```{r academic-employment}
+readr::read_csv("data/academic-employment.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
@@ -148,6 +148,14 @@ readr::read_csv("data/award.csv") %>%
 ::: {#refs_extension}
 :::
 \endgroup
+
+# Research Experience
+
+```{r technician}
+readr::read_csv("data/research-experience.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
 
 # Teaching Experience
 
