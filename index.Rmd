@@ -194,7 +194,7 @@ readr::read_csv("data/service.csv") %>%
 ## Software
 
   * Statistical Software: R
-  * Office Software Packages: Microsoft Office, LibreOffice and Google Suites
+  * Office Software Packages: Microsoft Office/365, LibreOffice and Google Suites
   * GIS Software: R, QGIS, ArcGIS
 
 # Certifications
