@@ -21,7 +21,6 @@ csl: "csl/apa6-cv.csl"
 nocite: "@*"
 knit: bookdown::render_book
 bibliography_articles: "bib/articles.bib"
-bibliography_accepted: "bib/accepted.bib"
 bibliography_books: "bib/books.bib"
 bibliography_extension: "bib/extension_pubs.bib"
 bibliography_proceedings: "bib/proceedings.bib"
@@ -71,16 +70,6 @@ readr::read_csv("data/working-experience.csv") %>%
 \setlength{\leftskip}{0.5in}
 
 ::: {#refs_articles}
-:::
-\endgroup
-
-## Accepted Publications
-
-\begingroup
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
-
-::: {#refs_accepted}
 :::
 \endgroup
 
@@ -150,7 +139,7 @@ readr::read_csv("data/award.csv") %>%
 
 \endgroup
 
-# Community Outreach
+# Extension Community Outreach
 
 \begingroup
 \setlength{\parindent}{-0.5in}
@@ -159,6 +148,32 @@ readr::read_csv("data/award.csv") %>%
 ::: {#refs_extension}
 :::
 \endgroup
+
+# Teaching Experience
+
+## Classroom
+
+```{r classroom}
+readr::read_csv("data/teaching.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+## Workshops
+
+```{r workshops}
+readr::read_csv("data/workshop.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
+# Service
+
+```{r service, eval = TRUE}
+readr::read_csv("data/service.csv") %>%
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
 
 # Related Professional Skills
 
@@ -173,22 +188,6 @@ readr::read_csv("data/award.csv") %>%
   * Statistical Software: R
   * Office Software Packages: Microsoft Office, LibreOffice and Google Suites
   * GIS Software: R, QGIS, ArcGIS
-
-# Service
-
-```{r service, eval = TRUE}
-readr::read_csv("data/service.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(what, when, with, where, why)
-```
-
-# Workshops
-
-```{r workshops}
-readr::read_csv("data/workshop.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(what, when, with, where, why)
-```
 
 # Certifications
 
