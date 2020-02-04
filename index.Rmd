@@ -9,7 +9,7 @@ position: "Associate Professor"
 address: "University of Southern Queensland, Centre for Crop Health, West St., Toowoomba, Queensland 4350 AUS"
 phone: "+61 (4) 15489422"
 www: adamhsparks.com
-email: "adam.h.sparks@gmail.com"
+email: "adam.sparks@usq.edu.au"
 twitter: adamhsparks
 github: adamhsparks
 #linkedin: adamhsparks
