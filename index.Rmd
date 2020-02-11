@@ -139,7 +139,7 @@ readr::read_csv("data/award.csv") %>%
 
 \endgroup
 
-# Extension Community Outreach
+# Extension and Community Outreach
 
 \begingroup
 \setlength{\parindent}{-0.5in}
