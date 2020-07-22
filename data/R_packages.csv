@@ -1,0 +1,7 @@
+what,when,with,where,why
+CRAN,,Australian Bureau of Meteorology (BOM) weather data API Client for R,bomrang,
+CRAN,,Climate Hazards Group InfraRed Precipitation with Station Data (CHIRPS) API data client for R,chirps,
+CRAN,,University of East Anglia Climate Research Unit (CRU) climate data API client for R,getCRUCLdata,
+CRAN,,Global Surface Summary of the Day (GSOD) Weather Data API Client for R,GSODR,
+CRAN,,"Analysis of plant pathogen pathotype complexities, distributions and diversity in R",hagis,
+CRAN,,"NASA POWER Global Meteorology, Surface Solar Energy and Climatology Data API Client for R",nasapower,
