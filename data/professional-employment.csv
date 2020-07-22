@@ -1,5 +1,15 @@
 what,when,with,where,why
-Associate Professor of Field Crops Pathology,2016 – Current,University of Southern Queensland,"Toowoomba, Queensland, AUS",
-Scientist I Plant Disease Management Specialist,2012 – 2015,International Rice Research Institute (IRRI),"Los Baños, Laguna, PHL",
-Post-Doctoral Fellow,2011 – 2012,International Rice Research Institute (IRRI),"Los Baños, Laguna, PHL",
-Post-Doctoral Research Associate,2010 – 2010,Kansas State University,"Manhattan, Kansas, USA",
+Associate Professor of Field Crops Pathology,2016 – Current,University of Southern Queensland,"Toowoomba, Queensland, AUS",Lead research group in developing plant disease models to support the Australian grains and cotton industries
+,,,,"Lead research that contributes to the development of broadacre crop fungicide decision support system tools, e.g. PowderyMildewMBM"
+,,,,Act as project manager for research projects spanning across research organisations
+,,,,Develop R packages that provide access to Australian and global weather or climate data and to assist in plant pathology research
+,,,,Work with the UN’s FAO in a capacity building role to help build agrometeorology and pest and disease capabilities in Cambodia
+Scientist I Plant Disease Management Specialist,2012 – 2015,International Rice Research Institute (IRRI),"Los Baños, Laguna, PHL",Led research group in conducting research to reduce yield losses in tropical rice due to pests and diseases
+,,,,Used models to help evaluate impact and test rice crop management methodologies
+,,,,Acted as project manager for research projects spanning across research organisations and countries
+,,,,"Co-directed the development of a country-wide rice monitoring system, the Philippine Rice Information System (PRISM), which uses geospatial, cloud-hosted and mobile device technologies to gather digital information"
+,,,,Modelled the effects of climate change on rice diseases
+Post-Doctoral Fellow,2011 – 2012,International Rice Research Institute (IRRI),"Los Baños, Laguna, PHL",Linked plant disease models with geographic information systems to map model outputs for decision making
+,,,,Conducted in-field experiments to develop pest and disease management programs
+Post-Doctoral Research Associate,2010 – 2010,Kansas State University,"Manhattan, Kansas, USA",Used bootstrapping methods to refit logistic regression model coefficients for wheat Fusarium head blight models using new and expanded data sets
+,,,,Studied the use of ensemble models to predict wheat Fusarium head blight
