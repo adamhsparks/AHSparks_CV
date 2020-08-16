@@ -25,6 +25,7 @@ bibliography_books: "bib/books.bib"
 bibliography_extension: "bib/extension_pubs.bib"
 bibliography_proceedings: "bib/proceedings.bib"
 bibliography_reports: "bib/reports.bib"
+bibliography_preprints: "bib/preprints.bib"
 ---
 
 ```{r setup, include=FALSE, cache = FALSE}
@@ -70,6 +71,15 @@ readr::read_csv("data/professional-employment.csv") %>%
 \setlength{\leftskip}{0.5in}
 
 ::: {#refs_articles}
+:::
+\endgroup
+
+## Preprints
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+::: {#refs_preprints}
 :::
 \endgroup
 
@@ -188,7 +198,7 @@ readr::read_csv("data/service.csv") %>%
 ## Programming Abilities
 
   * Programming: R (author and maintain packages on CRAN)
-  * Operating System: Unix/Linux (install and maintain Linux)
+  * Operating System: macOS, Unix/Linux (install and maintain Linux)
   * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
 
 ## Software
