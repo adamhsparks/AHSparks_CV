@@ -1,3 +1,5 @@
+Sparks, A. (2020). *Flashback 2014: Using R at IRRI.* Invited presentation delivered at "RUG-PH Seventh Anniversary" held via Zoom.
+
 Sparks, A. (2019). *The Impact of Plant Pathology on the Global Economy.* Invited presentation delivered at the "IX Symposium on Updates in Phytopathology" held in Viçosa, Minas Gerais, BRA.
 
 Sparks, A. (2019). *Delivering and Supporting Open Science Practices Through Open Plant Pathology.* Invited presentation delivered at the October 2019 Queensland Chapter APPS Seminar Series, held in Toowoomba, Queensland, AUS.
