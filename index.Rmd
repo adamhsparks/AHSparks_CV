@@ -5,11 +5,11 @@ name: Adam H.
 surname: Sparks
 headcolor: 414141
 #qualifications: 
-position: "Associate Professor"
-address: "University of Southern Queensland, Centre for Crop Health, West St., Toowoomba, Queensland 4350 AUS"
+position: "Senior Research Scientist, Bioeconomic Modeller"
+address: "State of Western Australia, Department of Primary Industries and Regional Development, 3 Baron-Hay Court South Perth WA"
 phone: "+61 (4) 15489422"
 www: adamhsparks.com
-email: "adam.sparks@usq.edu.au"
+email: "adam.sparks@dpird.wa.gov.au"
 twitter: adamhsparks
 github: adamhsparks
 #linkedin: adamhsparks
