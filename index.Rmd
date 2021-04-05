@@ -1,12 +1,11 @@
 ---
-#citeproc: yes
 graphics: yes
 name: Adam H.
 surname: Sparks
 headcolor: 414141
 #qualifications: 
 position: "Senior Research Scientist, Bioeconomic Modeller"
-address: "State of Western Australia, Department of Primary Industries and Regional Development, 3 Baron-Hay Court South Perth WA"
+address: "State of Western Australia, Department of Primary Industries and Regional Development, Level 5, 1 Nash St., Perth WA, 6000"
 phone: "+61 (4) 15489422"
 www: adamhsparks.com
 email: "adam.sparks@dpird.wa.gov.au"
@@ -46,6 +45,17 @@ RefManageR::BibOptions(
 )
 ```
 
+# Professional Experience
+
+```{r professional-employment}
+x <- readr::read_csv("data/professional-employment.csv")
+y <- readr::read_csv("data/research-experience.csv")
+
+dplyr::bind_rows(x, y) %>% 
+  tidyr::fill(-why) %>%
+  vitae::detailed_entries(what, when, with, where, why)
+```
+
 # Education and Qualifications
 
 ```{r education}
@@ -54,13 +64,20 @@ readr::read_csv("data/education.csv") %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
 
-# Professional Appointments
+# Related Professional Skills
 
-```{r professional-employment}
-readr::read_csv("data/professional-employment.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(what, when, with, where, why)
-```
+## Programming Abilities
+
+  * Programming: R (author and maintain packages on CRAN)
+  * Operating System: macOS, Unix/Linux (install and maintain Linux)
+  * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
+
+## Software
+
+  * Statistical Software: R
+  * Office Software Packages: Microsoft Office/365, LibreOffice and Google Suites
+  * GIS Software: R, QGIS, ArcGIS
+
 
 # Publications
 
@@ -159,14 +176,6 @@ readr::read_csv("data/award.csv") %>%
 :::
 \endgroup
 
-# Research Experience
-
-```{r technician}
-readr::read_csv("data/research-experience.csv") %>%
-  tidyr::fill(-why) %>%
-  vitae::detailed_entries(what, when, with, where, why)
-```
-
 # Teaching Experience
 
 ## Classroom
@@ -192,20 +201,6 @@ readr::read_csv("data/service.csv") %>%
   tidyr::fill(-why) %>%
   vitae::detailed_entries(what, when, with, where, why)
 ```
-
-# Related Professional Skills
-
-## Programming Abilities
-
-  * Programming: R (author and maintain packages on CRAN)
-  * Operating System: macOS, Unix/Linux (install and maintain Linux)
-  * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
-
-## Software
-
-  * Statistical Software: R
-  * Office Software Packages: Microsoft Office/365, LibreOffice and Google Suites
-  * GIS Software: R, QGIS, ArcGIS
 
 # Certifications
 
