@@ -70,7 +70,7 @@ readr::read_csv("data/education.csv") %>%
 
   * Programming: R (author and maintain packages on CRAN)
   * Operating System: macOS, Unix/Linux (install and maintain Linux)
-  * Others: Git, Docker, Travis CI, LaTeX, Markdown and RMarkdown
+  * Others: Git, Docker, LaTeX, Markdown and RMarkdown
 
 ## Software
 
